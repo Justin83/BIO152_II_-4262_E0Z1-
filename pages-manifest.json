@@ -2,11 +2,10 @@
   "repo": "Justin83/BIO152_II_-4262_E0Z1-",
   "pagesBase": "https://justin83.github.io/BIO152_II_-4262_E0Z1-",
   "pages": [
-    {"name":"Course Home","path":"index.html","version":"1.0","module":null,"category":"course-home","data":"static","status":"ready","description":"Internal index page — not for Blackboard"},
+    {"name":"Course Home","path":"index.html","version":"1.0","module":null,"category":"course-home","data":"static","status":"ready","description":"Internal index page - not for Blackboard"},
     {"name":"About This Course","path":"pages/start-here/about-this-course.html","version":"1.0","module":null,"category":"start-here","data":"static","status":"ready","description":"Course intro page for the Start Here module"},
     {"name":"Course Outline","path":"pages/course-outline/course-outline.html","version":"1.0","module":null,"category":"course-outline","data":"static","status":"ready","description":"Course outline and master schedule"},
     {"name":"Daily Course Schedule","path":"pages/course-outline/course-outline-daily.html","version":"1.0","module":null,"category":"course-outline","data":"static","status":"ready","description":"Full semester daily schedule"},
-    {"name":"Syllabus (Clean)","path":"pages/syllabus/syllabus-clean-logo-layout-lite.html","version":"1.0","module":null,"category":"syllabus","data":"static","status":"ready","description":"Clean lite syllabus layout with logo"},
     {"name":"Syllabus","path":"pages/syllabus/syllabus.html","version":"1.0","module":null,"category":"syllabus","data":"static","status":"ready","description":"Full course syllabus"},
     {"name":"Week 1 Overview","path":"pages/modules/module-1.html","version":"1.0","module":1,"category":"module-overview","data":"static","status":"ready","description":"Week 1: Start Here, Evolution & Speciation"},
     {"name":"Week 2 Overview","path":"pages/modules/module-2.html","version":"1.0","module":2,"category":"module-overview","data":"static","status":"ready","description":"Week 2: Systematics, Phylogeny & Early Life Diversity"},
@@ -16,6 +15,6 @@
     {"name":"Week 6 Overview","path":"pages/modules/module-6.html","version":"1.0","module":6,"category":"module-overview","data":"static","status":"ready","description":"Week 6: Behavior & Population Ecology"},
     {"name":"Week 7 Overview","path":"pages/modules/module-7.html","version":"1.0","module":7,"category":"module-overview","data":"static","status":"ready","description":"Week 7: Communities & Ecosystem Dynamics"},
     {"name":"Week 8 Overview","path":"pages/modules/module-8.html","version":"1.0","module":8,"category":"module-overview","data":"static","status":"ready","description":"Week 8: Ecology Exam & Course Wrap-Up"},
-    {"name":"Asset Test","path":"pages/test/asset-test.html","version":"1.0","module":null,"category":"test","data":"static","status":"draft","description":"Internal asset/style test page — not for Blackboard"}
+    {"name":"Asset Test","path":"pages/test/asset-test.html","version":"1.0","module":null,"category":"test","data":"static","status":"draft","description":"Internal asset/style test page - not for Blackboard"}
   ]
 }
