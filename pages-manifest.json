@@ -10,7 +10,17 @@
       "category": "course-home",
       "data": "static",
       "status": "ready",
-      "description": "Internal index page \u2014 not for Blackboard"
+      "description": "Internal index page — not for Blackboard"
+    },
+    {
+      "name": "About This Course",
+      "path": "pages/start-here/about-this-course.html",
+      "version": "1.0",
+      "module": null,
+      "category": "start-here",
+      "data": "static",
+      "status": "ready",
+      "description": "Course intro page for the Start Here module"
     },
     {
       "name": "Course Outline",
@@ -60,7 +70,7 @@
       "category": "module-overview",
       "data": "static",
       "status": "ready",
-      "description": "Module 1 overview page (title TBD)"
+      "description": "BIO152-W1: Start Here & Evolution (June 15–22)"
     },
     {
       "name": "Module 2 Overview",
@@ -70,7 +80,7 @@
       "category": "module-overview",
       "data": "static",
       "status": "ready",
-      "description": "Module 2 overview page (title TBD)"
+      "description": "BIO152-W2: Taxonomy & Exam 1 (June 22–29)"
     },
     {
       "name": "Module 3 Overview",
@@ -80,7 +90,7 @@
       "category": "module-overview",
       "data": "static",
       "status": "ready",
-      "description": "Module 3 overview page (title TBD)"
+      "description": "BIO152-W3: Protists, Plants & Exam 2 (June 29 – July 6)"
     },
     {
       "name": "Module 4 Overview",
@@ -90,7 +100,7 @@
       "category": "module-overview",
       "data": "static",
       "status": "ready",
-      "description": "Module 4 overview page (title TBD)"
+      "description": "BIO152-W4: Fungi & Animal Diversity (July 6–13)"
     },
     {
       "name": "Final Review & Exams",
@@ -100,7 +110,7 @@
       "category": "module-overview",
       "data": "static",
       "status": "ready",
-      "description": "Review for Final & Final Exams overview page"
+      "description": "BIO152-FINAL: Final Week (Aug 3–7)"
     },
     {
       "name": "Asset Test",
@@ -110,7 +120,7 @@
       "category": "test",
       "data": "static",
       "status": "draft",
-      "description": "Internal asset/style test page \u2014 not for Blackboard"
+      "description": "Internal asset/style test page — not for Blackboard"
     }
   ]
 }
