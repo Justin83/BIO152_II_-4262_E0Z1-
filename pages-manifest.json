@@ -2,125 +2,20 @@
   "repo": "Justin83/BIO152_II_-4262_E0Z1-",
   "pagesBase": "https://justin83.github.io/BIO152_II_-4262_E0Z1-",
   "pages": [
-    {
-      "name": "Course Home",
-      "path": "index.html",
-      "version": "1.0",
-      "module": null,
-      "category": "course-home",
-      "data": "static",
-      "status": "ready",
-      "description": "Internal index page — not for Blackboard"
-    },
-    {
-      "name": "About This Course",
-      "path": "pages/start-here/about-this-course.html",
-      "version": "1.0",
-      "module": null,
-      "category": "start-here",
-      "data": "static",
-      "status": "ready",
-      "description": "Course intro page for the Start Here module"
-    },
-    {
-      "name": "Course Outline",
-      "path": "pages/course-outline/course-outline.html",
-      "version": "1.0",
-      "module": null,
-      "category": "course-outline",
-      "data": "static",
-      "status": "ready",
-      "description": "Course outline and master schedule"
-    },
-    {
-      "name": "Daily Course Schedule",
-      "path": "pages/course-outline/course-outline-daily.html",
-      "version": "1.0",
-      "module": null,
-      "category": "course-outline",
-      "data": "static",
-      "status": "ready",
-      "description": "Full semester daily schedule"
-    },
-    {
-      "name": "Syllabus (Clean)",
-      "path": "pages/syllabus/syllabus-clean-logo-layout-lite.html",
-      "version": "1.0",
-      "module": null,
-      "category": "syllabus",
-      "data": "static",
-      "status": "ready",
-      "description": "Clean lite syllabus layout with logo"
-    },
-    {
-      "name": "Syllabus",
-      "path": "pages/syllabus/syllabus.html",
-      "version": "1.0",
-      "module": null,
-      "category": "syllabus",
-      "data": "static",
-      "status": "ready",
-      "description": "Full course syllabus"
-    },
-    {
-      "name": "Module 1 Overview",
-      "path": "pages/modules/module-1.html",
-      "version": "1.0",
-      "module": 1,
-      "category": "module-overview",
-      "data": "static",
-      "status": "ready",
-      "description": "BIO152-W1: Start Here & Evolution (June 15–22)"
-    },
-    {
-      "name": "Module 2 Overview",
-      "path": "pages/modules/module-2.html",
-      "version": "1.0",
-      "module": 2,
-      "category": "module-overview",
-      "data": "static",
-      "status": "ready",
-      "description": "BIO152-W2: Taxonomy & Exam 1 (June 22–29)"
-    },
-    {
-      "name": "Module 3 Overview",
-      "path": "pages/modules/module-3.html",
-      "version": "1.0",
-      "module": 3,
-      "category": "module-overview",
-      "data": "static",
-      "status": "ready",
-      "description": "BIO152-W3: Protists, Plants & Exam 2 (June 29 – July 6)"
-    },
-    {
-      "name": "Module 4 Overview",
-      "path": "pages/modules/module-4.html",
-      "version": "1.0",
-      "module": 4,
-      "category": "module-overview",
-      "data": "static",
-      "status": "ready",
-      "description": "BIO152-W4: Fungi & Animal Diversity (July 6–13)"
-    },
-    {
-      "name": "Final Review & Exams",
-      "path": "pages/modules/module-final.html",
-      "version": "1.0",
-      "module": null,
-      "category": "module-overview",
-      "data": "static",
-      "status": "ready",
-      "description": "BIO152-FINAL: Final Week (Aug 3–7)"
-    },
-    {
-      "name": "Asset Test",
-      "path": "pages/test/asset-test.html",
-      "version": "1.0",
-      "module": null,
-      "category": "test",
-      "data": "static",
-      "status": "draft",
-      "description": "Internal asset/style test page — not for Blackboard"
-    }
+    {"name":"Course Home","path":"index.html","version":"1.0","module":null,"category":"course-home","data":"static","status":"ready","description":"Internal index page — not for Blackboard"},
+    {"name":"About This Course","path":"pages/start-here/about-this-course.html","version":"1.0","module":null,"category":"start-here","data":"static","status":"ready","description":"Course intro page for the Start Here module"},
+    {"name":"Course Outline","path":"pages/course-outline/course-outline.html","version":"1.0","module":null,"category":"course-outline","data":"static","status":"ready","description":"Course outline and master schedule"},
+    {"name":"Daily Course Schedule","path":"pages/course-outline/course-outline-daily.html","version":"1.0","module":null,"category":"course-outline","data":"static","status":"ready","description":"Full semester daily schedule"},
+    {"name":"Syllabus (Clean)","path":"pages/syllabus/syllabus-clean-logo-layout-lite.html","version":"1.0","module":null,"category":"syllabus","data":"static","status":"ready","description":"Clean lite syllabus layout with logo"},
+    {"name":"Syllabus","path":"pages/syllabus/syllabus.html","version":"1.0","module":null,"category":"syllabus","data":"static","status":"ready","description":"Full course syllabus"},
+    {"name":"Week 1 Overview","path":"pages/modules/module-1.html","version":"1.0","module":1,"category":"module-overview","data":"static","status":"ready","description":"Week 1: Start Here, Evolution & Speciation"},
+    {"name":"Week 2 Overview","path":"pages/modules/module-2.html","version":"1.0","module":2,"category":"module-overview","data":"static","status":"ready","description":"Week 2: Systematics, Phylogeny & Early Life Diversity"},
+    {"name":"Week 3 Overview","path":"pages/modules/module-3.html","version":"1.0","module":3,"category":"module-overview","data":"static","status":"ready","description":"Week 3: Protists & Plant Origins"},
+    {"name":"Week 4 Overview","path":"pages/modules/module-4.html","version":"1.0","module":4,"category":"module-overview","data":"static","status":"ready","description":"Week 4: Plant Form, Fungi & Exam 2"},
+    {"name":"Week 5 Overview","path":"pages/modules/module-5.html","version":"1.0","module":5,"category":"module-overview","data":"static","status":"ready","description":"Week 5: Animal Diversity, Body Plans & Exam 3"},
+    {"name":"Week 6 Overview","path":"pages/modules/module-6.html","version":"1.0","module":6,"category":"module-overview","data":"static","status":"ready","description":"Week 6: Behavior & Population Ecology"},
+    {"name":"Week 7 Overview","path":"pages/modules/module-7.html","version":"1.0","module":7,"category":"module-overview","data":"static","status":"ready","description":"Week 7: Communities & Ecosystem Dynamics"},
+    {"name":"Week 8 Overview","path":"pages/modules/module-8.html","version":"1.0","module":8,"category":"module-overview","data":"static","status":"ready","description":"Week 8: Ecology Exam & Course Wrap-Up"},
+    {"name":"Asset Test","path":"pages/test/asset-test.html","version":"1.0","module":null,"category":"test","data":"static","status":"draft","description":"Internal asset/style test page — not for Blackboard"}
   ]
 }
