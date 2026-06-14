@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About This Course — BIO 152: Principles of Biology II</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --accent: #2e7d32;
+      --accent-light: #e8f5e9;
+      --gold: #c69214;
+      --ink: #1a2d1b;
+      --muted: #4a6050;
+      --line: #c5d8c6;
+      --paper: #ffffff;
+      --soft: #f1f8f1;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: #edf4ee;
+      color: var(--ink);
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.62;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .page { max-width: 1000px; margin: auto; padding: 24px; }
+
+    .doc {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      box-shadow: 0 8px 24px rgba(46, 125, 50, .07);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .titlebar {
+      display: flex;
+      align-items: stretch;
+      border-bottom: 1px solid var(--line);
+      background: #ffffff;
+    }
+
+    .titlebar-accent {
+      width: 6px;
+      background: var(--accent);
+      flex-shrink: 0;
+    }
+
+    .titlebar-content { padding: 20px 26px; flex: 1; }
+
+    .eyebrow {
+      color: var(--gold);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-size: .67rem;
+      margin-bottom: 5px;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      color: var(--accent);
+      font-size: 1.75rem;
+      font-weight: 700;
+      line-height: 1.15;
+    }
+
+    .meta { color: var(--muted); font-size: .88rem; font-weight: 600; }
+
+    .section { padding: 22px 30px; border-top: 1px solid var(--line); }
+    .section:first-of-type { border-top: none; }
+
+    h2 {
+      font-size: .65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      color: var(--muted);
+      margin: 0 0 10px;
+    }
+
+    h3 { color: var(--accent); margin: 16px 0 8px; font-size: 1.05rem; }
+
+    p { margin: 0 0 12px; }
+    p:last-child { margin-bottom: 0; }
+
+    ul { margin: 8px 0 0 1.25rem; padding: 0; }
+    li { margin: 7px 0; }
+
+    .callout {
+      border-left: 6px solid var(--accent);
+      background: var(--accent-light);
+      border-radius: 8px;
+      padding: 16px 18px;
+      margin-top: 14px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+    }
+
+    .card {
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+    }
+
+    .card b { display: block; color: var(--accent); margin-bottom: 4px; }
+
+    .flow {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+      max-width: 430px;
+      margin: 8px auto 2px;
+      text-align: center;
+    }
+
+    .flowbox {
+      background: var(--accent);
+      color: #fff;
+      border-radius: 16px;
+      padding: 18px;
+      font-weight: 900;
+      font-size: 1.25rem;
+    }
+
+    .flowarrow { color: var(--accent); font-size: 1.55rem; font-weight: 900; line-height: 1; }
+
+    .module-map {
+      display: grid;
+      grid-template-columns: 150px 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+
+    .module-label {
+      background: var(--accent);
+      color: #fff;
+      border-radius: 16px;
+      padding: 28px 14px;
+      text-align: center;
+      font-weight: 900;
+      font-size: 1.35rem;
+    }
+
+    .module-stack { display: grid; gap: 9px; }
+
+    .module-item {
+      background: var(--soft);
+      border: 1px solid var(--line);
+      border-left: 6px solid var(--accent);
+      border-radius: 10px;
+      padding: 10px 12px;
+    }
+
+    .module-item b { color: var(--accent); }
+
+    .footer { text-align: center; color: var(--muted); font-size: .9rem; margin: 20px 0; }
+
+    @media (max-width: 720px) {
+      .page { padding: 14px; }
+      .grid, .module-map { grid-template-columns: 1fr; }
+      h1 { font-size: 1.5rem; }
+      .section { padding: 20px; }
+      .module-label { padding: 18px 14px; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <main class="doc">
+      <header class="titlebar">
+        <div class="titlebar-accent"></div>
+        <div class="titlebar-content">
+          <div class="eyebrow">Start Here &middot; BIO 152 Summer 2026</div>
+          <h1>About This Course</h1>
+          <div class="meta">Course navigation, organization, tools, and communication</div>
+        </div>
+      </header>
+
+      <section class="section">
+        <h2>Introduction</h2>
+        <p>Welcome to BIO 152: Principles of Biology II. This online course presents knowledge of organismal, population, and community biology. It is the second semester in the BIO 150/BIO 152 two-semester sequence.</p>
+        <p>In this section, you will learn how the course is organized, how to navigate Blackboard, and how to reach me. You will also review key course tools and communication expectations.</p>
+
+        <div class="callout">
+          <p><strong>Why it matters:</strong> This section covers the essential course information you will use from day one.</p>
+          <p><strong>How you will use this:</strong> You will use this information to navigate the course, locate assignments, and submit your work on time.</p>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Course at a Glance</h2>
+        <div class="grid">
+          <div class="card">
+            <b>Course</b>
+            BIO 152 &mdash; Principles of Biology II
+          </div>
+          <div class="card">
+            <b>Term</b>
+            Summer 2026 &middot; June 15 &ndash; August 7, 2026
+          </div>
+          <div class="card">
+            <b>Section / Class #</b>
+            Section E0Z1 &middot; Class #2805
+          </div>
+          <div class="card">
+            <b>Delivery</b>
+            Online &middot; 3 Credit Hours
+          </div>
+          <div class="card">
+            <b>Instructor</b>
+            Justin Howard &middot; justin.howard@kctcs.edu
+          </div>
+          <div class="card">
+            <b>Prerequisite</b>
+            BIO 150 or consent of instructor
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Course Navigation Dashboard</h2>
+        <p>At the top of the page in Blackboard, you will see the course navigation dashboard. Use this area to move between the major tools and sections of the course.</p>
+
+        <div class="grid">
+          <div class="card">
+            <b>Content</b>
+            Find course materials, module pages, assignments, labs, exams, and resources.
+          </div>
+          <div class="card">
+            <b>Calendar</b>
+            View course schedules, assignment due dates, and upcoming deadlines.
+          </div>
+          <div class="card">
+            <b>Discussions</b>
+            Participate in course-related conversations and engage with classmates and the instructor.
+          </div>
+          <div class="card">
+            <b>Gradebook</b>
+            View your grades, track your performance, and access feedback for completed coursework.
+          </div>
+          <div class="card">
+            <b>Messages</b>
+            Use Blackboard Messages to contact me. This is the primary communication method for the course.
+          </div>
+          <div class="card">
+            <b>Groups</b>
+            Access group tools if they are used for a course activity.
+          </div>
+        </div>
+
+        <h3>Right-side menu</h3>
+        <div class="grid">
+          <div class="card">
+            <b>Class Roster</b>
+            View classmates and instructors connected to the course.
+          </div>
+          <div class="card">
+            <b>Progress Tracking</b>
+            Monitor your completion status for course materials so you can stay organized and on track.
+          </div>
+          <div class="card">
+            <b>Microsoft Teams</b>
+            Access live video conferencing and screen sharing when you need help with an assignment or course tool.
+          </div>
+          <div class="card">
+            <b>Books &amp; Tools</b>
+            Access textbook materials, McGraw Hill Connect, and other integrated course tools.
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Course Organization</h2>
+        <p>This course begins with a <strong>Start Here</strong> section containing important course information. Next, there are <strong>seven weekly modules</strong> (W1&ndash;W7) making up the majority of the coursework, covering organismal, population, and community biology. The course concludes with a <strong>Final Week</strong> section.</p>
+
+        <div class="flow" aria-label="Course organization flow">
+          <div class="flowbox">Start Here</div>
+          <div class="flowarrow">&#8595;</div>
+          <div class="flowbox">Weekly Modules (W1 &ndash; W7)</div>
+          <div class="flowarrow">&#8595;</div>
+          <div class="flowbox">Final Week</div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Weekly Module Schedule</h2>
+        <p>The course is organized into seven weekly modules. Each module corresponds to a specific set of topics and has its own due dates.</p>
+
+        <div class="module-map">
+          <div class="module-label">Weekly Module</div>
+          <div class="module-stack">
+            <div class="module-item"><b>BIO152-W1</b> &mdash; Week 1: Start Here &amp; Evolution &middot; June 15&ndash;22</div>
+            <div class="module-item"><b>BIO152-W2</b> &mdash; Week 2: Taxonomy &amp; Exam 1 &middot; June 22&ndash;29</div>
+            <div class="module-item"><b>BIO152-W3</b> &mdash; Week 3: Protists, Plants &amp; Exam 2 &middot; June 29 &ndash; July 6</div>
+            <div class="module-item"><b>BIO152-W4</b> &mdash; Week 4: Fungi &amp; Animal Diversity &middot; July 6&ndash;13</div>
+            <div class="module-item"><b>BIO152-W5</b> &mdash; Week 5: Animal Phyla, Regulation &amp; Exam 3 &middot; July 13&ndash;20</div>
+            <div class="module-item"><b>BIO152-W6</b> &mdash; Week 6: Ecology &mdash; Behavior &amp; Populations &middot; July 20&ndash;27</div>
+            <div class="module-item"><b>BIO152-W7</b> &mdash; Week 7: Community/Ecosystem &amp; Exam 4 &middot; July 27 &ndash; Aug 3</div>
+            <div class="module-item"><b>BIO152-FINAL</b> &mdash; Final Week &middot; Aug 3&ndash;7</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Finding Work in the Class</h2>
+        <p>Once you open a module, move through the pages in order by selecting the arrow on the right side of the module page. You can also use the arrow on the left to return to a previous page.</p>
+        <p><strong>Each module includes information and activities</strong> that help you reach the week's objectives. It is important to go through each page in a module because many pages explain an assignment before you complete it. Do not skip directly to the graded activities.</p>
+        <p>You are required to access all course materials through Blackboard. Begin and end all assignments in Blackboard. Many assignments will transfer you to McGraw Hill Connect &mdash; when you finish, choose the option to return to Blackboard so your grades transfer properly.</p>
+      </section>
+
+      <section class="section">
+        <h2>Course Tools</h2>
+        <div class="grid">
+          <div class="card">
+            <b>Blackboard Messages</b>
+            Primary communication method. Use this for all course questions, grade inquiries, and personal matters.
+          </div>
+          <div class="card">
+            <b>Microsoft Teams</b>
+            Live video conferencing and screen sharing for virtual office hours and live help sessions.
+          </div>
+          <div class="card">
+            <b>McGraw Hill Connect</b>
+            SmartBook reading assignments, quantitative literacy assignments, and all course exams.
+          </div>
+          <div class="card">
+            <b>Textbook (Digital)</b>
+            Included through Blackboard as part of your tuition and fees. No separate purchase needed for the e-text.
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Next Step</h2>
+        <div class="callout">
+          <p><strong>Next up, review the course syllabus and course outline.</strong></p>
+        </div>
+      </section>
+    </main>
+    <p class="footer">BIO 152 Principles of Biology II &middot; Summer 2026 &middot; About This Course</p>
+  </div>
+</body>
+</html>
