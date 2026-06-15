@@ -1,0 +1,162 @@
+THE PHYLOGENETIC TREE OF ANOLE LIZARDS
+HHMI BioInteractive Video
+BIO 152 · Module 2 · Chapter 23: Systematics, Phylogenies, and Comparative Biology
+
+Cleaned, readable transcript. Section headings and time markings match the
+chapter list on the course "Watch & Study" page. Filler words and repeated
+phrases have been lightly edited for readability; wording otherwise follows
+the video.
+
+--------------------------------------------------------------------------
+
+[00:00] SO MANY SPECIES: THE ANOLE QUESTION
+
+The diversity of animals on our planet is breathtaking — millions of species
+adapted to all kinds of habitats. Ever since Darwin, understanding how so many
+species evolved has been a major quest of biology, and of biologists like
+Jonathan Losos. In the Caribbean, he's studying a remarkable group of lizards,
+finding clues to their origins in their bodies, their lifestyles, and in their
+DNA. These lizards are providing fresh insight into both how new species form
+and why our world is filled with so many creatures.
+
+[01:19] MEET THE ANOLES: DIVIDING UP THE HABITAT
+
+Here in Puerto Rico, Jonathan is stalking lizards called anoles; with almost
+30 years of practice, he's a pro at catching them. Puerto Rico's anoles all
+feed on similar food — mostly small prey like spiders and crickets — but they
+divide up their habitats in a clever way. The long-tailed, slender grass-bush
+anole lives in grasses and bushes. On the low parts of tree trunks and on the
+ground, a longer-legged, stockier trunk-ground anole forages. On twigs and
+small branches we find very small, short-legged twig anoles. And high up in the
+canopy lives a large green lizard with big toe pads. Like apartment dwellers,
+each species lives in a different vertical space — and each "floor" offers
+unique evolutionary opportunities to its inhabitants.
+
+[03:23] ARE THE TRAITS ADAPTATIONS? LEG LENGTH AND SPEED
+
+The fact that lizards differ in leg length and toe-pad size depending on where
+they live suggests these traits are adaptations to their habitats. To test
+that, the team compared the running ability of two lizards — one with long
+legs, one with short. The ground lizard is a sprinter: she lives at the bottom
+of trees in the open and has to run down quickly to catch prey. The
+shorter-legged twig lizard is not nearly as fast, which seems like a
+disadvantage. So why aren't its legs longer? On a thin branch, the twig lizard
+scurries along comfortably like a balance beam; instead of speed, its legs
+provide a firm grasp. Put the long-legged sprinter on the same narrow stick and
+she's ungainly — her legs are too long. On twigs, long legs only increase the
+chance of falling. So ground lizards evolved long legs and twig lizards short
+ones, each enabling their lifestyle.
+
+[05:34] CLIMBING LEAVES: TOE PAD SIZE
+
+Next, the team compared how well two species climb the slick surfaces of
+leaves. Anoles have different-sized toe pads on their feet. The ground lizard
+can barely hang on. But the big canopy lizard — despite his weight — climbs
+easily, using microscopic hairs on his toe pads to bond with the surface. Even
+for his size, he has particularly large toe pads. That's an adaptation, because
+he cannot afford to fall out of the canopy.
+
+[06:54] WATCHING EVOLUTION HAPPEN: THE ISLAND EXPERIMENT
+
+But how do these adaptations arise? Jonathan and his colleagues wanted to see
+if they could actually observe the lizards' traits evolve. Their inspiration
+was the rapidly changing environment of some of the smallest Caribbean islands,
+where hurricanes occasionally swamp the land and scrub it free of lizards. The
+team realized they could use these depleted islands as laboratories. They
+captured tree-dwelling anoles on a larger island, then visited seven
+hurricane-cleared islands and placed a female and male anole on each. These
+islands have no trees, only small bushes — so how would long-legged lizards
+fare on thin branches? The next year, the scientists returned and found the
+mating pairs had not only survived but reproduced, and the new populations had
+taken to living on thin branches. Each time they found a lizard, they measured
+how high it was off the ground, the diameter of its perch, and its posture;
+back at the field lab, they x-rayed the lizards to measure leg length precisely
+and scanned their toe pads, then returned each animal to the exact spot. A year
+later they came back and discovered the average lizard leg had shortened in
+just two generations. Over four years, the populations got shorter and shorter
+legs. Evolution can occur very rapidly when natural selection is strong.
+
+[10:05] FROM ADAPTATION TO SPECIATION: REPRODUCTIVE ISOLATION
+
+Adaptations like these explain how different body types evolve, but they do not
+explain how new anole species arise. It's changes in other traits that play a
+key role in speciation. Two groups of animals are defined as different species
+when individuals from one group don't mate and reproduce with those from the
+other. So for a population to become a new species, something has to prevent
+its members from breeding with closely related populations — this is called
+reproductive isolation. One way a species can split in two is for populations
+to separate geographically; over many generations they undergo enough change in
+their respective habitats that, if and when they come back together, they don't
+mate.
+
+[11:01] DEWLAPS: THE SIGNAL THAT SPLITS SPECIES
+
+So what kind of changes keep anoles from mating? Anoles have a flap of skin
+under their throats called a dewlap, which males display to attract females —
+and remarkably, every species in the same area has a different dewlap. So a
+change in a dewlap is a critical step in forming new anole species. Why would
+dewlap colors change? Consider a grass lizard living in a relatively dark
+forest: its dewlap is light-colored. Now suppose a population ends up in a much
+more open, sunnier area, where a light dewlap isn't very effective. Over time
+the population would evolve by natural selection to have a darker dewlap, much
+more visible in open habitat. If those two populations later come together, the
+females would no longer recognize the males as the same species; they wouldn't
+mate — they'd be reproductively isolated. There's a simple connection between
+changes within populations (microevolution) and the formation of new species
+(macroevolution): when changes within populations include traits involved in
+mating, like dewlap color, the stage is set for new species.
+
+[12:41] COMPETITION AND FILLING THE HABITATS
+
+Once new species have formed, competition drives the evolution of different
+body types. Species living in the same area compete for resources. But if
+members of one species move into another habitat, they can use resources
+unavailable to the others. Over many generations, natural selection favors
+traits that let species occupy different habitats — the process that produced
+the body types we see in Puerto Rico.
+
+[13:35] THE SAME BODY TYPES ON EVERY ISLAND
+
+And not just there. On each of the Caribbean's four largest islands — Puerto
+Rico, Jamaica, Cuba, and Hispaniola — we find the same distribution of
+similar-looking lizards. You'd think the lizards on different islands would look
+different, but each island has the same basic body types: slender, long-tailed
+grass-bush anoles; long-legged trunk-ground anoles; short-legged twig anoles;
+and canopy anoles with large toe pads.
+
+[14:30] BUILDING THE PHYLOGENETIC TREE FROM DNA
+
+How did each island end up with the same body types? Did each type evolve once
+and then spread to the other islands, or did each type evolve independently on
+each island? To find out, Jonathan and his colleagues sequenced the DNA of
+anoles from each island, examining the same stretch of DNA from many species to
+uncover their evolutionary relationships. Species that are closely related have
+few differences in their DNA — two species might differ at only one base pair —
+while a species that diverged long ago has many differences. After determining
+which two species were most closely related, the team joined them with a node
+representing a common ancestor, then joined those to the next most closely
+related, and so on, until all the lizards were united in a phylogenetic tree.
+
+[15:31] THE ANSWER: INDEPENDENT (CONVERGENT) EVOLUTION
+
+The DNA revealed that lizards on each island tend to be more closely related to
+one another than to similar-looking lizards on other islands. That means the
+same types of lizards generally evolved independently on each island. On all
+the large Caribbean islands, the same traits — body color, limb length, toe-pad
+size — have evolved again and again.
+
+[16:16] WHY EARTH HAS SO MANY SPECIES
+
+This repeated filling of habitats on each island illustrates why our planet has
+so many species: there are so many habitats, and each provides numerous ways to
+survive. In the Serengeti, zebras eat the tallest, coarsest grass, wildebeest
+the medium-height grass, and Thompson's gazelles the shortest. In the
+Galápagos, some finches primarily eat seeds on the ground and others insects in
+the trees. Look around you — in your backyard or around the world — and you'll
+find so many different environments, each full of creatures making a living in a
+different way.
+
+--------------------------------------------------------------------------
+Source video: The Phylogenetic Tree of Anole Lizards — HHMI BioInteractive
+(https://www.youtube.com/watch?v=rdZOwyDbyL0)
+Transcript prepared for BIO 152, Summer 2026.
