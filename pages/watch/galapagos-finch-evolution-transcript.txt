@@ -1,0 +1,155 @@
+GALÁPAGOS FINCH EVOLUTION
+HHMI BioInteractive Video
+BIO 152 · Module 1 · Chapter 22: The Origin of Species
+
+Cleaned, readable transcript. Section headings and time markings match the
+chapter list on the course "Watch & Study" page. Filler words and repeated
+phrases have been lightly edited for readability; wording otherwise follows
+the video.
+
+--------------------------------------------------------------------------
+
+[00:00] THE MYSTERY OF HOW SPECIES FORM
+
+Our planet has millions of species — over 300,000 beetles alone, 17,000
+butterflies, thousands of mammals, fish, and birds, all astonishingly
+different. How did so many species come to be? To seek insights into that
+question, researchers are focusing on places where species recently arose,
+such as the remote Galápagos Islands. Scientists are making observations and
+conducting experiments that would have surprised Charles Darwin, and they are
+discovering new insights into what the great naturalist called the "mystery
+of mysteries": how new species form.
+
+[01:21] THE GALÁPAGOS AND THE GRANTS' FORTY-YEAR STUDY
+
+The Galápagos Islands are one of the most spectacular landscapes in the
+world, home to a variety of species that live nowhere else. Biologists Peter
+and Rosemary Grant have been seeking answers to how species arise by focusing
+on one of the smaller islands, called Daphne Major. "When we started out, we
+had no plan for the long term. In fact, we thought it was just going to be a
+few years, maybe two years." Two years turned into a 40-year odyssey. The
+Grants have returned every summer since 1973. Here they have made some of the
+most remarkable observations in the history of field research as they studied
+the famed Galápagos finches.
+
+[02:31] THIRTEEN FINCHES: BEAKS AS TOOLS
+
+The finches were first brought to scientists' attention by Charles Darwin,
+when his voyage around South America brought him to this cluster of islands
+600 miles from mainland Ecuador. These volcanic islands are geologically
+young; they began rising from the ocean floor less than 5 million years ago.
+At first devoid of life, they now support a modest number of species — among
+them, 13 species of finches found in various combinations on the different
+islands. The islands differ in size, topography, and height. Larger trees
+grow at higher elevations, while low islands have mostly cactus, grasses, and
+shrubs. In these diverse habitats, the finches have evolved many ways to
+survive. The little warbler finch, with its very fine, needle-like beak, is
+perfect for picking off insects. The woodpecker finch has a more robust beak
+and concentrates on beetle and termite larvae. The cactus finch has a much
+longer, sharp-pointed beak that probes into cactus flowers. And there are the
+large, medium, and small ground finches. The basic idea is that the beaks are
+tools — you need the right tool for the right job. The finches look so
+different that Darwin first mistook them for entirely unrelated kinds of
+birds.
+
+[04:54] ONE ANCESTOR: DNA EVIDENCE FOR COMMON DESCENT
+
+How did the Galápagos end up with so many species of finches? Different kinds
+of finches could have come from the mainland separately, or they could all
+have evolved out on the islands. We now know from DNA evidence that all of
+the finches are more closely related to each other than any one is to a
+species on the mainland. That tells us only one species arrived on the
+archipelago and diversified into the 13 species we see today. They all came
+from a single common ancestor. The question then becomes: how did one
+ancestral population give rise to many different species, each adapted to a
+different lifestyle?
+
+[06:09] MEASURING EVOLUTION: THE 1977 DROUGHT
+
+A crucial insight into how adaptation occurs came when the Grants focused on
+one species — the medium ground finch — on the island of Daphne Major. The
+small size of the island meant they could walk all over it and follow nearly
+every individual. They rose at 5:30 each morning to net the island's medium
+ground finches, measuring the size and shape of each bird's beak and its
+weight, and tagging them for identification. Year after year they returned,
+at times tracking over 1,000 finches. For each bird they knew how many times
+it bred, how many mates and offspring it had, and how many of those offspring
+survived long enough to breed. Over the first four years, little seemed to
+change. Then in 1977 a terrible drought began. Virtually no rain fell for the
+next 18 months, and the vegetation practically disappeared. Now the medium
+ground finches had to compete for scarce food. They started with small,
+medium, and large seeds, but as the small seeds became scarce, they had to
+turn increasingly to the large, hard seeds. Only birds with large beaks can
+crack open these woody, spiny fruits. The birds with the smallest beaks had
+the most trouble. That year, over 80% of the medium ground finches died.
+
+[09:00] NATURAL SELECTION SHIFTS BEAK SIZE
+
+When they inventoried the survivors, they discovered that one trait had made
+the greatest difference between life and death. Looking at the distribution
+of beak depths in the population, the larger the beak, the higher the
+likelihood of surviving the drought of 1977. When they looked at the
+offspring, they found an even greater surprise: the average beak depth was
+more than 4% larger than in the previous generation. Natural selection had
+changed the average beak size. "Could you ever have imagined measuring
+something like this on such a short timescale?" "When we started, the answer
+is no. We could not imagine we would be able to do it."
+
+[10:03] SELECTION REVERSES: EL NIÑO AND THE 1985 DROUGHT
+
+But was this a fluke, or are changes like this happening all the time? Five
+years later, in 1983, an unusually strong El Niño brought ten times more rain
+than normal, and the island was overrun by vines that covered even the
+cactus. The rains changed the vegetation, so that two years later, when
+drought struck again, larger seeds became scarce. Now the birds with larger
+beaks had difficulty picking up the more abundant small seeds produced by the
+vines. That year, many more finches with small beaks survived, and their
+offspring inherited smaller beaks. Selection had swung in the opposite
+direction, and evolution had occurred as a result. In an amazingly short
+time, the Grants had measured the evolution of beak size not once but twice —
+demonstrating that when birds encounter different environments, they change
+over a very short amount of time. Over millions of years, changes like these,
+occurring throughout the Galápagos, generated all sorts of beak sizes and
+shapes.
+
+[11:23] FROM ADAPTATION TO NEW SPECIES: SONG AND MATE CHOICE
+
+But that is only part of the story. How did finches with different beaks
+become distinct species? Species are defined as populations whose members do
+not interbreed. A typical scenario is that two populations become separated
+geographically and undergo enough change in their respective habitats that,
+if and when they come into contact again, they do not mate. So the Grants
+asked: what keeps different species of finches from mating? On any given
+island, the different species sing very different songs. To test whether
+songs keep the species apart, the Grants and their student Lorene Ratcliffe
+played each species' song through a loudspeaker. When they played the cactus
+finch song, the cactus finch came to the loudspeaker and the medium ground
+finch ignored it. The males only responded to songs of their own species. The
+Grants also looked at whether finches choose mates based on appearance,
+putting out stuffed female specimens. The male vigorously courted a female of
+his own species and ignored the other, courting only females of similar size
+and beak. Song and appearance both play a role in keeping different species
+from mating.
+
+[13:38] GEOGRAPHY AND ECOLOGY: HOW ONE SPECIES BECOMES MANY
+
+When populations of the same species are separated, changes in these traits
+set the stage for the formation of new species. The Grants have shown that
+both geography and ecology are keys to the evolution of the Galápagos
+finches. The most likely scenario is that about two million years ago a
+single finch population arrived from the mainland. When their descendants
+reached another island, they faced new conditions. As those isolated
+populations adapted, their traits changed. If the changes included traits
+involved in mating, and the populations came into contact again, they no
+longer mated — they had become distinct species. While unique to these
+remote islands, the history of the Galápagos finches offers a general insight
+into why the world is populated with so many species: the more diverse the
+environment, the more opportunities for evolutionary change to produce new
+species. Over 150 years after Darwin first recognized their significance,
+these unassuming birds still illuminate how the great diversity of life arose
+— and continues to evolve.
+
+--------------------------------------------------------------------------
+Source video: Galápagos Finch Evolution — HHMI BioInteractive
+(https://www.youtube.com/watch?v=mcM23M-CCog)
+Transcript prepared for BIO 152, Summer 2026.

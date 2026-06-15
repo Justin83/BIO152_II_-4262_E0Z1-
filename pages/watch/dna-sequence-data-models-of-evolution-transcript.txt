@@ -1,0 +1,204 @@
+BIOLOGICAL SYSTEMATICS: DNA SEQUENCE DATA AND MODELS OF EVOLUTION
+Presented by Justin Howard
+BIO 152 · Module 1 · Chapter 23: Systematics, Phylogenies, and Comparative Biology
+
+Cleaned, readable transcript. Section headings and time markings match the
+chapter list on the course "Watch & Study" page. Filler words and repeated
+phrases have been lightly edited for readability; wording otherwise follows
+the presentation.
+
+--------------------------------------------------------------------------
+
+[00:00] INTRODUCTION
+
+Good morning, everyone. My name is Justin Howard, and this is my second
+presentation from biosystematics, on DNA sequence data and DNA models of
+evolution. I will keep this concise — I have heavily edited out the ums and
+pauses to make it more brief and tolerable. This is a very interesting
+subject; I do not think I have studied anything more in my last two years at
+Western. It is almost more philosophical than biological, with a lot of
+complicated statistical theory and ideas about how we should count things in
+this field. It has been very interesting, very challenging, and I really
+enjoyed it.
+
+[00:48] ORGANIZING THE DATA EXPLOSION
+
+What I want to talk about today is, first, the challenges systematists faced
+before DNA information was available, and then the increased challenge of
+organizing this data as it became available. There has been an explosion as
+everyone started to sequence DNA and deposit it in different databanks. That
+posed challenges in how we analyze it, how we retrieve it, and how we
+interpret it within the context of a model of evolution.
+
+[01:23] TWO CAMPS: MORPHOLOGY VS. MOLECULAR DATA
+
+It seems like everybody always starts with a Darwin quote. This one caught my
+eye because Darwin seemed to be lamenting that he knew about evolutionary
+change and ancestry, but he was never going to actually see it happen — he
+could only observe life as it is at one moment in time. When he published his
+theory and people got on board, it caused real issues in how we classify
+things. Ultimately everyone split into two camps. Some argued that basing
+classification on morphological characteristics is subjective — based on
+opinion — whereas new DNA sequence information is more independent, objective,
+and repeatable, and so it should be the basis. We also had to decide what to
+do with the fossil record, which was a big part of updating relationships,
+divergences, and the rise of new species. I believe the consensus today is to
+use all of that information and combine it. A chapter by Brent Mishler that
+Dr. Phillips provided really put all of this into context for me.
+
+[03:05] HOMOLOGY VS. ANALOGY
+
+If we are going to do deep phylogenetic studies, and also look at recent or
+fast-changing relationships — when discerning a new medicine, or where a
+disease or a bad phenotype is coming from — we need to use all of it. One
+challenge Darwin faced: he might have grouped two-winged animals like bats
+together with birds. But molecular data shows that bats, which are mammals,
+are more closely related to gorillas than to birds. Likewise, I would not put
+alligators more closely related to eagles than to monitor lizards. The DNA
+sequence data does not lie; it is one of the ways we are able to reorganize
+the trees we use to discern relationships among organisms. So, to get a
+couple of terms down: one challenge faced before molecular data was the
+problem of homology. The bat wing and the eagle wing might be grouped
+together because they are observable and look alike, but they are not actually
+homologous traits. Today we can support or refute such groupings based on a
+phylogenetic analysis, using both fossil and morphological data. As another
+example, you would obviously group two winged animals together, but in fact
+parakeets (birds) are more related to T. rex than to the pterosaurs.
+
+[04:33] PARADIGMS: NUCLEOTIDE, RNA, AND PROTEIN
+
+It was easy for me to get sidetracked deciding which paradigm to look at the
+sequence data from. By paradigm, I mean I can look at the nucleotide
+sequences and how they are directly related or homologous to another
+organism, or I can look at the RNA encoded by them, or the functional
+proteins that have similar jobs between different groups of organisms. At each
+level I can infer relationships, and some are more useful than others
+depending on context. It gets a little crazy with amino acids, because more
+than one codon can code for the same amino acid, and amino acids can be
+swapped while a protein keeps a similar function — so information can get lost
+in translation, and classification gets tricky.
+
+[05:30] PARSIMONY AND THE DATA MATRIX
+
+When viewing all this data from different angles — codon, protein, or DNA
+sequence — it is important to remember the principle of parsimony. In an ideal
+situation, as Mishler stated, any good systematist would put their data into a
+matrix first, before building a tree. Technically, you would want that tree to
+be reversible back to a matrix with the same data present — that is a
+repeatable experiment. Mishler pointed out that the data matrix is largely
+ignored during tree-building: systematists focus on methods of analyzing trees
+— Bayesian inference, maximum likelihood, neighbor joining — rather than
+checking whether their data were placed correctly into the matrix. That is the
+crux of DNA sequence data and models of evolution.
+
+[06:28] THE PROS OF MOLECULAR DATA
+
+Some pros of using molecular — specifically DNA — data in phylogenetic
+studies: I can rather quickly discern the genetic causes of a trait I am
+interested in. Say I have a group of organisms — bacteria, fungi, or insects —
+that is hardy and withstands low temperatures or desiccation. I can compare
+closely related sister taxa and discern where that trait lies within a gene. I
+can understand critical points of divergence in ancient relationships. I can
+take a known regulatory part of a gene and compare it across a wide group of
+taxa to see whether they share it. And if I discover a new organism with
+sequenced DNA, I can compare it quickly to a large swath of taxa and decide
+where it fits on the tree. Mishler stated that scrutinizing DNA sequences is
+the workhorse for a systematist, and it underpins every other way we compare
+data — whether an RNA transcript, a functional protein, or a gene region —
+because it all relies on that DNA molecular data.
+
+[08:05] THE DOWNSIDES OF DNA DATA
+
+Some downsides: a gene located in one area of a chromosome in one organism
+could be in a completely different place in another organism, which presents a
+problem when comparing sequences — you may miss it in a BLAST search. DNA
+tends to evolve in a fairly consistent manner, and if I am looking at an
+ancient relationship I would want that change to be "frozen" and not shift
+every time I add new data during bootstrapping or reconfiguration. Sequences
+that are similar or homologous can be widely conserved — but what if it is an
+analogous trait, or homoplasy? Deciding two organisms are related because of
+similar sequence data could be an error if convergent evolution is going on.
+Finally, from a statistical standpoint, DNA has only four nucleotides to
+compare; adding RNA or protein sequences gives many more things to compare,
+allowing a wider range of probability statistics. So DNA is limited in that
+sense by having only four character states.
+
+[09:46] PITFALLS: HIDDEN CHANGES, CONVERGENCE, AND EXTINCT LINEAGES
+
+Let us look at some pitfalls, to understand why we have nucleotide
+substitution models and why we weight our data. In a simple comparison
+between two sequences, a single change is easy to see. But if one change is
+followed by another at the same site, the intermediate change is lost — I
+only see the two end sequences and miss that data. Convergence is another
+issue: if a site changes and then changes back, I might conclude two sequences
+are homologous when originally there was a separate lineage. Extinct lineages
+add difficulty: if a species split off and then went extinct, I might assume A
+is more closely related to C, missing the divergent species that is no longer
+around to appear in my sequence data. And depending on which extant and
+extinct lineages survive, two diagrams can imply very different divergence
+times for the same ancestor. Because of issues like these, we need different
+models of evolution to provide different algorithms in our computer analyses.
+Under Bayesian inference, the Markov chain Monte Carlo (MCMC) method — which
+you may have seen as options in MEGA and other software — is there to increase
+our probability and give better statistical results.
+
+[12:38] WEIGHTING DATA AND THE JUKES–CANTOR MODEL
+
+To do this, we make sure we are weighting our data initially. A good
+systematist makes sure the matrix is correct and the data are good to go
+before building a tree and comparing it to others. One of the simplest models
+is Jukes–Cantor. It states that nucleotide frequencies are weighted equally,
+with mutation rate as the parameter. If I take sequence 1 and sequence 2, do a
+multiple sequence alignment so the homologous sites line up, and score each
+match — since all four nucleotides are weighted equally, each shows up roughly
+25% of the time — the match rows sum to 1 and the transition rows sum to 0.
+That gives a sense of how these algorithms weight individual characters
+(nucleotides). The result is then compared to another sequence, over and over
+for all sequences in the alignment, compiling a final score and building your
+initial phylogenetic tree.
+
+[14:33] ADDING TRANSVERSIONS: KIMURA'S MODEL
+
+The next substitution model calculates transversions as an additional
+parameter, while the transition rate stays the same as in Jukes–Cantor.
+Transversions happen when a purine is exchanged for a pyrimidine; this happens
+less often than a transition (a purine exchanged for a purine), so it gets a
+special score. Through calculus, we come up with a formula that, as a ratio,
+eventually produces a gamma distribution with a different type of score for
+building your initial tree, which you can then compare against other
+phylogenetic hypotheses.
+
+[15:30] ALIGNMENTS AND TREE METHODS
+
+Multiple sequence alignments are the starting point for these analyses. Their
+purpose is to take homologous sequences and line them up by their homologous
+nucleotide bases; those columns eventually indicate selective pressures and
+can inform you of different relationships, functions, or phenotypes. There are
+many other models that give different weights to different parameters, or add
+parameters. As we were shown, when you add more than two taxa the results
+become exponential very quickly — and so does the computing strength needed.
+It depends on whether you want a fast computation or have time to wait for a
+better educated guess. Here is an example of a multiple sequence alignment
+from my phylogeny of interest — a pairwise comparison of 37 taxa, with a
+consensus row. Distance-based methods take an alignment and a reference,
+convert it into a matrix of scores, and produce a single tree, which is then
+compared to other sequences and trees that may already have data attached,
+like fossil records. Examples are UPGMA and neighbor joining. Once you lock
+that first tree in, the initial data remain fixed. Character-based methods —
+maximum parsimony, maximum likelihood, and Bayesian analysis — instead
+consider those changes. I would dare to say multiple sequence alignments are
+more for a quick analysis to find where you are on the map, or a quick homolog
+for an unknown sequence, while character-based methods are for deep,
+ancestral-state comparisons.
+
+[18:59] CONCLUSION
+
+That concludes my presentation. I thank you all for sticking through it with
+me, and I wish everyone the best of luck through the end of your class. Have a
+great rest of your week.
+
+--------------------------------------------------------------------------
+Source video: Biological Systematics: DNA Sequence Data and Models of
+Evolution — Justin Howard
+(https://www.youtube.com/watch?v=IZRJ999V6NE)
+Transcript prepared for BIO 152, Summer 2026.
