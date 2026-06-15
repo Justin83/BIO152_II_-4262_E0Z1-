@@ -15,6 +15,8 @@
     {"name":"Week 6 Overview","path":"pages/modules/module-6.html","version":"1.0","module":6,"category":"module-overview","data":"static","status":"ready","description":"Week 6: Behavior & Population Ecology"},
     {"name":"Week 7 Overview","path":"pages/modules/module-7.html","version":"1.0","module":7,"category":"module-overview","data":"static","status":"ready","description":"Week 7: Communities & Ecosystem Dynamics"},
     {"name":"Week 8 Overview","path":"pages/modules/module-8.html","version":"1.0","module":8,"category":"module-overview","data":"static","status":"ready","description":"Week 8: Ecology Exam & Course Wrap-Up"},
+    {"name":"Watch: Galápagos Finch Evolution (Ch. 22)","path":"pages/watch/ch22-galapagos-finch-evolution.html","version":"1.0","module":1,"category":"watch","data":"static","status":"ready","description":"HHMI video on natural selection & speciation in Darwin's finches, with clickable chapter markers and a downloadable transcript."},
+    {"name":"Watch: DNA Sequence Data & Models of Evolution (Ch. 23)","path":"pages/watch/ch23-dna-sequence-data.html","version":"1.0","module":2,"category":"watch","data":"static","status":"ready","description":"Presentation on molecular systematics, homology, parsimony & substitution models, with clickable chapter markers and a downloadable transcript."},
     {"name":"Asset Test","path":"pages/test/asset-test.html","version":"1.0","module":null,"category":"test","data":"static","status":"draft","description":"Internal asset/style test page - not for Blackboard"}
   ]
 }
