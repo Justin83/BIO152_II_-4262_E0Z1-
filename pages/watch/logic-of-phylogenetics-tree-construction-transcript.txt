@@ -1,0 +1,235 @@
+THE LOGIC OF PHYLOGENETICS AND TREE CONSTRUCTION
+Presented by Justin Howard
+BIO 152 · Module 2 · Chapter 23: Systematics, Phylogenies, and Comparative Biology (Supplemental)
+
+Cleaned, readable transcript. Section headings and time markings match the
+chapter list on the course "Watch & Study" page. Filler words and repeated
+phrases have been lightly edited for readability; wording otherwise follows
+the presentation. This is a supplemental deep-dive — for BIO 152 you can stop
+at the ~22:30 mark (after Parsimony); the Likelihood and Bayesian sections are
+optional.
+
+--------------------------------------------------------------------------
+
+[00:00] INTRODUCTION
+
+Hello everyone, my name is Justin Howard. I'm presenting via recording since I
+can't be there in person. Today I'm talking about the logic of phylogenetics
+and how trees are constructed. I hope to cover a good modern definition of
+phylogeny versus what was thought before the early-to-mid 19th century, some of
+the people whose discoveries brought the field to where it is today (including
+the wedge driven between camps when genetic information arrived), how it's used
+by researchers today, and — in brief — a few of the ways trees are analyzed and
+the options you have.
+
+[00:58] HOW BIG THE TASK IS: GENBANK AND THE SCALE OF LIFE
+
+To show how monumental this is: a 2019 paper I found notes that GenBank — the
+genetic-sequence repository hosted on NCBI — had on the order of a few hundred
+thousand formally sequenced species, out of an estimated eight or nine million
+species on Earth (bacteria, plants, and animals). So there's a long way to go;
+we've only scratched the surface.
+
+[01:41] WHAT IS PHYLOGENY? THE MODERN DEFINITION
+
+As a definition, phylogeny is the study of kinds — where you came from. But the
+modern definition also takes in that things are related through an ancestral,
+evolutionary relationship. Before we knew about genetic information,
+classification was based on likeness: this animal has four legs and so does
+that one, so I'll group them, then keep classifying by other traits.
+
+[02:20] WHY PHYLOGENY MATTERS
+
+Phylogeny is one of the most pervasive fields. It touches every area of our
+lives — understanding how we migrated onto this continent, archaeology
+(classifying pottery by the style of its handles), ecology and conservation for
+species that may be going extinct, and epidemiology. All of these rely on
+discerning evolutionary history.
+
+[03:07] EARLY SYSTEMATISTS AND THEIR LIMITS
+
+Early systematists were limited by what they had to go on. First was what they
+could observe with their eyes — and even that depended on how many specimens
+had been collected (and who would study them; think of the specimens from
+Darwin's Beagle voyage that others had to agree to classify). There was also
+the limitation of whether fossils existed for comparison. They used categories
+based on observation — whether an organism produced milk, whether it was
+torpedo-shaped, embryological development (ontogeny), and so on.
+
+[04:23] LINNAEUS: NAMING BY LIKENESS
+
+The first figure of note in the lead-up to a modern, phylogenetic sense of
+classification is Linnaeus. He started a taxonomic system that was more
+inclusive at higher ranks (kingdom, domain) and more exclusive as it got more
+specific. But this was simply a nomenclature system — naming things and
+classifying them by their likeness to other kinds.
+
+[05:06] DARWIN: COMMON ANCESTRY AND THE UNIVERSAL COMMON ANCESTOR
+
+Then came Darwin, with common ancestry, descent with modification, and sexual
+selection, which threw a wrench in everything. Even he struggled with what we
+should use to classify organisms. In one excerpt he says, in effect, that
+similar traits are nearly useless to someone trying to classify, because
+likeness says nothing about "blood relationship" — though it matters to the
+organism's survival. These ideas led toward answering how things are related in
+an evolutionary sense, and ultimately to the idea of a last universal common
+ancestor, which flew in the face of much that had been built up to that point.
+
+[06:20] ARISTOTLE & HAECKEL: THE WORD "PHYLOGENY" AND THE LADDER OF LIFE
+
+Even before Linnaeus, Aristotle tried to classify things and had his own ideas.
+Haeckel was a bit of a character — originally a German physician with some
+deeply troubling ideas about race — but he was important here because he coined
+the term "phylogeny" (and other terms we still use), and he was a great artist.
+His "tree," though, was really a ladder, with man at the top and everything
+placed underneath, not the branching diagram we picture today.
+
+[07:21] MORGAN: THE BIRTH OF GENETICS
+
+Then came Morgan — from my research, roughly the point where genetics was born.
+Doing genetic experiments on fruit flies (for which he won the Nobel Prize), he
+noticed a single white-eyed male among thousands bred with red eyes and asked
+how that came about. He's credited with discovering that chromosomes are
+responsible for passing on hereditary traits. He was also a Kentuckian who
+attended the University of Kentucky.
+
+[09:09] CRICK & PAULING: CLASSIFY BY DNA, NOT JUST LOOKS
+
+Finally, Francis Crick and Linus Pauling — in separate papers around the same
+time — suggested we should start classifying things based on genetic sequencing
+rather than just our observations. That was the tipping point. Pauling, one of
+my heroes, did enormous work, including explaining sickle-cell anemia; and
+Crick and Watson made a huge contribution by illuminating how the DNA molecule
+is built.
+
+[09:38] STANDARDIZING THE FIELD: ESSENTIALISM & THE SPECIES DEBATE
+
+Others I haven't named — Fleming, Chargaff, Mendel and his peas, and many more
+— all contributed to the point where we had to decide whether to keep
+classifying by what we can see or by things hidden from view, like chromosomes
+and DNA. Fast-forward to the 1990s (skipping protein sequencing in the '70s and
+'80s): a group came together to standardize how we study phylogenetics, based
+on a philosophy. Some argue we can't even pin down what a species is, because
+things change rapidly and two geographically close species can look and code
+very similarly. The more accepted position is that taxonomy should be based on
+evolutionary relationship (kinship), not just shared characteristics.
+Essentialism — the older idea that everything in nature is already fixed and
+we're just here to discover and document it — ran into the theory of evolution,
+which holds that things change, sometimes rapidly, and nothing is truly static.
+That opened a philosophical debate that continues today.
+
+[11:39] TAXONOMY VS. PHYLOGENY, DEFINED
+
+To clear up the terms: taxonomy is simply a nomenclature system for classifying
+things; today it can include morphological characteristics along with DNA, and
+it can be supported by phylogeny (and phylogeny by taxonomy). The main
+difference is that phylogeny, in the strict sense, concerns DNA and evolutionary
+relationships, while taxonomy does not.
+
+[12:15] BUILDING A TREE: THE CARNIVORE SURPRISE (HYENAS GROUP WITH LIONS)
+
+For tree construction I built an example on the website "phyloteam" using 10
+characters (the free limit) and a good sampling of organisms — some bacteria, a
+"tree octopus," a shark, a bald eagle, a humpback whale, and an order of
+carnivores: gray wolf, spotted hyena, and lion. It seems logical to group the
+meat-eaters together — but notice the clade (two terminal sister taxa) at the
+bottom: the spotted hyena, which you'd think is more canine than feline, is
+actually grouped with the lions. That's because of a skull feature — the
+chamber for the auditory organs is double-chambered in felines and
+single-chambered in canines. This modern tree includes genetic sequencing, and
+the branch lengths encode time (molecular clocks and rates of substitution), so
+even today we get this peculiar grouping. We can also build trees from the
+molecules organisms can produce (like certain amino acids). The more data we
+add — billions of sequenced nucleotides — the more statistical testing we need,
+which improves our hypotheses.
+
+[14:52] THE FIRST MOLECULAR TREE: WOESE, 1977
+
+Here's the first scientific tree (per my research) based on RNA sequencing, with
+statistical testing — Woese and his team, published in 1977. It looks familiar
+from undergraduate biology, and if I'm not mistaken, branch "14" was meant for
+mammals; it's starting to look more like the phylogenetic trees we use today.
+
+[15:30] PARTS OF A TREE: TAXA, BRANCHES, NODES & ROOTS
+
+Some basic parts: a taxon/species at the tips (a branch can end at species,
+genus, or group, depending on how specific you want to be); a branch, which can
+correspond to evolutionary time (you can place molecular-clock-derived numbers
+above the branches — I left them off because I couldn't fully discern how they
+were calculated); a node, where an ancestor gave rise to a new species; and the
+root, the last common ancestor. You can choose where to root a tree — at the
+base, in the middle of a branch, or rearranged to root from the hyena —
+depending on your research needs.
+
+[16:49] MAPPING TRAITS ONTO THE TREE (THE AMNIOTIC EGG)
+
+This example is nice because it includes fossils and living animals. Take a
+single trait — say the amniotic egg — and build a tree from it: every "yes"
+marks the clade of organisms with an amniotic sac in development. Or integrate
+many traits at once (here, six of them) to produce one hypothesis of how the
+tree could be constructed. Remember, no single method of inferring relationships
+is the standard, but every bit of data we add helps us make a better educated
+guess, especially in statistical testing.
+
+[17:46] WHAT MAKES TREE-BUILDING HARD: HOMOPLASY, CLOCKS, FOSSILS
+
+What makes the choice difficult? Homoplasy (described next); the time aspect and
+molecular clocks (which rest on theory — even radiometric dating, though
+well-founded, is a theory); and the availability of fossils, including whether
+we have a whole sequence for an organism or only part.
+
+[18:13] HOMOLOGY VS. HOMOPLASY & CONVERGENT EVOLUTION (THE OCTOPUS EYE)
+
+Homology means species share a common ancestor: if species A, B, and C share a
+trait (say, a stinger), we infer one common ancestor for them, while D evolved
+its version separately. Homoplasy is a confounding factor: if A and B share a
+placenta, it could have evolved two separate times — convergent evolution,
+where similar traits develop in distantly related species. A great example is
+the octopus eye, which is strikingly similar to the human eye (a lens that
+focuses light onto a retina, with neurons forming an image) even though
+mammals and octopuses are far removed on the tree. Those similarities — plus
+the octopus's problem-solving and rapid camouflage — make it a fascinating
+model, and a clear case of why convergent evolution can be studied with
+phylogenetic trees.
+
+[20:36] ANALYZING TREES: PARSIMONY
+
+Now, some ways of analyzing trees. Parsimony is my favorite so far and is the
+simplest by definition. If species A and B share a placenta, the simplest
+explanation is that they descend from an ancestor that had one. Taking the
+earlier character matrix, we can form two hypotheses: one requires six
+evolutionary events, the other seven. Parsimony favors the first — the simplest
+— because it requires the least guessing. The goal is a tree that keeps you from
+having to add hypothesis after hypothesis to explain the branching: it's simpler
+to say a ray-finned fish and the others are closely related than to claim a bony
+skeleton arose independently on two separate occasions.
+
+--------------------------------------------------------------------------
+OPTIONAL — BEYOND BIO 152 (you can stop here, ~22:30)
+--------------------------------------------------------------------------
+
+[22:28] LIKELIHOOD (OPTIONAL)
+
+Likelihood isn't much harder, and I like the mode of thinking behind it.
+Depending on the parameters we choose — say, the genetic-sequence relatedness
+between two organisms — we can take the rate of substitution (or the frequency
+of a nucleotide's appearance), put it into a computer, and ask it to arrange the
+data in many ways (for example, 10,000 permutations). Statistical modeling gives
+a bell curve, and we pick the most likely arrangement in the middle for our
+tree. We can add other parameters, like branch length, and test hypotheses about
+them. The number of options grows exponentially fast as taxa increase — so
+besides genetic information, computers were a huge help to phylogenetics.
+
+[24:17] BAYESIAN METHODS & WRAP-UP (OPTIONAL)
+
+The Bayesian method also does theoretical, statistical testing, but instead of
+saying "this is the most common arrangement we found," it assigns a probability
+that a given arrangement is true — much like saying "there's a 2% chance of rain
+tomorrow," we might say "there's a 2% chance these taxa are related this way."
+Hopefully I've been clear about the logic of phylogenetic trees — it really was
+an exercise in logic and philosophy as much as biology. I hope you enjoyed it,
+and I wish you all the best of luck and a great rest of your week. Thank you.
+
+--------------------------------------------------------------------------
+Source video: The Logic of Phylogenetics and Tree Construction — Justin Howard
+Transcript prepared for BIO 152, Summer 2026.
