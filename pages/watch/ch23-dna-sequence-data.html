@@ -61,6 +61,11 @@
     .ts:hover, .ts:focus { background: var(--blue2); outline: 2px solid var(--gold); outline-offset: 1px; }
     .ch-t { font-size: .88rem; font-weight: 600; color: var(--ink); }
     .ch-d { font-size: .82rem; color: var(--muted); }
+    .chapters li.skip-note { display: block; border-bottom: 0; margin: 8px 0;
+      padding: 12px 15px; border: 1px dashed var(--gold); background: #fcf6e9; border-radius: 8px; }
+    .skip-note .sn-t { display: flex; align-items: center; gap: 7px; font-weight: 700;
+      color: #7a5a12; font-size: .86rem; }
+    .skip-note .sn-d { color: #7a5a12; font-size: .82rem; margin-top: 3px; }
     .dl-box { border-left: 3px solid var(--green); background: #effaf2; padding: 13px 16px;
       display: flex; flex-wrap: wrap; gap: 14px; align-items: center; justify-content: space-between; }
     .dl-box .t { font-size: .9rem; max-width: 560px; } .dl-box .t b { color: var(--blue); }
@@ -124,6 +129,7 @@
           <li><button class="ts" data-start="388">6:28</button><div><div class="ch-t">The pros of molecular data</div><div class="ch-d">Quickly locating trait genes and placing newly discovered organisms.</div></div></li>
           <li><button class="ts" data-start="485">8:05</button><div><div class="ch-t">The downsides of DNA data</div><div class="ch-d">Gene location, frozen changes, homoplasy, and only four character states.</div></div></li>
           <li><button class="ts" data-start="586">9:46</button><div><div class="ch-t">Pitfalls: hidden changes, convergence, extinct lineages</div><div class="ch-d">Why we need substitution models and weighted data.</div></div></li>
+          <li class="skip-note"><div class="sn-t"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="8" y1="12" x2="16" y2="12"/></svg> You can stop here for BIO&nbsp;152.</div><div class="sn-d">The remaining chapters cover substitution-model math (Jukes&ndash;Cantor, Kimura's model, and sequence alignments) and the wrap-up. That material goes beyond what this course covers, so it's optional &mdash; feel free to skip it; it won't be on your assessments.</div></li>
           <li><button class="ts" data-start="758">12:38</button><div><div class="ch-t">Weighting data: the Jukes&ndash;Cantor model</div><div class="ch-d">The simplest substitution model, with nucleotides weighted equally.</div></div></li>
           <li><button class="ts" data-start="873">14:33</button><div><div class="ch-t">Adding transversions: Kimura's model</div><div class="ch-d">A second parameter and the gamma distribution.</div></div></li>
           <li><button class="ts" data-start="930">15:30</button><div><div class="ch-t">Alignments and tree methods</div><div class="ch-d">Distance-based (UPGMA, neighbor joining) vs. character-based methods.</div></div></li>
