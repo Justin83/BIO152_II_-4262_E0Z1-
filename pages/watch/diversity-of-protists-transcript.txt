@@ -1,0 +1,274 @@
+DIVERSITY OF PROTISTS
+BIO 152 Principles of Biology II — Summer 2026 — Week 4
+Chapter 28: Protists
+Runtime: ~20 minutes
+
+────────────────────────────────────────────────────────────
+0:31  WHAT ARE PROTISTS?
+────────────────────────────────────────────────────────────
+
+The tiny living things swimming in drops of pond water show a range of sizes
+and complexities. The larger cells are propelled by flagella or cilia, and some
+just creep along by extending their cell membrane — the amoebas. Others don't
+move at all. They just sit there soaking up sunlight.
+
+Aside from their different shapes and sizes, these cells have much in common.
+A nucleus containing the cell's DNA, and organelles, small bodies inside the
+cell that carry out its life functions.
+
+Cells with a nucleus are known as eukaryotic cells. Single-cell eukaryotes are
+called protists.
+
+At higher magnification, another kind of cell shows up: bacteria. These are
+prokaryotic cells — cells without a nucleus. Prokaryotes and eukaryotes are the
+two main categories of life. Prokaryotes came first, and from them, sometime
+around two billion years ago, evolved the first eukaryotes.
+
+────────────────────────────────────────────────────────────
+1:53  THE CLASSIFICATION CHALLENGE
+────────────────────────────────────────────────────────────
+
+One of the problems in biology is how to classify protists.
+
+Some lines of protists separated very far back in time, long before animals and
+fungi split from their common ancestor. Also, some lines of single-cell life are
+closely related to multicellular organisms. For example, green algae and plants.
+
+The lesson here is that single-cell eukaryotes show such extreme evolutionary
+divergence that the old idea of lumping them into a single kingdom needs
+correcting. Biologists are now attempting to create a protist classification
+that looks more closely at their genetic material.
+
+The ultimate goal is to understand how the various lines of protists diverge
+from each other, and how these independently living cells and multicellular
+organisms are related.
+
+────────────────────────────────────────────────────────────
+2:52  EUGLENIDS
+────────────────────────────────────────────────────────────
+
+This is a favorite subject for study in biology classes: Euglena.
+
+A euglenid moves through the water using its whip-like flagellum, but how does
+it determine its course? In green euglenids, a light-sensitive region lies near
+the base of the flagellum, shielded by a plate of red pigment — the red eye
+spot. The shield and receptor create a guidance system. In dim light, the cell
+will orient and swim toward the light until it reaches a light level suitable
+for photosynthesis.
+
+Euglenids show a range of shapes and behaviors. This one likes to stretch.
+
+Not all members of the euglenid line are green. Astasia evolved from a euglenid
+that lost its chloroplasts. Without photosynthesis, it gets food by absorbing
+nutrient molecules directly from its surroundings.
+
+In another relative, Paranema, the flagellum works like a propeller. Paranema
+can also use its flagellum as a whip for quick moves, useful for trapping prey.
+
+Euglenids are an ancient line of life, so different from other protists that
+some biologists have suggested placing them in a kingdom of their own.
+
+────────────────────────────────────────────────────────────
+4:30  DIATOMS AND THEIR RELATIVES
+────────────────────────────────────────────────────────────
+
+In terms of ecology, diatoms are the microscopic equivalent of grass.
+
+In diatoms, the photosynthetic pigment is yellow, not green. They convert the
+products of photosynthesis into oil droplets, an energy reserve the cell can
+draw on when the sun isn't shining.
+
+But the unique thing about a diatom is its house. These cells remove dissolved
+silica from the water and use it to construct finely sculptured glass cases.
+
+Diatoms are not alone on their evolutionary branch. DNA analysis shows that
+this colony of golden cells is related. And not all diatom relatives are
+photosynthetic. These small cells swarm around decaying aquatic plants where
+they absorb nutrients released by bacterial decomposition.
+
+Even the fungi-like water molds are found on this evolutionary branch. Here, a
+water mold is digesting a fruit fly, converting fly tissue into mold spores
+that break out and swim away to find another dead insect.
+
+The lesson here is that even though organisms may look very different, their
+DNA may indicate that they occupy the same branch on the tree of life.
+
+────────────────────────────────────────────────────────────
+5:59  AMOEBAS
+────────────────────────────────────────────────────────────
+
+If you watch an amoeba long enough, you may see it engulf something. This one
+is surrounding a small ciliate — a nice dessert, topping off its meal of
+diatoms.
+
+Amoeba locomotion has fascinated biologists since Leeuwenhoek first observed
+it. See if you can figure out how amoebas move by studying these real-time
+observations.
+
+Some amoebas have evolved house-building skills. Arcella secretes its house
+with a hole in the bottom from which pseudopodia extend. Diflugia creates its
+house from mineral bits, cementing them in place. But even a house of stone
+cannot deter a hungry worm.
+
+Heliozoans use amoeba-like methods for engulfing prey. This one has taken in
+three large ciliates and is about to engulf a fourth.
+
+────────────────────────────────────────────────────────────
+7:49  GREEN ALGAE
+────────────────────────────────────────────────────────────
+
+Green algae live just about anywhere there is water, nutrients, and light.
+
+Some are very large cells. This is Clostarium, easily identified by the dancing
+gypsum crystals contained in vacuoles at the tips of the cell.
+
+Others are filamentous, made from chains of cells. In Spirogyra, the chloroplast
+is band-shaped and spirals around the cell. At times, Spirogyra filaments line
+up. Connecting tubes form, and the cells from one strand fuse with the cells of
+the other — a form of algae sex known as conjugation. The result is a zygote
+that can resist freezing and drying, a dormant stage waiting for improved
+conditions.
+
+Colonial green protists let us imagine how simple plants evolved from single
+cells like these.
+
+In the same drop of pond water, you can find small colonies such as Gonium,
+usually with 16 cells; Eudorina, a 32-cell colony; and the queen of colonial
+protists, Volvox, with thousands of flagellated cells lining the sphere.
+
+Inside, germinal cells are dividing, producing the next Volvox generation. When
+ready, these daughter colonies break out. When all have escaped, all that
+remains of their mother is an empty shell.
+
+Like Spirogyra, Volvox uses sex to assure survival following the seasonal
+disruption of its habitat. As winter comes on, some daughters will produce
+packets of sperm, others eggs. The result of fertilization is a thick-walled
+zygote that will carry Volvox through the winter.
+
+────────────────────────────────────────────────────────────
+9:57  PROTISTS INSIDE ANIMALS: PARASITES AND SYMBIONTS
+────────────────────────────────────────────────────────────
+
+There are probably at least as many kinds of protists living inside animals as
+there are living in ponds, puddles, and oceans.
+
+One of the most serious, for us, is Plasmodium, the malaria organism.
+Plasmodium is a parasite of the red blood cells, multiplying and breaking out
+in a daily cycle that produces the alternating chills and fever of malaria.
+Transmission of the parasite from host to host is by mosquito.
+
+Another blood parasite, Trypanosoma, is transmitted by a biting fly. In humans,
+these parasites cause an often fatal disease: sleeping sickness.
+
+Certain amoeboid protists colonize mammalian intestines, causing tissue damage
+and diarrhea. Intestinal amoebas are transmitted by fecal contamination,
+particularly from unwashed hands.
+
+But not all insiders are harmful. A termite's gut is packed solid with
+flagellated protists that aid in breaking down wood. These large cells engulf
+wood chips chewed to size by their host. The termite could have done a better
+job on some chips, but Trichonympha engulfs them without complaint. With the
+help of bacteria, the wood is digested and some of the products are shared with
+the termite.
+
+A variety of protists live in the termite gut, but not all of them digest wood.
+The relationships among the various species are still being worked out.
+
+────────────────────────────────────────────────────────────
+11:40  CILIATES: THE DINOSAURS OF MICROSPACE
+────────────────────────────────────────────────────────────
+
+Ciliates are the dinosaurs of microspace.
+
+In the line of ciliates to which Paramecium belongs, the cilia are uniformly
+distributed in rows. Ciliary motors require a lot of ATP energy. A slight change
+of focus shows mitochondria lining the rows, supplying energy for the ciliary
+beat.
+
+[Animation: cilia structure]
+A cilium has two central microtubules surrounded by nine double ones. The outer
+microtubules are coupled with proteins that use energy from ATP to flex, pulling
+down on an adjacent microtubule. The clawing action causes the cilium to bend —
+the basic mechanism behind the ciliary power stroke.
+
+LACRYMARIA — Lacrymaria hides in the bushes, extending its neck to feed. This
+remarkable behavior is made possible by myonyms, muscle-like fibers that spiral
+around the cell.
+
+EUPLOTES — Euplotes has tendril-like structures called seri. The seri can be
+used to walk over surfaces.
+
+VORTICELLA — In Vorticella, a band of cilia-stiffened membrane is used to
+generate feeding currents. The bacteria selected are engulfed in a food vacuole
+that pinches off and circulates through the cell while the bacteria digest. If
+disturbed, Vorticella can snap in — the advantages of living on a contractile
+stalk. When it's time to divide, one daughter retains the stalk while the other
+develops a band of swimming cilia and breaks free. The swimmer is attracted to
+the stalks of other vorticellids, where it will settle down and join the group.
+
+EUROCENTRUM TURBO — Eurocentrum turbo has a unique method for remaining in
+choice feeding areas. You have to ask: with all that propeller force, why
+doesn't the cell go flying away? Eurocentrum's trick is an invisible tether
+line that it attaches to some nearby object. Should the tether break, it will
+instantly obey the laws of physics.
+
+STENTOR — There are many Stentor species: clear ones, blue ones. These can
+stretch to several millimeters or snap back if threatened. And green ones, filled
+with symbiotic algae. Like other ciliates, stentors join at their mouths and
+exchange micronuclei in a form of sexual behavior known as conjugation.
+
+TRICHODYNA — A commensal is an organism that lives with a host but causes it no
+harm. Trichodyna lives as a commensal on Hydra, feeding on the bacteria that
+collects around Hydra's regurgitated meals. Trichodyna hangs on by means of an
+amazing adaptation: a multi-toothed basal disc.
+
+COLEPS — No community would exist for long without scavengers. And in the micro
+world, Coleps is the jackal. These are feasting on a Paramecium carcass.
+
+SUCTORIAN — Looking in pond water, you may find a ciliate that has no cilia: a
+suctorian. Upon contact, the suctorian's tentacle tips fuse with the prey's
+membrane and, with some pressure adjustments, the suctorian sucks in its meal.
+Suctorians exhibit the very un-protist-like behavior of giving birth. As the
+ciliated larva emerges from the birth pore, it turns on the power — a response
+that helps it avoid touching its mother's tentacles.
+
+DIDINIUM — Didinium has an appetite for just one type of prey: Paramecium. The
+weaponry used for attacking Paramecium is located in Didinium's nose. At the
+touch of a Didinium, Paramecium's trichocysts fire around the point of contact.
+It sometimes works and the prey escapes. But if the strike is solid, the
+Paramecium is stunned and remains attached while Didinium opens its nose, which
+then becomes its mouth.
+
+In a laboratory dish, the feeding frenzy will continue until nearly all the
+Paramecia have been eaten. With no more food, the Didinia form cysts, lying
+dormant while they wait for a new population of Paramecia to build up.
+
+[Rearing Paramecium]
+Here is a simple recipe for rearing Paramecium. To a jar of pond water, add a
+little boiled hay and allow to age for several days. By day five, there are
+plenty of organisms for observation.
+
+Transfer some to a glass slide where you can observe how Paramecium feeds on
+bacteria, how the cell gets rid of water entering by osmosis, how it eliminates
+undigestible material, how it deals with metabolic wastes by crystallizing them,
+how it avoids getting trapped in microscopic mazes, and how it reproduces
+asexually with division of its macronucleus and the duplication of its various
+organelles.
+
+Periodically, Paramecium enters into a sexual process, whereby individuals fuse
+together and exchange micronuclei. This mixing of genes revitalizes the
+Paramecium population, which can then continue on reproducing asexually for
+hundreds of generations.
+
+────────────────────────────────────────────────────────────
+19:28  WHAT PROTISTS TELL US
+────────────────────────────────────────────────────────────
+
+Observing protists gives us a peek at what life was like when single-cell
+eukaryotes ruled the Earth. Their stunning advances in cell metabolism, genetic
+control, and behavior set the stage for the evolution of both multicellular
+organisms and today's protists — cells you can study with a microscope.
+
+────────────────────────────────────────────────────────────
+END OF TRANSCRIPT
+BIO 152 Principles of Biology II · Summer 2026 · Week 4 · Watch & Study
