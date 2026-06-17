@@ -1,0 +1,109 @@
+Angiosperms: Flowering Plants
+Chapter 30: Plant Reproduction · BIO 152 Principles of Biology II · Summer 2026 · Week 4
+Video: https://www.youtube.com/watch?v=9_ODnibW7qM
+Runtime: ~7 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:06] INTRODUCTION: WHAT ARE ANGIOSPERMS?
+
+We just learned about the emergence of gymnosperms, which include plants like pine trees,
+which had a major impact on the topography of earth. But there is one more major group
+that had yet to evolve, and that is the angiosperms. Angiosperms are the second kind of
+true seed-bearing plants, called spermatophytes, and they are also known as flowering
+plants. If you were to imagine a flower, any type of flower you can think of, you are
+almost certainly envisioning an angiosperm. Even though gymnosperms also technically have
+flowers, the angiosperms have a much broader diversity of more obvious flowering
+structures. And although angiosperm demonstrate an incredible diversity of flowers, the
+basic structure of a flower remains the same regardless of species.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:59] FLOWER STRUCTURE: SEPALS & PETALS
+
+We went over flower structure in a previous tutorial, but let's briefly review. The small
+green leaf-like structures between the flower and the stem are called sepals. The sepals
+cover the flower and protect it when it's still a bud before it blooms, and after a
+flower opens, the sepals help provide the flower with structure and stability.
+
+The petals are usually the most colorful parts of a flower, and also often the most
+specialized structures. Petals are often brightly colored to attract animals that
+facilitate the process of pollination, or the movement of pollen between flowers, an
+evolutionary strategy that is largely responsible for the reproductive success of this
+plant group. Instead of relying on wind to bring pollen to the right place by chance,
+angiosperms became able to manipulate other organisms into carrying out highly targeted
+delivery. These pollinating animals can include insects, birds, and bats.
+
+Many flower petals even have stripes that act as a runway to direct pollinating insects
+to their centers. And some of these runways are only visible in the UV spectrum, which is
+visible to most insects. Other flower petals are shaped in such a way so as to attract or
+exclude certain pollinators, like these tube-shaped trumpet flowers that can only be
+pollinated by moths with very long tongues.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[2:27] REPRODUCTIVE PARTS: STAMENS & PISTILS
+
+But the sepals and petals are just the structures surrounding the important reproductive
+parts of the flower. While gymnosperms have separate male and female cones, most
+angiosperms have both male and female reproductive organs in the same flower structure.
+In this situation, the male reproductive structures are called stamens, and the female
+reproductive structures are called pistils.
+
+The stamen, or male reproductive structure in a flower, consists of two parts, the anther
+and the filament. The filament supports the anther, or pollen head. The anther is where
+pollen is produced and released, and the filament is often long enough that the anther
+sits above the top of the pistil, to allow for self-fertilization when pollen falls down
+off of the anthers and onto the top of the pistil, although most angiosperms employ
+mechanisms to favor cross-pollination, to enhance genetic variability.
+
+The pistil, which is the female reproductive structure in a flower, also consists of
+several parts, the ovary, style, and stigma. The stigma is the top of the pistil, which
+is often very sticky in order to collect pollen deposited upon it by either the wind,
+pollinating animals, or gravity. The style is a long tube-like structure that supports
+the stigma. When the flower is pollinated, the pollen tube grows down through the style.
+While the pollen tube is growing, the generative cell in the pollen splits into two sperm
+cells. At the bottom of the style is the ovary, where the female gametophytes grow, which
+will become the egg cells.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:11] DOUBLE FERTILIZATION & THE ENDOSPERM
+
+Now unlike fertilization in gymnosperms, both of these sperm cells play an important role
+in angiosperms, and because of this, we refer to the process of fertilization in
+angiosperms as double fertilization. The way this works is that one sperm cell fertilizes
+the egg, which generates the diploid zygote that will become the new sporophyte, just as
+we would expect. But the second sperm cell will fuse with two extra cell nuclei that
+accompany the egg cell. This triploid structure produces something called the endosperm,
+which will become part of the resulting seed, providing nutrition for the zygote as it
+grows into an embryo.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:57] FRUIT FORMATION & SEED DISPERSAL
+
+After double fertilization generates the zygote and endosperm, the ovary surrounding the
+zygote swells into a protective coating called a pericarp, which most of us know of as a
+fruit. This is a major difference from the naked seeds of gymnosperms. Angiosperm fruits
+come in a huge variety of shapes and sizes, and the shape is usually specialized for the
+kind of seed dispersal a plant relies on.
+
+For instance, bright red berries will attract the attention of birds, who will then ingest
+the berries and carry the seeds for miles before depositing them with their fecal
+material. Other angiosperm pericarps become tough nuts that squirrels will bury in the
+ground. Some angiosperm fruits even grow with lots of hooks on the outside, like this
+burdock, which can hitch a ride on the fur of passing animals. The main thing these
+different fruits have in common is that they protect the seeds inside them, while helping
+move the seed to a new location.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[6:01] ANGIOSPERMS: THE MOST SUCCESSFUL PLANTS ON EARTH
+
+Flowering plants are the most diverse group of plants in the world, with more than
+250,000 species estimated to exist. Angiosperms can grow as trees, shrubs, or herbaceous
+plants, and many scientists would also consider them to be the most successful group of
+plants on Earth, given the incredible strategies they employ in their reproduction. And
+with that, we've covered all the different groups of plants, so now let's move forward
+and talk more generally about how plants respond to their environment.

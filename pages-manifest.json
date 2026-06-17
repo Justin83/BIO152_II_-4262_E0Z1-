@@ -211,6 +211,26 @@
       "data": "static",
       "status": "ready",
       "description": "Bozeman Science overview of fungi: phylogeny, shared characteristics (chitin, hyphae, heterotrophy), reproduction, and the five major phyla (Ascomycota, Basidiomycota, Chytridiomycota, Glomerulomycota, Zygomycota). Clickable chapter markers and downloadable transcript."
+    },
+    {
+      "path": "pages/watch/ch29-plants.html",
+      "name": "Watch: Plants (Ch. 29)",
+      "version": "1.0",
+      "module": 4,
+      "category": "watch",
+      "data": "static",
+      "status": "ready",
+      "description": "Bozeman Science overview of land plant evolution: phylogeny, shared characteristics (cellulose, embryophytes, alternation of generations), four evolutionary milestones (bryophytes, ferns, gymnosperms, angiosperms), and photosynthesis. Clickable chapter markers and downloadable transcript."
+    },
+    {
+      "path": "pages/watch/ch30-angiosperms.html",
+      "name": "Watch: Angiosperms — Flowering Plants (Ch. 30)",
+      "version": "1.0",
+      "module": 4,
+      "category": "watch",
+      "data": "static",
+      "status": "ready",
+      "description": "Overview of angiosperm reproduction: flower anatomy (sepals, petals, stamens, pistil), pollination strategies, double fertilization, endosperm, fruit formation, and seed dispersal. Clickable chapter markers and downloadable transcript."
     }
   ]
 }
