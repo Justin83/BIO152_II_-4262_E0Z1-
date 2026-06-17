@@ -77,6 +77,24 @@
     .mod-card .name { font-size: .75rem; font-weight: 600; color: var(--muted);
       margin-top: 6px; line-height: 1.3; }
     .mod-card.final .num { font-size: 1rem; }
+    .watch-section { padding: 0 22px 16px; }
+    .watch-cards { display: grid; grid-template-columns: repeat(3,1fr); gap: 10px; }
+    .watch-card { display: block; text-decoration: none; color: var(--ink);
+      background: var(--paper); border: 1px solid var(--line);
+      border-left: 4px solid var(--green); border-radius: 6px; padding: 12px 14px;
+      transition: box-shadow .12s, transform .12s; }
+    .watch-card:hover { box-shadow: 0 4px 16px rgba(8,49,95,.1); transform: translateY(-1px); }
+    .watch-card-eyebrow { display: flex; align-items: center; gap: 6px; margin-bottom: 5px; }
+    .watch-badge { font-size: .6rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: .08em; background: var(--green); color: #fff;
+      border-radius: 3px; padding: 2px 6px; white-space: nowrap; }
+    .watch-badge.supp { background: var(--gold); }
+    .watch-chip { font-size: .6rem; font-weight: 600; color: var(--muted);
+      background: var(--soft); border: 1px solid var(--line);
+      border-radius: 3px; padding: 2px 6px; white-space: nowrap; }
+    .watch-card h3 { margin: 0 0 3px; color: var(--blue); font-size: .88rem;
+      font-weight: 700; line-height: 1.3; }
+    .watch-card p { margin: 0; color: var(--muted); font-size: .78rem; line-height: 1.4; }
     .footer-bar { padding: 10px 22px; border-top: 1px solid var(--line);
       background: var(--soft); display: flex; align-items: center; justify-content: space-between; }
     .footer-bar span { color: var(--muted); font-size: .78rem; }
@@ -86,6 +104,7 @@
       .course-top { flex-direction: column; }
       .platforms { flex-direction: column; }
       .mod-cards { grid-template-columns: repeat(3,1fr); }
+      .watch-cards { grid-template-columns: 1fr; }
       .contact-pref { display: none; }
     }
   </style>
@@ -174,6 +193,53 @@
             <div class="num">Final</div>
             <div class="lbl">week</div>
             <div class="name">Final Week</div>
+          </a>
+        </div>
+      </div>
+
+      <div class="watch-section">
+        <div class="section-lbl">Watch &amp; Study Pages</div>
+        <div class="watch-cards">
+          <a class="watch-card" href="pages/watch/ch22-galapagos-finch-evolution.html">
+            <div class="watch-card-eyebrow">
+              <span class="watch-badge">W1 &middot; Ch. 22</span>
+              <span class="watch-chip">~15 min</span>
+            </div>
+            <h3>Gal&aacute;pagos Finch Evolution</h3>
+            <p>Natural selection and speciation from 40 years of Grants&rsquo; finch research on Daphne Major.</p>
+          </a>
+          <a class="watch-card" href="pages/watch/ch23-anole-phylogenetic-tree.html">
+            <div class="watch-card-eyebrow">
+              <span class="watch-badge">W2 &middot; Ch. 23</span>
+              <span class="watch-chip">~17 min</span>
+            </div>
+            <h3>Phylogenetic Tree of Anole Lizards</h3>
+            <p>Anole adaptation, island speciation, and building a phylogenetic tree from DNA evidence.</p>
+          </a>
+          <a class="watch-card" href="pages/watch/ch23-dna-sequence-data.html">
+            <div class="watch-card-eyebrow">
+              <span class="watch-badge">W2 &middot; Ch. 23</span>
+              <span class="watch-chip">~19 min</span>
+            </div>
+            <h3>DNA Sequence Data &amp; Models of Evolution</h3>
+            <p>Molecular systematics: homology vs. homoplasy, parsimony, substitution models, and tree building.</p>
+          </a>
+          <a class="watch-card" href="pages/watch/ch23-logic-of-phylogenetics.html">
+            <div class="watch-card-eyebrow">
+              <span class="watch-badge supp">W2 &middot; Ch. 23</span>
+              <span class="watch-chip">~25 min</span>
+              <span class="watch-chip">Supplemental</span>
+            </div>
+            <h3>Logic of Phylogenetics &amp; Tree Construction</h3>
+            <p>Deep-dive on the history and logic of phylogenetic trees. Optional past ~22:30.</p>
+          </a>
+          <a class="watch-card" href="pages/watch/ch28-diversity-of-protists.html">
+            <div class="watch-card-eyebrow">
+              <span class="watch-badge">W3 &middot; Ch. 28</span>
+              <span class="watch-chip">~20 min</span>
+            </div>
+            <h3>Diversity of Protists</h3>
+            <p>Protist diversity: euglenids, diatoms, amoebas, green algae, parasites, and ciliates.</p>
           </a>
         </div>
       </div>
