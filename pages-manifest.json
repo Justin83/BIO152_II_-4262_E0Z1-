@@ -201,6 +201,16 @@
       "data": "static",
       "status": "ready",
       "description": "SciShow video on dinoflagellate bioluminescence: protist classification, luciferin/luciferase biochemistry, defense mechanisms, saxitoxin toxicity, and the ecology of bioluminescent bays. Clickable chapter markers and downloadable transcript."
+    },
+    {
+      "path": "pages/watch/ch31-fungi.html",
+      "name": "Watch: Fungi (Ch. 31)",
+      "version": "1.0",
+      "module": 4,
+      "category": "watch",
+      "data": "static",
+      "status": "ready",
+      "description": "Bozeman Science overview of fungi: phylogeny, shared characteristics (chitin, hyphae, heterotrophy), reproduction, and the five major phyla (Ascomycota, Basidiomycota, Chytridiomycota, Glomerulomycota, Zygomycota). Clickable chapter markers and downloadable transcript."
     }
   ]
 }
