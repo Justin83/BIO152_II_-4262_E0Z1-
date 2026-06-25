@@ -1,0 +1,81 @@
+SEEDLESS, NONVASCULAR PLANTS
+BIO 152 Principles of Biology II · Summer 2026 · Week 4
+Chapter 29: Land Plants · Recorded Course Lecture
+Video: https://www.youtube.com/watch?v=2zFlSU9p2Hc
+Runtime: ~24 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:01] SEEDLESS, NONVASCULAR PLANTS & MOSSES
+
+Land plants can be grouped by major structural and reproductive traits. The first broad group considered here is the seedless, nonvascular plants. Mosses are the working example, traditionally represented by phylum Bryophyta. These plants do not produce seeds and are among the earliest land-plant strategies discussed in the chapter.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:55] WHY MOSSES STAY SMALL
+
+Mosses lack true, fully developed vascular tissue. Their cells can move water and nutrients over short distances, but this movement is slow and inefficient compared with xylem and phloem. Because water cannot be transported rapidly through a tall body, mosses remain relatively small.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[2:30] RHIZOIDS VS. TRUE ROOTS
+
+Mosses have rhizoids rather than true roots. Rhizoids anchor the plant to a surface such as soil, rock, bark, or a log, but they do not carry out the major absorption function of roots. Mosses obtain most water and nutrients across the exposed green portions of the plant.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:02] ALTERNATION OF GENERATIONS: THE CORE PATTERN
+
+The key sequence for the plant life cycle is alternation of generations:
+
+Gametophyte → gametes → sporophyte → spores → gametophyte.
+
+The gametophyte is haploid and makes gametes. Fertilization produces a diploid zygote that develops into a sporophyte. The sporophyte produces haploid spores by meiosis. Spores germinate and grow into new gametophytes.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[6:00] THE MOSS GAMETOPHYTE IS THE VISIBLE PLANT
+
+The familiar green moss plant is the haploid gametophyte. In mosses, this is the dominant and most conspicuous stage of the life cycle. The sporophyte is the principal diploid stage; most other named structures in the moss life cycle are haploid.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[8:00] MALE GAMETOPHYTE: ANTHERIDIA & SPERM
+
+A male moss gametophyte forms antheridia. An antheridium is a haploid reproductive structure that produces haploid sperm. Remember the relationship: gametophytes make gametes.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[10:00] FEMALE GAMETOPHYTE: ARCHEGONIA & EGGS
+
+A female moss gametophyte forms archegonia. Each archegonium is a haploid reproductive structure that contains a haploid egg. The antheridium and archegonium are structures on gametophytes, so neither changes the ploidy level.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[12:00] WATER-DEPENDENT FERTILIZATION
+
+Moss sperm are motile and require free water to reach an egg. Moisture such as rain or dew can form a route between male and female structures. This requirement helps explain why mosses are especially common in damp environments and why they are not fully independent of water for reproduction.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[15:00] ZYGOTE TO DEPENDENT SPOROPHYTE
+
+When a sperm fertilizes an egg in an archegonium, the resulting zygote is diploid. The zygote develops into a sporophyte. In mosses, the sporophyte grows from and remains physically attached to the gametophyte.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[17:00] SPORANGIUM, MEIOSIS & SPORES
+
+A sporangium develops on the diploid sporophyte. Within the sporangium, meiosis produces haploid spores. When conditions are suitable, spores are released, land in a favorable location, germinate, and eventually form new moss gametophytes.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[20:00] DEPENDENCE & DOMINANCE IN MOSSES
+
+The moss sporophyte is dependent on the gametophyte: if it is removed, it cannot survive independently. The gametophyte is the dominant phase because the green moss body is what is most visible in the environment.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[23:00] KEY TAKEAWAYS
+
+Mosses are seedless plants with limited water-conducting ability. They use rhizoids for anchorage, require free water for sperm to reach eggs, and show alternation of generations. The visible green plant is the dominant haploid gametophyte; the diploid sporophyte remains attached to and dependent on the gametophyte.
