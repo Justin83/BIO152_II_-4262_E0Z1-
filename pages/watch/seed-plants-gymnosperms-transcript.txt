@@ -1,0 +1,75 @@
+SEED PLANTS: GYMNOSPERMS
+BIO 152 Principles of Biology II · Summer 2026 · Week 3
+Seed Plants · Educational Lecture
+Runtime: ~21 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:01] SEED PLANTS: SHARED CHARACTERISTICS
+
+Seed plants divide into two major categories: gymnosperms (this video) and angiosperms (the next video). Both groups share vascular tissue — xylem and phloem — just as ferns do. The key advance is that seed plants no longer require standing water for reproduction. Ferns and mosses need water so motile sperm can swim to an egg; seed plants have evolved adaptations that break this dependency. Because they are freed from needing water to reproduce, seed plants can occupy habitats unavailable to ferns and mosses: deserts, cold dry montane slopes, and arid grasslands. Many seed plants also show adaptations that reduce water loss during vegetative growth, since water is still needed for photosynthesis.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:43] SEEDS: PROTECTION AND NUTRITION FOR THE EMBRYO
+
+Seeds are a defining innovation of seed plants. A seed houses the developing embryo — the diploid zygote that results from fertilization — and surrounds it with stored nutrients: fats, proteins, and sugars. This nutrient reserve gives the embryo a head start before it can photosynthesize on its own. The seed coat also shields the embryo from drying out, from predators, and from extreme temperatures. Think of a seed as a self-contained survival package that dramatically increases the odds that the new sporophyte will establish successfully.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[2:38] GYMNOSPERMS: NAKED SEEDS, NO FRUIT
+
+Gymnosperms and angiosperms both produce seeds, but they differ in one critical way: gymnosperms produce naked seeds. The seed forms but has no fruit surrounding it. When a gymnosperm seed matures, it is simply released — often dropped from a cone — and must survive on its own from that point. Angiosperms, by contrast, enclose their seeds in a fruit. The word gymnosperm literally means "naked seed."
+
+────────────────────────────────────────────────────────────────────────────────
+
+[3:13] PHYLUM CONIFEROPHYTA: PINE TREES AND CONES
+
+The most familiar and abundant gymnosperm group is Phylum Coniferophyta — the conifers. Every pine, spruce, fir, and Douglas fir you see is a conifer. Conifers have needle-like leaves, which are themselves an adaptation to reduce water loss. They reproduce using cones. The cones are the reproductive structures; seeds develop inside the female cones and are released when the cone opens.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:13] MALE AND FEMALE CONES
+
+Conifers produce two types of cones on the same tree (in most species). The large, woody cones most people picture are the female cones. These are where seeds form. Male cones are much smaller and softer, often appearing in clusters near branch tips in spring. Male cones are the pollen-producing structures. A single male cone can release enormous quantities of pollen — potentially a million microspores per cone — which is why cars and sidewalks are coated in yellow-green powder in spring. If you have seasonal allergies, the pollen causing itchy eyes and a runny nose is most likely pine pollen: the male gametophyte of a conifer.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[7:06] THE PINE TREE IS THE SPOROPHYTE
+
+The large pine tree you see — trunk, branches, needles, and cones — is the sporophyte. This is true for ferns and for angiosperms as well; only in mosses are you looking at the gametophyte as the visible, dominant organism. Sporophytes are diploid. The cones are extensions of the sporophyte and are therefore also diploid structures.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[9:29] FEMALE CONE: FROM MEGASPORE TO EGG
+
+Everything in the female life cycle happens inside the female cone:
+
+The diploid sporophyte (the female cone) undergoes meiosis and produces megaspores. Megaspores are haploid. They are called "mega" because they are larger than the male microspores, and they ultimately give rise to eggs.
+
+The megaspore does not leave the cone. Instead, it stays in place and develops — through mitosis — into the female gametophyte. The female gametophyte is still haploid; no fusion has occurred. The female gametophyte then matures and produces the female gamete: the egg. The egg is haploid. All of these steps — megaspore, female gametophyte, egg — occur inside the ovule, which is located within the female cone on the sporophyte.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[12:30] MALE CONE: FROM MICROSPORE TO POLLEN
+
+Inside the male cone, the sporophyte undergoes meiosis and produces microspores. Microspores are haploid and much smaller than megaspores. They develop into the male gametophyte. In seed plants the male gametophyte has a special name: pollen. The pollen grain is the male gametophyte. It is not sperm; it is the structure that will eventually make sperm. Pollen is released from the male cone in massive quantities and dispersed by wind.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[14:41] FERTILIZATION WITHOUT WATER: POLLEN MEETS EGG
+
+When pollen lands on or near a female cone and gets close to an egg, fertilization can proceed. The male gametophyte (pollen) has not yet made sperm at this point. Once the pollen grain is close to the egg, it develops sperm — and those sperm need to travel only a tiny distance to reach the egg. This is the key reason seed plants no longer need standing water: the sperm is delivered to the vicinity of the egg while still protected inside the pollen grain, and only then released to travel a microscopic distance. The sperm fertilizes the egg, producing a diploid zygote.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[17:48] THE SEED DEVELOPS AND THE CYCLE CONTINUES
+
+After fertilization, the zygote begins developing into a new sporophyte. Rather than growing directly into a pine tree, the embryo is first enclosed in a seed. Protective tissues and stored nutrients accumulate around the embryo — proteins, sugars, and fats — forming the seed coat and nutritive tissue. The seed is diploid (it houses the diploid embryo). When the female cone matures, it opens and the naked seeds fall out. If a seed lands in a suitable spot, it germinates, the embryo grows, and the cycle begins again with a new sporophyte.
+
+Summary of the gymnosperm life cycle:
+Sporophyte (pine tree) → meiosis → megaspores/microspores (haploid) → female/male gametophytes (haploid) → egg/sperm (haploid) → fertilization → zygote (diploid) → seed → new sporophyte.
+
+────────────────────────────────────────────────────────────────────────────────
+
+BIO 152 Principles of Biology II · Summer 2026 · Week 3 · Watch & Study

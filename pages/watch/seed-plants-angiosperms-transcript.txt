@@ -1,0 +1,118 @@
+SEED PLANTS: ANGIOSPERMS
+BIO 152 Principles of Biology II · Summer 2026 · Week 3
+Seed Plants — Flowering Plants · Educational Lecture
+Runtime: ~27 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:02] ANGIOSPERMS: THE FLOWERING PLANTS
+
+Angiosperms are the last and largest group of plants. Like gymnosperms they are seed plants, but angiosperms produce flowers and enclose their seeds in fruits. All flowering plants belong to Phylum Anthophyta — the only phylum within angiosperms — making this a one-to-one relationship: every member of Phylum Anthophyta is an angiosperm, and every angiosperm is in Phylum Anthophyta.
+
+When we say "flowering plants," keep in mind that all angiosperms have flowers, but many flowers are extremely small. Grasses are angiosperms; their flowers are tiny and easy to overlook. A useful field rule: if you see a plant that is clearly not a moss, fern, or pine-type conifer, it is almost certainly an angiosperm, whether or not you can see its flowers.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:21] SEEDS PROTECTED BY FRUIT
+
+Like gymnosperms, angiosperms produce seeds. The major distinction is that angiosperm seeds are enclosed in a fruit. The fruit develops from the ovary after fertilization. Fruit is not just what you find in the produce section — it is any mature ovary containing seeds. Fruits serve as seed-dispersal structures and take many different forms.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:50] FLOWER ANATOMY: THE STAMEN (MALE)
+
+A flower is itself a reproductive structure. It contains both male and female parts. The male reproductive structure is the stamen. A stamen consists of a slender stalk (the filament) topped by a bulb-like structure (the anther). The entire unit — stalk plus anther — is the stamen. The stamen is where male spores and, ultimately, the male gametophytes (pollen) are produced. Think of the stamen as analogous to the male cone of a pine tree. A typical flower has many stamens — often ten, twelve, or more — because the reproductive strategy on the male side is to produce as much pollen as possible.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[3:24] FLOWER ANATOMY: THE CARPEL (FEMALE)
+
+The female reproductive structure is the carpel. A flower typically has one carpel (sometimes several), but always fewer than the number of stamens. The carpel has three distinct parts, each of which plays a role in the life cycle:
+
+Stigma — the sticky top surface of the carpel. It is the landing and capture surface for pollen. Its stickiness increases the odds that airborne or pollinator-delivered pollen will adhere and remain.
+
+Style — the elongated stalk connecting the stigma to the ovary. Sperm will travel through the style on their way to the egg.
+
+Ovary — the enlarged, rounded base of the carpel. The ovary is where fertilization ultimately leads to seed development. Inside the ovary are one or more ovules.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[5:42] OVULE AND OVARY: SEEDS AND FRUIT
+
+Key relationships to memorize:
+• The ovule → becomes the seed after fertilization.
+• The ovary → becomes the fruit after fertilization.
+
+An ovule houses the egg. After the egg is fertilized, the entire ovule accumulates protective tissues and nutrients and becomes the seed. The ovary surrounding the ovule(s) enlarges and matures into the fruit. The number of seeds in a fruit matches the number of ovules that were in that ovary. A lemon with five seeds had five ovules. An avocado with one large seed had one ovule.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[6:29] PETALS AND POLLINATORS
+
+Conifers release pollen by wind and rely on chance. Angiosperms largely use a more targeted strategy: pollinators. Animals — typically insects, birds, or bats — visit flowers seeking nectar (a sugary liquid reward) and inadvertently pick up pollen on their bodies. When the pollinator visits another flower of the same species, pollen from the first flower rubs onto the sticky stigma of the second. Because pollinators actively move pollen between flowers, angiosperm pollen does not need to be released in massive airborne clouds. This is why pollen from flowering plants rarely causes seasonal allergies — it stays on the pollinator rather than dispersing through the air.
+
+Petals serve to attract pollinators through color, pattern, and scent. The wide variety of flower shapes, colors, and nectar compositions corresponds to the wide variety of pollinators.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[7:34] THE ANGIOSPERM LIFE CYCLE: OVERVIEW
+
+The angiosperm life cycle parallels the gymnosperm cycle very closely — the key novelty is flowers and fruit. All of the steps — sporophyte, meiosis, megaspores and microspores, gametophytes, egg and sperm, zygote, and seed — are present. As with pine trees, the large plant you see is the sporophyte and is diploid. The alternation of generations occurs entirely within the flower.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[10:03] FEMALE SIDE: MEGASPORE TO EGG INSIDE THE CARPEL
+
+Everything on the female side happens inside the carpel — specifically inside the ovule:
+
+The diploid sporophyte undergoes meiosis inside the ovule, producing a haploid megaspore. The megaspore stays inside the ovule and divides by mitosis to become the female gametophyte. The female gametophyte is haploid. It matures and produces the female gamete: the egg. The egg is haploid. At this point nothing has moved — the megaspore, gametophyte, and egg are all still inside the ovule inside the carpel on the sporophyte plant.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[12:20] MALE SIDE: MICROSPORES TO POLLEN
+
+Inside the stamen, the diploid sporophyte undergoes meiosis and produces microspores. Microspores are haploid. They develop by mitosis into the male gametophyte, which in seed plants is called pollen. Pollen is the male gametophyte — not sperm. Pollen grains sit on the stamen waiting for a pollinator to carry them to another flower.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[13:48] POLLINATION: POLLEN REACHES THE STIGMA
+
+A pollinator — say, a bee — visits a flower and unavoidably picks up pollen from the stamens. When the bee visits a second flower of the same species, some of that pollen adheres to the sticky stigma. This transfer of pollen from stamen to stigma is pollination.
+
+Once pollen lands on the stigma, chemical signals from the flower (including signals from the egg) trigger the pollen grain to begin developing sperm and growing a pollen tube. The pollen tube is a literal cellular tube that grows down through the style toward the ovary. The male gametophyte, still haploid, uses mitosis to extend this tube. Once the tube reaches the ovule, sperm travel through the tube to the egg. The pollen tube is why free water is not needed: sperm are delivered directly to the egg via a cellular pathway rather than swimming through an external water film.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[17:47] FERTILIZATION: ZYGOTE AND SEED FORMATION
+
+Sperm travel down the pollen tube and fertilize the egg inside the ovule. The fertilized egg is the zygote, which is diploid. The zygote is also called a baby sporophyte — it will develop into the new plant. The ovule surrounding the zygote accumulates fats, sugars, and proteins and develops a protective coat, forming the seed. The seed is diploid and houses the developing embryo.
+
+Meanwhile, the ovary surrounding the ovule(s) develops into the fruit. Both the seed and the fruit are diploid.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[19:41] FRUITS: STRUCTURE AND FUNCTION
+
+The entire function of a fruit is seed dispersal — getting seeds away from the parent plant so they can find new habitat and germinate without competing with the parent. Fruits accomplish this in several ways:
+
+Fleshy fruits (apples, tomatoes, pears, mangoes, avocados) are eaten by animals. The seeds pass through the digestive tract and are deposited elsewhere, often with a dose of natural fertilizer. Seeds of fleshy fruits tend to have tough seed coats that survive digestion.
+
+Wind-dispersed fruits (dandelion seeds, maple samaras) have structures — feathery appendages or wings — that slow their fall and allow wind to carry them.
+
+Burrs attach to fur or clothing via spines or hooks. As the animal moves, the fruit eventually detaches and falls elsewhere.
+
+Water-dispersed fruits (coconuts) float and can travel significant distances.
+
+A biological note: many things we call "vegetables" in the kitchen are biologically fruits. Tomatoes, cucumbers, green bell peppers, and pumpkins all contain seeds and develop from an ovary — they are fruits by the scientific definition. Culinary tradition calls them vegetables because we use them in savory dishes, but biologically they are fruits.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[24:31] CO-EVOLUTION OF POLLINATORS AND ANGIOSPERMS
+
+Co-evolution refers to a reciprocal evolutionary relationship between two species: each drives change in the other over time. The relationship between flowering plants and their pollinators is a classic example. The plant evolves flower shapes, colors, and nectar chemistry that attract a particular pollinator. The pollinator evolves a body shape, mouthpart length, or sensory capability that improves its access to that flower's reward. Over generations, each species shapes the evolution of the other. The long-billed hummingbird and the trumpet-shaped flowers it feeds on are an example to be explored in class.
+
+Not all pollinators have a specialized co-evolved relationship — many are generalists — but co-evolutionary pairs represent some of the most striking examples of mutual adaptation in the living world.
+
+────────────────────────────────────────────────────────────────────────────────
+
+BIO 152 Principles of Biology II · Summer 2026 · Week 3 · Watch & Study

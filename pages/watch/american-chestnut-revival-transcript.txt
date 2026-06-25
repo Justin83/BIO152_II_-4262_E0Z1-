@@ -1,0 +1,66 @@
+REVIVING THE AMERICAN FOREST WITH THE AMERICAN CHESTNUT
+BIO 152 Principles of Biology II · Summer 2026 · Week 3
+Speaker: William Powell · TEDxDeExtinction
+Runtime: ~15 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:03] THE AMERICAN CHESTNUT: A LOST KEYSTONE SPECIES
+
+When is the last time you saw an American chestnut tree? Most people have never seen one — and that is a sad and true story. Only some of our most senior citizens have seen American chestnut trees the way they used to be. They were once among the most abundant trees in the eastern forests of North America: one out of every four trees in the Appalachian Mountains was an American chestnut.
+
+The American chestnut was a keystone species, meaning that many other animals and wildlife depended on it for survival. The primary reason was the mast — the nut crop — that it produced reliably year after year. Oak trees, which have largely replaced the chestnut, do not produce the consistent, stable mast that the chestnut did. When the chestnut was lost, squirrel populations in the forest declined. Many other animals also relied on the chestnut, including some now-extinct species such as the Carolina parakeet and possibly the passenger pigeon.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[2:11] ECONOMIC AND CULTURAL VALUE
+
+The American chestnut had enormous value beyond ecology. It was a productive nut crop for agriculture: humans ate chestnuts roasted, candied, ground into flour for soups and breads, and even brewed into a gluten-free beer. The wood was straight-grained, fast-growing, and highly rot-resistant — suitable for outdoor use without chemical treatment. If chestnut were still abundant, decks would be built from it instead of pressure-treated lumber, and utility poles would not need chemical preservation. The tree was also deeply embedded in American cultural heritage: chestnut streets appear in towns across the country, from well within to well beyond the tree's native range. The song "Chestnuts Roasting on an Open Fire" and Longfellow's poem "Under the Spreading Chestnut Tree" both reference it.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:54] THE CHESTNUT BLIGHT: HOW 3–5 BILLION TREES WERE LOST
+
+Why don't we have American chestnuts today? Humans introduced an exotic pathogen from Asia. When people began importing Asian chestnut trees to plant in yards and orchards, the fungus that causes chestnut blight — Cryphonectria parasitica — came with them. The Asian chestnuts had co-evolved with this fungus and were largely resistant. American chestnuts had no such resistance.
+
+The fungus found a completely susceptible host, jumped to the American chestnut, and within 50 years had spread across the entire range of the species — from Georgia to Maine. It killed somewhere between 3 and 5 billion trees. Chestnut is not extinct: the root systems still survive and sprout, but the sprouts die before they can mature. The species is functionally extinct as a forest tree.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[6:29] TWO RESTORATION APPROACHES: BREEDING AND TRANSGENICS
+
+Two programs are currently making progress toward a blight-resistant American chestnut.
+
+The breeding program crosses American chestnut with Chinese chestnut (which is naturally blight-resistant, since that is where the blight originated) and then back-crosses the offspring to American chestnut to recover American traits. After multiple generations of back-crossing, the result is a tree that is 15/16 American and 1/16 Chinese. Using a book analogy: if the chestnut genome is a 180-page book, about 11 pages of text come from Chinese genes. While most of those genes may be neutral duplicates, some may introduce undesired traits from the Chinese chestnut — which has been bred for thousands of years as an orchard tree, very different from the wild timber-type American chestnut. Breeding out unwanted traits takes a great deal of additional selection work.
+
+The transgenic program inserts only 2–4 genes at a time using Agrobacterium tumefaciens, a naturally occurring soil bacterium that moves genes into plant cells. This approach changes only a very small part of the genome — the equivalent of inserting one sentence into a 180-page book — without introducing thousands of unwanted genes from another species.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[9:37] THE OXALATE OXIDASE GENE FROM WHEAT
+
+One transgenic approach has shown particular promise: inserting an oxalate oxidase gene derived from wheat. The gene is already present in food humans eat regularly, making it generally regarded as safe. More importantly, it directly counters the fungus's attack mechanism.
+
+Chestnut blight kills trees by secreting oxalic acid, which creates a canker that girdles a branch and kills everything above it. The oxalate oxidase enzyme detoxifies oxalic acid — not by killing the fungus, but by neutralizing the weapon the fungus uses. The tree defends itself without eliminating the pathogen entirely.
+
+Experimental results with the Darling 4 transgenic tree showed canker sizes approaching those of resistant Chinese chestnut, far smaller than untreated American chestnut. Newer trees producing more of the enzyme show even greater resistance in preliminary tests — potentially exceeding Chinese chestnut levels.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[11:57] BUILDING GENETIC DIVERSITY AND NEXT STEPS
+
+Because the transgenic process produces only a few trees at a time, the first step after creating a resistant line is to cross it with surviving wild American chestnuts to broaden genetic diversity. A new method developed by Powell's lab allows pollen to be harvested from seedlings in under a year — compared to the 3–7 years typically required — accelerating the back-crossing and diversification process. The team has produced nuts from these crosses that carry the resistance gene; those nuts are being analyzed at Oak Ridge National Laboratory to confirm they are not nutritionally different from wild-type chestnuts.
+
+Before any transgenic chestnut can be planted for restoration, approval is required from three regulatory agencies: the USDA, the EPA, and the FDA.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[13:23] RESTORATION FOCI AND THE CENTURY-LONG PROJECT
+
+The range of the American chestnut is large; restoration cannot happen all at once. The proposed strategy starts with restoration foci — small, defined areas where an initial population of trees can be established and allowed to expand outward naturally. Strong candidates include reclaimed mine lands in Appalachia, where there are no existing trees to displace and where chestnut would represent a genuine ecological improvement.
+
+Ultimately, the scale of restoration required to bring back billions of trees is a project that spans generations. It requires the involvement of the public — not just researchers — including future generations of students and volunteers. For anyone interested in participating, the American Chestnut Foundation coordinates restoration work.
+
+────────────────────────────────────────────────────────────────────────────────
+
+BIO 152 Principles of Biology II · Summer 2026 · Week 3 · Watch & Study

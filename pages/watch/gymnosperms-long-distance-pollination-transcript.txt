@@ -1,0 +1,65 @@
+GYMNOSPERMS: LONG-DISTANCE POLLINATION
+BIO 152 Principles of Biology II · Summer 2026 · Week 3
+Chapter 29/30: Seed Plants · Educational Lecture
+Video: https://www.youtube.com/watch?v=0J-QqDGdprs
+Runtime: ~5 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:06] GYMNOSPERMS IN THE EVOLUTIONARY HISTORY OF VASCULAR PLANTS
+
+As we move through the evolutionary history of vascular plants, getting closer and closer to the present, the next group we must discuss is gymnosperms. Gymnosperms are the first of two kinds of true seed-bearing plants, called spermatophytes. The word gymnosperm means "naked seeds," because their seeds do not exist within chambers such as fruits or nuts.
+
+This group includes the plants known as conifers, as well as the cycads and ginkgo trees. Ginkgo biloba, the ginkgo tree, is a special example: these trees first evolved in the early Jurassic period, more than 270 million years ago, and they have changed relatively little since then, so they are known as living fossils and were among the first gymnosperms on the planet. The ginkgo trees we are familiar with today are the last extant — still-living — species of their kind.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:05] THE SPOROPHYTE IS DOMINANT; GAMETOPHYTES ARE TINY
+
+As is true for all vascular plants, in gymnosperms the diploid sporophyte is the dominant generation — the generation we are most aware of seeing. The large pine tree, the ginkgo tree, and the cycad you observe in a park are all sporophytes. However, the gametophytes in seed-bearing plants are much smaller and less distinct than the gametophytes we see in mosses or ferns. In seed plants, the gametophyte is so reduced that it lives entirely within the tissues of the sporophyte — you never see it as a separate structure.
+
+When a gymnosperm sporophyte like a pine tree becomes sexually mature, it develops two types of cones: male cones and female cones.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:35] MALE AND FEMALE CONES: MAKING GAMETOPHYTES
+
+Meiosis occurs within the male cones to create male gametophytes. These are sometimes called pollen grains, though the gametophyte is actually inside the grain, protected by sporopollenin in the pollen wall. Meiosis also occurs within the female cones to create female gametophytes within structures called ovules.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:59] WIND POLLINATION: THE KEY EVOLUTIONARY BREAKTHROUGH
+
+Pollination is the process of moving pollen from the male cones to the female cones for fertilization. Gymnosperms have some novel features to their fertilization process that gave them an immense evolutionary advantage over other existing plants.
+
+With gymnosperms, pollination is sometimes facilitated by water, but more often by wind — which was a brand-new mechanism. This had an important result: plants no longer required a body of water nearby in order to transfer sperm and achieve fertilization. Where earlier plants like bryophytes and lycophytes were all relegated to a very small distance from some body of water, gymnosperms suddenly were not tethered in the same way. For the first time in the history of the planet, forests full of large trees could stretch out over vast expanses of dry terrain.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[2:57] FERTILIZATION INSIDE THE OVULE
+
+Once pollen has successfully arrived at the female cone, some of it will enter the cone and gain access to the ovule. There are two primary methods of fertilization in gymnosperms.
+
+Cycads and ginkgos have motile sperm that can swim directly to the egg within the ovule. Conifers, however, have sperm with no flagellum. Instead, an outgrowth called a pollen tube forms, through which the generative cell in the pollen travels to encounter the female gametophyte. The generative cell splits into two sperm nuclei; one of these fuses with the egg, while the other degenerates.
+
+After fertilization, the result is a diploid zygote, which will eventually become a new sporophyte. The zygote divides by mitosis to form the embryo — just as in animals.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[3:56] THE GYMNOSPERM SEED
+
+A matured gymnosperm seed is made up of three parts: the embryo, the remains of the female gametophyte (which functions as a food supply), and the seed coat. No fruit surrounds the seed — which is precisely why scientists refer to this plant group as having naked seeds. The seed has been built around the embryo and its food source; it is a self-contained package for dispersal.
+
+While this process has been outlined in an abbreviated way here, it actually takes around three years for the male and female gametophytes to be produced, brought together, and for mature seeds to form from fertilized ovules.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:29] SEED DISPERSAL AND THE TRANSFORMATION OF EARTH
+
+Once a gymnosperm seed is ready to be dispersed, the female cone opens to allow dispersal to occur. These seeds offer numerous advantages over the spores of earlier plant groups: they offer more protection, more nourishment, and can remain dormant for extended periods of time before germinating. And as noted above, seeds can be carried far by wind, enabling these plants to spread over large distances.
+
+The evolution of gymnosperms transformed the face of the earth. Land was not covered by forests until these plants came along — and with their release from water dependence, they could colonize terrain that had never before supported tall plant life.
+
+────────────────────────────────────────────────────────────────────────────────
+
+BIO 152 Principles of Biology II · Summer 2026 · Week 3 · Watch & Study
