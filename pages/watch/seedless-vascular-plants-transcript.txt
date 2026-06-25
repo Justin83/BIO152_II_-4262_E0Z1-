@@ -1,0 +1,87 @@
+SEEDLESS, VASCULAR PLANTS
+BIO 152 Principles of Biology II · Summer 2026 · Week 4
+Chapter 29: Land Plants · Recorded Course Lecture
+Video: https://www.youtube.com/watch?v=4IcbmEnxe8g
+Runtime: ~22 min
+
+────────────────────────────────────────────────────────────────────────────────
+
+[0:00] TRUE VASCULAR TISSUE & LARGER PLANTS
+
+Ferns are the model seedless vascular plants. They retain a spore-based, water-dependent reproductive cycle, but they have true transport tissues that allow larger, more structurally complex plant bodies than mosses.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[1:15] XYLEM: WATER FROM ROOTS TO SHOOTS
+
+Xylem transports water and dissolved minerals from roots into shoots and leaves. Efficient upward water movement supports taller growth and allows vascular plants to occupy a broader range of terrestrial habitats.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[2:15] PHLOEM: TRANSPORTING SUGARS
+
+Phloem transports products of photosynthesis, especially sugars, from source tissues to tissues that use or store them. Its direction depends on the current source–sink relationship rather than always being downward.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[3:20] ROOTS, RHIZOIDS & FERNS
+
+True roots both anchor a plant and absorb water and mineral nutrients. This differs from the rhizoids of mosses, which primarily anchor the gametophyte. Ferns represent the seedless vascular group and have true roots along with vascular tissue.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[4:20] CARBONIFEROUS FORESTS, COAL & CLIMATE
+
+Ancient vascular-plant forests, including extensive fern relatives, contributed to the formation of coal deposits. Their large-scale capture and burial of carbon connects the evolution of plants to Earth’s carbon cycle, atmospheric carbon dioxide, and long-term climate history.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[7:30] ALTERNATION OF GENERATIONS IN FERNS
+
+Ferns follow the same basic alternation-of-generations pattern as mosses:
+
+sporophyte → meiosis → spores → gametophyte → gametes → fertilization → sporophyte.
+
+The major difference is which generation is prominent and independent.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[9:00] THE FERN IS THE DIPLOID SPOROPHYTE
+
+The familiar leafy fern is the diploid sporophyte. Sporangia develop on the fern fronds. Meiosis in each sporangium forms haploid spores.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[11:00] SPORES GROW INTO A PROTHALLUS
+
+A haploid fern spore germinates into a small gametophyte called a prothallus. The prothallus is much smaller than the fern sporophyte and is often heart-shaped. It is the haploid stage that produces gametes.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[13:30] ANTHERIDIA & ARCHEGONIA ON THE PROTHALLUS
+
+The prothallus contains antheridia, which form sperm, and archegonia, which contain eggs. The reproductive structures are associated with the gametophyte. In many ferns, timing of maturity can reduce the chance of self-fertilization and promote genetic variation.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[15:00] WATER, FERTILIZATION & GENETIC VARIATION
+
+Ferns still require free water for sperm to reach an egg. This is why they are seedless vascular plants rather than fully water-independent seed plants. Fertilization creates a diploid zygote.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[18:00] NEW SPOROPHYTE FORMATION
+
+The diploid zygote develops into a young sporophyte. Unlike the moss sporophyte, the fern sporophyte eventually becomes independent of the gametophyte and develops into the large leafy plant normally recognized as a fern.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[19:20] FERN LIFE-CYCLE SUMMARY
+
+Ferns have vascular tissue, true roots, an independent dominant sporophyte, and a small gametophyte called a prothallus. They remain seedless and depend on water for fertilization.
+
+────────────────────────────────────────────────────────────────────────────────
+
+[21:00] VOCABULARY & TRANSITION TO SEED PLANTS
+
+Review these terms before moving forward: xylem, phloem, root, sporophyte, sporangium, meiosis, spore, prothallus, gametophyte, antheridium, archegonium, sperm, egg, and fertilization. The next major adaptation in land plants is the seed, which reduces dependence on free water for reproduction.
