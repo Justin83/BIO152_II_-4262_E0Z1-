@@ -1,0 +1,35 @@
+Animal Development & Body Plans — Selected Transcript
+====================================================
+
+BIO 152 assigned viewing: 0:00–7:20
+Video: Crash Course Biology #16, “Animal Development: We're Just Tubes”
+
+[0:00–1:16] Animal diversity and early development
+
+Animals come in many shapes and sizes. At the phylum level, biologists compare animals in part by developmental differences that arise during the earliest stages after fertilization. Early embryonic organization strongly influences the form of the multicellular organism that develops.
+
+[1:16–2:30] Symmetry, organization, and body-plan differences
+
+The video contrasts broad differences in animal body organization, including symmetry, the number of organs, and cell specialization. It uses sea sponges as an example of animals with little or no symmetry and no true organs. The central idea for this course is not that one animal group is “higher” than another; it is that animal groups differ in body-plan organization and development.
+
+[2:30–3:37] From zygote to blastula
+
+Gametes are haploid cells. Fertilization combines sperm and egg information to produce a diploid zygote. The zygote divides repeatedly by mitosis, forming a solid ball of cells (a morula). As cells continue dividing, a fluid-filled central space forms, producing a hollow ball of cells called a blastula.
+
+[3:37–5:20] Digestive tracts, symmetry, and gastrulation
+
+Many animals have a mouth and anus connected by a digestive tract. Animals with radial symmetry, including cnidarians, commonly have one opening that functions in both feeding and waste removal. Most bilaterally symmetrical animals have a complete digestive tract with separate mouth and anus openings.
+
+Gastrulation begins when one region of the blastula folds inward. The inward-folding location is the blastopore. Continued folding creates the gastrula and establishes the basic tube-within-a-tube organization associated with a digestive tract.
+
+[5:20–6:22] Protostomes and deuterostomes
+
+The video introduces the classic developmental comparison: in protostomes, the blastopore is traditionally described as becoming the mouth; in deuterostomes, the blastopore is traditionally described as becoming the anus. This is a useful broad introductory comparison, but real developmental patterns are more varied than a single absolute rule.
+
+[6:22–7:20] Germ layers
+
+At this point, the embryo has an outer ectoderm and an inner endoderm. Animals with two germ layers are diploblastic. Most bilaterally symmetrical animals develop a third layer, the mesoderm, and are triploblastic.
+
+The ectoderm contributes to the outer body covering and much of the nervous system. The endoderm contributes to the digestive tract and associated internal structures. The mesoderm contributes to tissues such as muscle, circulatory structures, reproductive structures, and—in vertebrates—much of the skeleton.
+
+Stop here for BIO 152. The remainder of the video discusses Haeckel and the history of recapitulation theory; it is not required for Week 5.
