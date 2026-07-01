@@ -1,0 +1,46 @@
+Protostomes: A Comparative Overview — Transcript
+================================================
+
+BIO 152 required viewing: complete video (~7 minutes)
+
+[0:00–0:57] Bilaterians and cephalization
+
+This phylogenetic tree presents a well-supported hypothesis for evolutionary relationships among major animal groups. Protostomes and deuterostomes share a common ancestor. Both groups are bilaterians: animals with bilateral symmetry. A bilaterally symmetrical animal can be divided into mirror-image halves by a single plane through the body midline.
+
+Bilateral symmetry is associated with a distinct front end that concentrates sensory and nervous tissues. As an animal moves forward, this anterior region can assess new environmental conditions before the rest of the body enters them.
+
+[0:58–1:23] Triploblastic development and mesoderm
+
+Protostomes and other bilaterians are triploblastic. They develop three embryonic cell layers: ectoderm, endoderm, and mesoderm. Mesoderm contributes to muscles and many other tissues, organs, and organ systems.
+
+[1:24–2:00] Classic protostome/deuterostome comparison
+
+Protostomes and deuterostomes have diversified separately for more than 500 million years. During gastrulation, the early embryo forms a blastopore. In the classic comparison, the protostome blastopore is described as giving rise to the mouth, while the deuterostome blastopore is described as giving rise to the anus and the mouth forms later.
+
+Use this as a broad introductory developmental comparison; real development is more variable than a single absolute rule.
+
+[2:01–2:59] Shared protostome organization and major lineages
+
+Protostomes are extremely varied, but many share an anterior brain around the entrance of the digestive tract and a ventral nervous system with paired or fused longitudinal nerve cords.
+
+Protostomes can be organized into two major clades: lophotrochozoans and ecdysozoans. Ecdysozoans are distinguished by molting, or shedding an external covering called a cuticle.
+
+[3:00–3:51] Lophophores and trochophore larvae
+
+The name lophotrochozoan refers to two ciliated features. A lophophore is a circular or U-shaped ring of ciliated hollow tentacles around the mouth. It functions in food collection and gas exchange. A trochophore is a free-living larval form. Neither feature is present in every lophotrochozoan lineage.
+
+[3:52–4:12] Annelid segmentation
+
+Annelids are segmented. Septa separate the segments from one another. Segmentation allows different parts of the body to move more independently and improves control of movement.
+
+[4:13–5:36] Cuticles and molting
+
+Ecdysozoans have a cuticle secreted by the epidermis. The cuticle can provide protection and support, but it cannot grow once formed. The animal must shed or molt the cuticle and replace it with a larger one to increase in size.
+
+In many worm-like ecdysozoans, the cuticle is thin and flexible. It allows exchange across the body surface but restricts these animals to moist habitats.
+
+[5:37–7:05] Arthropod exoskeletons and jointed appendages
+
+In arthropods, the cuticle forms a thicker external skeleton, or exoskeleton. It includes proteins and chitin, a strong waterproof polysaccharide. Arthropod bodies are segmented, and the segments bear specialized appendages.
+
+Muscles attach to the inside of the exoskeleton and operate individual segments and their appendages. Arthropod appendages can be specialized for sensing, holding or gathering food, walking, swimming, and—in insects—flight. These specialized jointed appendages contribute to the extraordinary diversity and evolutionary success of arthropods.
