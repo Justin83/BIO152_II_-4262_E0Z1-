@@ -1,7 +1,7 @@
 {
   "repo": "Justin83/BIO152_II_-4262_E0Z1-",
   "pagesBase": "https://justin83.github.io/BIO152_II_-4262_E0Z1-",
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-07-01",
   "pages": [
     {"name":"Course Home","path":"index.html","version":"1.0","module":null,"category":"course-home","data":"static","status":"ready","description":"Internal index page - not for Blackboard"},
     {"name":"About This Course","path":"pages/start-here/about-this-course.html","version":"1.0","module":null,"category":"start-here","data":"static","status":"ready","description":"Course intro page for the Start Here module"},
@@ -32,6 +32,7 @@
     {"path":"pages/watch/ch30-seed-plants-angiosperms.html","name":"Watch: Seed Plants — Angiosperms (Ch. 30)","version":"1.0","module":3,"category":"watch","data":"static","status":"ready","description":"Recorded course lecture on angiosperm seed plants: flower anatomy (stamen, carpel), ovule-to-seed and ovary-to-fruit conversions, pollen tube, double fertilization, fruit types and dispersal, and co-evolution of pollinators and angiosperms."},
     {"path":"pages/watch/ch30-gymnosperms-long-distance-pollination.html","name":"Watch: Gymnosperms — Long-Distance Pollination (Ch. 30)","version":"1.0","module":3,"category":"watch","data":"static","status":"ready","description":"Short educational video on gymnosperm life cycle and wind pollination as a key evolutionary breakthrough: gametophyte reduction, male/female cones, fertilization inside the ovule, seed structure, and the ecological transformation enabled by gymnosperm forests."},
     {"path":"pages/watch/ch31-american-chestnut-revival.html","name":"Watch: Reviving the American Forest with the American Chestnut (Ch. 31)","version":"1.0","module":4,"category":"watch","data":"static","status":"ready","description":"TEDxDeExtinction talk by William Powell on American chestnut history, the chestnut blight (Cryphonectria parasitica), oxalic acid mechanism, transgenic restoration using oxalate oxidase, breeding vs. transgenics comparison, and multi-generational restoration strategy."},
-    {"path":"pages/watch/ch31-wheat-blast.html","name":"Watch: Wheat Blast — An Emerging Threat to Wheat (Ch. 31)","version":"1.0","module":4,"category":"watch","data":"static","status":"ready","description":"USDA/Kansas State University overview of wheat blast (Magnaporthe oryzae): global food security stakes, disease origins in Brazil, yield losses, U.S. research response including resistance screening and molecular detection tools, and forecasting efforts."}
+    {"path":"pages/watch/ch31-wheat-blast.html","name":"Watch: Wheat Blast — An Emerging Threat to Wheat (Ch. 31)","version":"1.0","module":4,"category":"watch","data":"static","status":"ready","description":"USDA/Kansas State University overview of wheat blast (Magnaporthe oryzae): global food security stakes, disease origins in Brazil, yield losses, U.S. research response including resistance screening and molecular detection tools, and forecasting efforts."},
+    {"path":"pages/watch/ch32-animal-development-body-plans.html","name":"Watch: Animal Development & Body Plans (Ch. 32)","version":"1.0","module":5,"category":"watch","data":"static","status":"ready","description":"Crash Course Biology overview of animal body plans: symmetry, blastula and gastrulation, blastopore, complete digestive tracts, germ layers, and a classic protostome/deuterostome comparison. Required viewing through 7:20."}
   ]
 }
