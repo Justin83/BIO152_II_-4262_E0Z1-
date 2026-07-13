@@ -1,7 +1,7 @@
 {
   "repo": "Justin83/BIO152_II_-4262_E0Z1-",
   "pagesBase": "https://justin83.github.io/BIO152_II_-4262_E0Z1-",
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-13",
   "pages": [
     {"name":"Course Home","path":"index.html","version":"1.0","module":null,"category":"course-home","data":"static","status":"ready","description":"Internal index page - not for Blackboard"},
     {"name":"About This Course","path":"pages/start-here/about-this-course.html","version":"1.0","module":null,"category":"start-here","data":"static","status":"ready","description":"Course intro page for the Start Here module"},
@@ -35,6 +35,7 @@
     {"path":"pages/watch/ch31-wheat-blast.html","name":"Watch: Wheat Blast — An Emerging Threat to Wheat (Ch. 31)","version":"1.0","module":4,"category":"watch","data":"static","status":"ready","description":"USDA/Kansas State University overview of wheat blast (Magnaporthe oryzae): global food security stakes, disease origins in Brazil, yield losses, U.S. research response including resistance screening and molecular detection tools, and forecasting efforts."},
     {"path":"pages/watch/ch32-animal-development-body-plans.html","name":"Watch: Animal Development & Body Plans (Ch. 32)","version":"1.0","module":5,"category":"watch","data":"static","status":"ready","description":"Animal body plans: symmetry, blastula and gastrulation, blastopore, complete digestive tracts, germ layers, and a classic protostome/deuterostome comparison. Required viewing through 7:20."},
     {"path":"pages/watch/ch33-protostomes-overview.html","name":"Watch: Protostomes — A Comparative Overview (Ch. 33)","version":"1.0","module":5,"category":"watch","data":"static","status":"ready","description":"Required short overview of protostome organization: bilateral symmetry, triploblastic development, Lophotrochozoa, Ecdysozoa, lophophores, trochophore larvae, segmentation, molting, and the arthropod body plan."},
-    {"path":"pages/watch/ch33-arthropods.html","name":"Watch: Arthropods — Body Plan, Exoskeletons & Metamorphosis (Ch. 33)","version":"1.0","module":5,"category":"watch","data":"static","status":"ready","description":"Focused required arthropod viewing: segmentation, tagmata, chitinous exoskeletons, molting, specialized appendages, and metamorphosis."}
+    {"path":"pages/watch/ch33-arthropods.html","name":"Watch: Arthropods — Body Plan, Exoskeletons & Metamorphosis (Ch. 33)","version":"1.0","module":5,"category":"watch","data":"static","status":"ready","description":"Focused required arthropod viewing: segmentation, tagmata, chitinous exoskeletons, molting, specialized appendages, and metamorphosis."},
+    {"path":"pages/watch/ch41-animal-organization-tissues.html","name":"Watch: Animal Organization and Tissues — Part 1 (Ch. 41)","version":"1.0","module":5,"category":"watch","data":"static","status":"draft","description":"Instructor-created Chapter 41 Part 1 overview of levels of organization, epithelial and connective tissues, the three muscle types, neuron structure, myelin, and neuroglia. Draft pending the YouTube link."}
   ]
 }
