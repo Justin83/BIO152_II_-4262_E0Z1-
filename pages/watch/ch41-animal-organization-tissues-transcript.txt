@@ -1,0 +1,130 @@
+Chapter 41: Animal Organization and Tissues — Part 1
+======================================================
+BIO 152 Principles of Biology II — Summer 2026
+Instructor: Justin Howard
+Runtime: approximately 27 minutes
+
+This transcript was edited from the recorded captions for readability and scientific terminology. The spoken video includes a few wording errors; the companion Watch & Study page lists those corrections explicitly.
+
+[0:00] Introduction and Chapter 41 plan
+----------------------------------------
+
+Hello, biology students. This is Part 1 of a two-part Chapter 41 overview. Part 1 focuses on levels of organization and the four primary tissue types. Part 2 will continue with organ systems, homeostasis, feedback, and temperature regulation.
+
+The goal is to provide a concise instructor-created alternative to much longer outside lectures. During the recording, I will move between the slides and the board to draw and explain key structures.
+
+[0:57] Levels of organization
+------------------------------
+
+Biologists organize complex systems into levels. For this chapter, the major levels are cells, tissues, organs, and organ systems.
+
+A cell is the smallest living unit. Cells carry out metabolism, exchange materials with the environment, contain hereditary information, and may divide. Molecules such as proteins and lipids are smaller than cells, but they are not independently alive.
+
+A tissue is a group of cells and extracellular material organized to perform related functions. The four primary tissue types in vertebrates are epithelial, connective, muscle, and nervous tissue.
+
+An organ contains two or more tissue types working together as a structural and functional unit. The heart, for example, contains cardiac muscle, nervous tissue, connective tissue, and epithelial linings. Even a skeletal muscle such as the biceps is an organ because it contains muscle fibers, connective tissues, blood vessels, and nerves.
+
+An organ system is a group of organs working together to perform a major body function. Examples include the digestive, respiratory, cardiovascular, urinary, reproductive, nervous, endocrine, skeletal, muscular, integumentary, and immune systems.
+
+[4:16] Embryonic germ layers and the four primary tissues
+----------------------------------------------------------
+
+During early embryonic development, three germ layers form: ectoderm, mesoderm, and endoderm.
+
+Ectoderm gives rise broadly to the epidermis and nervous system. Mesoderm gives rise to muscle and most connective tissues. Endoderm contributes to epithelial linings of the digestive and respiratory systems. These are broad developmental patterns rather than a complete list of every derivative.
+
+[5:10] Epithelial tissue: characteristics and surfaces
+-------------------------------------------------------
+
+Epithelial tissue covers body surfaces, lines cavities and passages, and forms glands. Its cells are tightly packed, with very little extracellular material between them. Epithelia usually regenerate rapidly.
+
+Epithelial tissues are avascular. Capillaries are located in the underlying connective tissue, and nutrients and wastes diffuse across the basement membrane.
+
+An epithelium has polarity. The apical or free surface faces the outside of the body, a body cavity, or the lumen of an organ. The basal surface attaches to the basement membrane and underlying connective tissue.
+
+Epithelial structure supports epithelial function. Thin epithelia are well suited for diffusion. Taller cells provide more internal space for secretion, absorption, and transport machinery. Multiple layers provide protection in areas exposed to friction.
+
+[8:50] Classifying epithelial tissue
+-------------------------------------
+
+Epithelia are named using two main features: the number of cell layers and the shape of the cells at the apical surface.
+
+Simple epithelium has one layer. Stratified epithelium has two or more layers. Pseudostratified epithelium appears multilayered because nuclei occur at different heights, but all cells contact the basement membrane.
+
+Squamous cells are thin and flat. Cuboidal cells are about as tall as they are wide. Columnar cells are taller than they are wide.
+
+These terms combine to produce names such as simple squamous, simple cuboidal, simple columnar, pseudostratified columnar, and stratified squamous epithelium.
+
+[9:30] Structure and function examples
+---------------------------------------
+
+The small intestine is lined mainly by simple columnar epithelium. The intestinal mucosa forms villi, and individual epithelial cells have microvilli. These structures greatly increase surface area for absorption. Nutrients move through the epithelial cells and then enter blood or lymphatic vessels in the underlying tissue.
+
+The lungs provide a contrasting example. Gas exchange occurs in microscopic air sacs called alveoli. Much of each alveolar wall is formed by very thin simple squamous epithelial cells. Their short diffusion distance supports rapid movement of oxygen into the blood and carbon dioxide out of the blood.
+
+[11:52] Pseudostratified and stratified epithelia
+--------------------------------------------------
+
+Pseudostratified columnar epithelium commonly lines parts of the respiratory tract. Its nuclei appear at different heights, making the tissue look layered. All cells contact the basement membrane, although not all reach the apical surface. Goblet cells secrete mucus, and cilia help move the mucus toward the pharynx.
+
+Stratified squamous epithelium contains several layers and is suited for protection. It occurs in the epidermis and in internal surfaces exposed to abrasion, such as the mouth and esophagus.
+
+Simple cuboidal epithelium commonly lines ducts and tubules and participates in secretion and absorption. Transitional epithelium, rather than cuboidal epithelium generally, is specialized to stretch in organs such as the urinary bladder.
+
+[13:02] Connective tissue and extracellular matrix
+---------------------------------------------------
+
+Connective tissues differ from epithelia because their cells are usually separated by an abundant extracellular matrix. The matrix contains ground substance and protein fibers and may be fluid, flexible, firm, or mineralized.
+
+Blood has a fluid matrix called plasma. Tendons and ligaments contain abundant collagen fibers arranged to resist tension. Cartilage has a firm but flexible matrix. Bone has a mineralized matrix that provides rigid support.
+
+Fibroblasts are active cells that produce much of the extracellular matrix in connective tissue proper. Important fibers include collagen fibers, which provide tensile strength; elastic fibers, which allow stretch and recoil; and reticular fibers, which form supportive networks.
+
+[15:58] Connective tissue proper
+--------------------------------
+
+Loose connective tissue contains abundant ground substance and loosely arranged fibers. It binds and supports other tissues, fills spaces, and commonly lies beneath epithelia.
+
+Dense regular connective tissue contains parallel collagen fibers. This arrangement provides strong resistance to pulling in one main direction, as in tendons and many ligaments.
+
+Dense irregular connective tissue contains collagen fibers arranged in several directions. It resists stress from multiple directions and occurs in structures such as the dermis and fibrous capsules around organs.
+
+Adipose tissue contains adipocytes specialized for lipid storage. It stores energy, cushions organs, and helps insulate the body.
+
+[17:57] Specialized connective tissues: cartilage, bone, and blood
+------------------------------------------------------------------
+
+Cartilage contains chondrocytes located in spaces called lacunae. Its matrix is firm and flexible. Cartilage is avascular and generally heals slowly. Different cartilage types occur in joint surfaces, intervertebral discs, the nose, the external ear, and other locations.
+
+Bone contains osteocytes in lacunae within a mineralized matrix. Tiny channels called canaliculi permit communication and exchange between cells. Bone is living, vascular tissue that continually remodels and can repair itself.
+
+Blood contains formed elements suspended in plasma. Erythrocytes transport respiratory gases. Leukocytes participate in immune defense. Platelets are cell fragments involved in clotting. Plasma also carries nutrients, wastes, proteins, hormones, and other dissolved materials.
+
+[21:32] Muscle tissue
+----------------------
+
+There are three major muscle tissue types: skeletal, smooth, and cardiac.
+
+Skeletal muscle is usually under voluntary control. Its fibers are long, cylindrical, multinucleated, and striated. The striations reflect the ordered arrangement of actin and myosin filaments. Skeletal muscle moves the skeleton and contributes to posture and heat production.
+
+Smooth muscle is involuntary and nonstriated. Its cells are spindle-shaped with a single central nucleus. Smooth muscle occurs in the walls of hollow organs and vessels. It produces movements such as peristalsis, changes blood-vessel diameter, and alters the diameter of airways and the pupil. During urination, the detrusor smooth muscle of the bladder contracts while urethral sphincters relax.
+
+Cardiac muscle is involuntary, striated, and branching. It occurs only in the heart. Cardiac cells connect at intercalated discs, which contain strong anchoring junctions and gap junctions. Gap junctions allow ions and electrical current to pass between cells and help coordinate contraction.
+
+[24:26] Nervous tissue and neuron structure
+-------------------------------------------
+
+Nervous tissue contains neurons and supporting neuroglial cells.
+
+A typical neuron has a cell body, dendrites, and an axon. The cell body contains the nucleus and much of the cell's metabolic machinery. Dendrites generally receive signals and carry information toward the cell body. The axon conducts action potentials away from the cell body toward other neurons, muscles, or glands.
+
+Sensory neurons carry information from receptors toward the central nervous system. Motor neurons carry commands from the central nervous system toward effectors such as muscles and glands.
+
+[25:42] Myelin and neuroglia
+----------------------------
+
+Myelin is a lipid-rich insulating covering around many axons. It increases the speed and efficiency of action-potential conduction. Damage to myelin, as occurs in multiple sclerosis, disrupts normal nervous-system signaling.
+
+Schwann cells are neuroglial cells that form myelin around axons in the peripheral nervous system. Oligodendrocytes perform a similar function in the central nervous system. Other glial cells support, nourish, protect, and maintain the environment around neurons.
+
+This completes Part 1. Part 2 will continue with the functional organization of organ systems, homeostasis, negative feedback, antagonistic effectors, Q10, and thermoregulation.
