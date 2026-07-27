@@ -1,0 +1,108 @@
+From Ants to Grizzlies: A General Rule for Saving Biodiversity
+Cleaned timestamped transcript for BIO 152, Chapter 56
+Source: HHMI BioInteractive
+
+(0:13 - 0:40)
+Not long ago, most of Earth was covered in vast wilderness, rich in biodiversity. As human populations expand, habitats are shrinking and becoming more fragmented. Many animals now face a new kind of struggle to survive.
+
+(0:44 - 1:36)
+How can we protect the wildlife and wild places that remain? One of the foundations of conservation, now being applied across the world, began with the dreams of a young boy in Mobile, Alabama. And of all things, his love for ants. The great thing about living in old Mobile when I was a boy was I could, in any direction, be within 20, 30 minutes of natural areas, some of them quite still wild.
+
+(1:39 - 2:03)
+I could study butterflies, I could collect snakes, I could learn everything, and I did it usually all by myself as a kid. But when Wilson was just 7 years old, a terrible accident changed the course of his life. I was fishing one day for pinfish, and I pulled one up too fast.
+
+(2:04 - 2:28)
+This sharp needle-like fin hit my right eye and ultimately I was blinded. So I would grow up from then on with vision in only one eye. But what I did discover was I have an unusual acuity in my remaining eye, so I picked the subject I wanted to study, insects.
+
+(2:30 - 2:52)
+It never occurred to me that I would ever be anything but a naturalist. Entomology, insects, that was my thing. One group of insects would take Wilson from the backwoods of Alabama all the way to graduate school at Harvard University.
+
+(2:53 - 3:28)
+Ants are the dominant insect species on Earth, but when I started my career, we really didn't know much about them. In 1951, when I went up to Harvard, I knew I would make them the subject of my doctoral thesis, and ever since, I've placed ants at the center of my professional life, the focus of a near obsession. In 1955, Wilson embarked on his first great adventure, to collect and identify insects across islands in the South Pacific.
+
+(3:31 - 4:02)
+And it was during that period of exploration, I was also thinking about why different islands have different species and different numbers of species. Wilson tallied the number of ant species on each island, and when he plotted them against the area of the island, he noticed an interesting relationship. An island that was ten times bigger had twice as many species.
+
+(4:06 - 4:35)
+On islands elsewhere, reptiles and amphibians showed a similar relationship. There actually were rules, mathematical regularities, that nobody up until the 1960s had tried to reason out why it was like that. Wilson discovered what he called a rule of thumb, a general relationship between the number of species on an island and its area.
+
+(4:39 - 5:12)
+If this rule was indeed general, Wilson figured that if all the species were removed from an island, then the same number of species might repopulate it. But how could he test that? He suddenly remembered an extraordinary event. On August the 27th, 1883, one of the greatest volcanic eruptions ever recorded laid waste to the Indonesian island of Krakatoa.
+
+(5:14 - 5:40)
+Life on the island had been completely wiped out. That tragic event made Krakatoa the perfect laboratory in which to find out how species colonized and recreated an ecosystem. For decades after the eruption, naturalists recorded the birds that returned to the devastated island.
+
+(5:45 - 6:16)
+Based on the number of bird species on other Pacific islands, Wilson predicted the number of species that would repopulate Krakatoa. The data from the naturalists matched his prediction. But then it dawned on me, how many lifetimes is it going to take to really have replications of this experiment? A rare event like Krakatoa was unlikely to happen during Wilson's life.
+
+(6:18 - 6:46)
+He needed a way to test the species-area rule in a controlled experiment. So I decided to create my own mini Krakatoa in the Florida Keys. We went down to Florida, to Florida Bay, where there are thousands of little mangrove islands, little dots on the map.
+
+(6:48 - 7:09)
+Mostly insects lived on these mangrove islands. If Wilson and his graduate student Daniel Simberloff could obliterate all the insects on the tiny islands, they could observe the species that returned. We got an exterminator from Miami.
+
+(7:09 - 7:37)
+We covered a number of islands so they could be fumigated by the same technique used to fumigate warehouses. In order to eliminate all of the creatures on this little island, please don't think of me as destroyer of biodiversity. Within several months, most of the islands were crawling with a similar number of species as before the fumigation.
+
+(7:39 - 7:57)
+Remarkably, it filled up with species, but they were mostly different species. Simberloff also tested what happened when animals were restricted to a smaller area. To do that, he sawed off parts of mangroves.
+
+(7:59 - 8:21)
+As an island got smaller, the number of species decreased, just as the species-area rule predicted. The results strikingly confirmed our hypothesis. We figured out how to predict the number of species that will arrive and live on an island.
+
+(8:26 - 8:53)
+Wilson thought that the lessons from these tiny islands had very big implications. The world can be viewed as a series of islands fragmented by human beings. Farms, roads, and towns are steadily shrinking Earth's remaining natural habitats, creating islands in a sea of humanity.
+
+(8:56 - 9:31)
+Do these islands on land behave the same way as Wilson's tiny mangrove islands? To find out, in 1979, conservation scientists launched a landmark experiment in the Amazon by carving the rainforest into different sized patches and monitoring biodiversity. One of the most important things that the project found is that these fragments really do work as islands. They function as islands of forest that's surrounded by pasture.
+
+(9:32 - 9:45)
+The effects of fragmentation are really strongly felt by the monkey species. They spend all their day, day and night, up in the trees. It's very rare to see them come to the ground.
+
+(9:46 - 10:11)
+And when you start to isolate the forest, resulting in these forest fragments, then these monkeys basically get stuck in there. There are only two or three species in these little islands, as opposed to six in the continuous, uncut forest. The smaller forest patches supported fewer species.
+
+(10:12 - 10:32)
+But the experiment also revealed an important new finding, something Wilson could not have seen on his mangrove islands that only contained tiny animals. The larger species are more affected. Just because they have larger range requirements, they need much more area.
+
+(10:33 - 10:53)
+So, things like jaguars, harpy eagles, spider monkeys. When the forest is cut and then we leave these little isolates of fragments, then we start to see some of the species dying out. The Amazon experiment sounded an alarm.
+
+(10:55 - 11:17)
+It showed that shrinking a habitat has a greater effect on larger animals. Conservationists elsewhere, such as in the Rocky Mountains, were also discovering just how much area some animals need. So we had this wolf called Pluie the Wolf.
+
+(11:17 - 11:41)
+She started just below Banff National Park and she moved 100,000 square kilometers. She moved across two provinces, three states, 30 different jurisdictions. It was that kind of movement of animals that caused conservationists and scientists to go, wow, we're not really thinking at the right scale.
+
+(11:42 - 12:04)
+Biologists realized that even national parks might not be big enough to support species with large home ranges. Wildlife, particularly bigger animals, they need room to roam. Well, they can't do that if there's too many human activities and if they don't have the ability to move through that sea of humanity.
+
+(12:06 - 12:49)
+But if protected areas are hemmed in, how can you make them any bigger? I work for an organization that's called the Yellowstone to Yukon Conservation Initiative. It was founded in 1993 with a vision of connecting and protecting habitat from down in Wyoming all the way to the Arctic Circle in the Yukon, a 3,200-kilometer stretch of land. One way Y2Y reconnects existing protected habitats is by purchasing land to create a wildlife corridor, a larger continuous wilderness through which animals can move.
+
+(12:50 - 13:22)
+Our challenge in order to conserve these species over the long term is to make sure that we resolve those potentially fragmenting areas and try and reconnect them and keep them connected. Another important way to link habitats is taking place on indigenous land in western Montana. We're here at the south end of the Flathead Indian Reservation.
+
+(13:22 - 13:53)
+This is the area where Highway 93 cuts through a really continuous block of forested area. Highway 93 is a pretty big barrier with a lot of traffic, and so previously animals had to try to run across this highway. The Confederated Salish and Kootenai tribes, with the wildlife biologists here, successfully lobbied for the construction of bridges and passages to connect habitats severed by Highway 93.
+
+(13:54 - 14:21)
+We're in a really unique area because we have the overpass over here that allows animals to walk over the highway, and then we also have associated underpasses here that let species walk under. Now that we've come into the underpass, the sound is different. The traffic volume is kind of loud, but when you get in here, it's muffled, it's not as loud.
+
+(14:21 - 14:32)
+You can hear the creek running through the middle, it sounds more natural. In the middle of the summer, wildlife will just lay in these things for hours. They'll be drinking water, they'll just be resting.
+
+(14:33 - 15:01)
+They can see things coming toward them, so they have some ability to see predators approaching, and it's just kind of cozy for an animal. A crossing structure like this makes a connection between those two patches of land so that animals can move through and essentially makes them one big area. Tracking which animals use them is a measure of the project's success.
+
+(15:03 - 15:16)
+I'm setting up one of our wildlife trail cameras on the overpass. These cameras are great, and they're really useful because they pick up motion. That's what sets them off and sets them to take photos.
+
+(15:22 - 15:54)
+We get mountain lions walking through this structure, black bear, bobcats, white-tailed deer. In the Y2Y region today, we have at least 106 wildlife crossing structures, overpasses and underpasses, that are dedicated for wildlife. It's one of the most robust crossing systems in any landscape in the world.
+
+(15:59 - 16:40)
+Because of the efforts of communities living alongside the wildlife, the species in this region have the room to roam. Wildlife moving across the landscape has a cultural value, that we care the wildlife that we're connected to as a tribal people safely flow across the landscape, that we think about their energy, their species, their young being able to disperse all over. So this was really a mix of science, politics and tribal culture values that made what we have here so special and so important to our people.
+
+(16:48 - 17:42)
+Insights that began with ants on faraway islands are now guiding efforts to protect species, great and small, across the globe. In all my work now, I want to drive home to people just how complex the natural world is and just how precious, how much there is still to be discovered and how urgent it is that we conserve what is left to us. 
