@@ -1,0 +1,740 @@
+BIOL 1407 LECTURE 55: COMMUNITY ECOLOGY
+BIO 152 · Raven Biology Chapter 55
+
+Cleaned timestamped transcript prepared from supplied captions.
+Minor caption errors in names and scientific terminology were corrected where identifiable.
+Consult the Watch This page's clarifications for concepts requiring additional context.
+
+(0:00 - 0:20)
+So this chapter we're going to move above the level of populations to communities and community ecology. So in this chapter here, we're going to look at the interactions with several populations within the same area. Here you have a clownfish swimming within the tentacles of a sea anemone.
+
+(0:20 - 0:39)
+There's a symbiotic relationship between the two. So in the first section here, these biological communities are going to be different species living together. So we need to be able to define the community and describe how community composition may change across a geographic landscape.
+
+(0:40 - 1:08)
+So looking at community communities, these are species that occur at a particular location or locality. They are going to be characterized by species richness, which is how many different kinds of species are present. And sometimes there's another value that adds a little bit more as far as the number of each kind of species, and we might call that species diversity besides richness.
+
+(1:08 - 1:37)
+So richness is just how many species diversity or diversity index measures, how many different species along with how many individuals within each species are in that area. And then the community is also characterized by primary productivity, which is how much energy is produced or captured by photosynthesizers. Like if you're in a rainforest, the producers there define the structure, the starting structure for there.
+
+(1:37 - 2:18)
+Or you could be a desert type of community, and in there it's your primary producers that provide that structural foundation, and they're the first line of energy capture within those communities. Interactions among the members within that community are going to be what rule or govern many of the ecological and evolutionary processes that we see happening in there, and some of which we're going to be covering here. So there we see a community that are coming to a body of water there to get their water.
+
+(2:20 - 2:43)
+It's not just the overall community here. If you look at it, it looks like a community that you can see with your eyes anyway of a bunch of vertebrates, mostly animals, but then you also see some birds flying in there. So sometimes the ecologist might define the bird community or the mammal community, the small mammal community, or we might look more broadly, there's microorganisms and fish probably in that water.
+
+(2:44 - 3:16)
+So it depends on what you want to study and how you study it. So looking now at how these communities might change over time and over space, we come across a concept called ecotone. So the ecotones are going to be places where the environment changes abruptly, and when it does change abruptly, these ecotones, you're going to see a corresponding change in the structure of that community, starting with the plants, and then the plants are going to dictate what kind of animals you see in there.
+
+(3:18 - 3:50)
+So these changes in that community structure will vary there geographically. And so here's an example of a tree community here, and this one represents some actual trees there in the mountains of southeastern Arizona. Now the lines are going to represent the abundance of species, so we see that here on the y-axis there, and then the numbers of trees per hectare.
+
+(3:50 - 4:30)
+A hectare is an area of 100 meters by 100 meters, would be a hectare. And so here there's going to be a change as they are observing, so they're observing per hectare, but they're looking at an area where you're going from a place where perhaps there is a lower area where there's more water collecting, and then moving further and further away where it's drier. And so they look and measure the plants that are in there.
+
+(4:31 - 5:03)
+What you see as you're moving from a wetter area to a drier area, and some moisture gradient there, you're going to see a difference in the abundance of each type of tree. So here you see where it's wetter, you're going to see this species indicated by the green line has a great deal of abundance, right about this area here where you have a certain level of moisture. Whereas where it's drier, you see this species indicated by the gold line, and you see more abundance in that species overall.
+
+(5:04 - 5:22)
+Now this may totally be a result of the plant's requirements for water. Some are more tolerant to drier areas, some are not, or it might be an interaction between the species, other species, as well as something in the environment. So let's take this example here, the purple line here.
+
+(5:22 - 5:52)
+We see it's very abundant in the mid-range of soil moisture. And then you see the green one here with a real nice peak here where it's wetter, and then it seems to drop in correspondence with the purple of the species indicated by the purple line. And then over here at the end you see this same species increase in abundance a little bit further away where it's drier, but you don't see this particular species with the purple line there as abundant anymore.
+
+(5:53 - 6:10)
+So it may be the interaction between the species as well. So these species change in relationship to the environmental conditions overall. So we would see something like an ecotone.
+
+(6:10 - 6:32)
+Here's another example here where you're looking at these line transects. A line transect is something we're going to do in Lab 20. A line transect is when you go out and you place some random measuring tape a certain distance, maybe 10 meters or 20 or 30 meters, and you measure along that transect.
+
+(6:32 - 6:58)
+You count how many of each type of species you see. And if these transects move across an area where things like soil and moisture and other things change, you're going to see a change in the number of species. I used to do a lab like this with my environmental biology students, and we would go out to the sand dunes at South Padre Island and take these measuring tapes out and go along the dunes.
+
+(6:59 - 7:26)
+And on the windward side of the dunes where the wind comes in off the ocean, on this side the air is saltier, the moisture that lands on this side because of the salt spray coming off of the ocean. And on the backside, the conditions are different, so you actually see a difference in the vegetation on either side, depending on their tolerance of those species. Well, the same thing they sort of did here in this area.
+
+(7:26 - 7:45)
+I'm not sure what the area is, but this is distance along line transects, and they have different species they're recording. And what we see is that there is a difference from normal soil to serpentine soil, and there's a transition in the soil type. Serpentine soil has a certain number of types of metals and other compounds in it.
+
+(7:45 - 8:18)
+And then you have your regular soil. So you see that as you move a distance along the transect, you're moving also from one soil to another, and then there's a transition here, and you see an area where there's an ecotone, where you go from one kind of an ecosystem that's characterized by these species here, indicated by the bar, and then eventually you transition to a different kind of group of species or communities. So you see this ecotone from one plant community to another plant community, and so this highlights the concept of that ecotone.
+
+(8:20 - 8:49)
+In this section, we're going to look at the concept of ecological niche, and your learning objectives or outcomes are to define niche and resource partitioning, and then differentiate between fundamental and realized niche, and then explain how the presence of other species can affect a species realized niche. So what is a niche? Niche is the total of all the ways an organism uses the resources of its environment. Simply said, it is the ecological role.
+
+(8:55 - 9:06)
+That the organism plays. And of course, the organism is a member of a population or a species. And so this includes things like how they use space.
+
+(9:07 - 9:43)
+Are they up in the trees? Are they on the forest floor? What time of day? Are they nocturnal or diurnal? What kinds of foods they eat? What kind of temperatures they prefer within the structure of that habitat? Any appropriate conditions for mating? And their moisture requirements. How much water do they need? So when we talk about ecological niche, an important idea is the competition that occurs between different types of organisms. And whenever it's different types of organisms, we're talking about different species, so that's interspecific.
+
+(9:44 - 9:59)
+If it was competition within the same species, then it's intra. This is between two different species, so it's interspecific competition. So you have an intense competition that could occur between two species when they're trying to use the same resources.
+
+(10:00 - 10:18)
+Same water, same food, same space within that environment. And the kind of competition that can occur can be an interference competition, where there are physical interactions. Fighting over a resource, for example, could be considered interference competition.
+
+(10:19 - 11:10)
+And then there's exploitive, where there's not a direct physical interaction between the two different organisms, species, but instead one is exploiting a resource perhaps at a different time or better than the other one and is better at competing for that resource without that physical interaction. So it's really just an idea of the two organisms are competing for the same resources just by consumption and not necessarily a fighting or antagonistic interactions. So when we look at the types of ecological niches, there's the fundamental niche, which is what you're going to get from an organism or species that includes all of the capabilities built into that species.
+
+(11:10 - 12:06)
+And this includes their physiological abilities, their ability to tolerate a different range of conditions within that environment. Can they handle a much drier area, a much wetter area? Can they handle higher temperatures and lower temperatures and all kinds of extremes? So in this case, without any other limits, what would their fundamental niche be? However, there are things in the environment that can restrict the kinds of niches that we can observe as the human observer looking at them and trying to assess what their niche is. And those limits that are imposed cause a restriction, and you end up observing most times a realized niche, which is the actual set of conditions for a species when they have that stable population that occurs there.
+
+(12:06 - 12:36)
+So, for example, if these species interact with each other and there's competition that's occurring, we might see one species niche be quite different than if that other species was not there at the same time. So without that species there, then we're more likely to observe a fundamental niche. So other cases that can restrict a species' fundamental niche are predators.
+
+(12:36 - 12:50)
+So when predators are absent, we may see that a species is not fully utilizing the area. If the predators are present, maybe they're hiding and not as active in that area, in that environment. The absence of pollinators.
+
+(12:50 - 13:25)
+If you don't have pollinators and you're not going to get fruits, then you might not get certain kinds of food consumers using the space there the way they might if the pollinators were present. So it could be an absence or a presence of a species that enhances the species' ability to interact in that environment. So it's not always another species present that reduces or restricts the niche, but could enhance that niche, making the niche more broad in breadth.
+
+(13:25 - 13:41)
+So the full range may not be completely there for their fundamental niche. So we typically will see realized niches. So here's a good case with barnacles.
+
+(13:42 - 13:52)
+Barnacles are a type of crustacean that are sessile as adults. They're free-swimming larva. Then they find a solid surface like the rocks here.
+
+(13:53 - 14:11)
+This is on boats, even whales, the surface of whale skin. On piers, where the pole's sticking out of the water, they'll become sessile and attach there, and then just filter feed using their legs, modification of their legs to just pick up food. And here we have two different kinds of barnacles.
+
+(14:12 - 14:16)
+One's larger and one's smaller. And one is, that name looks a little difficult. This is a genus.
+
+(14:17 - 14:30)
+I'm going to try this without pronouncing the C there. And I'm just going to say, let's call this one Chthamalus, Chthamalus species. And then here a Semibalanus species, just giving the genus.
+
+(14:31 - 14:44)
+And we're seeing a case where both are occurring on the same rock there. And the larger barnacle, Semibalanus, we see is located right below the tide line here. So this low line right here is where the water level goes during low tide.
+
+(14:45 - 15:11)
+And then when the moon pulls that water to this area, brings the tide up, and the level of the water rises. And that seems to be the area between those two is called the intertidal zone, because it's between the two tides, intertidal. And it seems that Chthamalus is good at the intertidal zone, and it can tolerate not being submerged in water, so they're adapted to that.
+
+(15:12 - 15:45)
+And then you have the Semibalanus, which appears to have to be below the line, but we can't tell because the two are occurring together. And so in the case where we don't see the larger barnacle, which is on the right, you see that that smaller species of the Thamelis is actually able to spread out further down into the rocky area, further underwater. And so here's a case where the larger barnacle is restricting the full utilization of space of that smaller barnacle, restricting its niche that we observe.
+
+(15:46 - 16:16)
+So in this case here on the left picture here, the location where we see the small barnacles here is the realized niche. In the absence of the larger barnacle, we get the fundamental niche of this, showing the full capabilities of this organism to use this barnacle to use this entire niche area. Now, if we were to come over here and remove the smaller barnacles, the larger barnacles are not going to be able to move above water because their niche, fundamental niche, is different.
+
+(16:16 - 16:40)
+Even in the absence of a potential competitor for space here, the larger barnacle's physiological adaptation does not allow it to be adapted to living out of water. So the two do show different fundamental niches. So then there's the idea of competitive exclusion.
+
+(16:41 - 17:25)
+Here, the basic idea is this. If your niche as a species, species one has a niche, its fundamental niche, and the other species' fundamental niche are exactly the same, that means they're going to be using the same kinds of resources available to them exactly the same way, and there's going to now be intense competition. And that intense competition is going to cause problems for the two species because they're going to be in such a battle for competing for it, whether it's physically indirect or just through consumption, they're going to have a hard enough time surviving, and if they do, they're going to have a hard time finding enough energy to be able to produce offspring.
+
+(17:27 - 17:50)
+So the idea for competitive exclusion, the principle as well stated, would be saying that no two species can have exactly the same niche. We're talking about an area, a region, a locality where the two species occur. So no two species can have the exact same niche.
+
+(17:55 - 18:27)
+The prediction would be that if that was the case, either one species is going to lose out or both would lose out and not be able to establish a decent population in the area. So what would have to happen here, either one is excluded from the area, that's why it's called competitive exclusion and there's a winner, or the two would have to modify their niches in some way. And this modification may have to happen over many generations.
+
+(18:27 - 18:54)
+So natural selection is shaping those fundamental niches for these. Now this competitive exclusion has been observed on a microscopic scale with the protist called paramecium, which we studied in the lecture in the laboratory already. There's different paramecium species, and an investigator named Gauss studied this classic experiment with three different paramecium species.
+
+(18:54 - 19:13)
+This one is paramecium Aurelia, this one is Caudatum, and then this one is Bursaria. So when we write the genus first and then you write it's the same genus, you can abbreviate it, that's the convention we use. So this is paramecium Bursaria.
+
+(19:13 - 19:48)
+So this in the green ones, this is Bursaria, this is paramecium Caudatum, and this is paramecium Aurelia. And what happens here is if you, and this is observed in a laboratory setting, so they are growing a population of paramecium, they start off with low level, and you can see we have this characteristic early exponential growth, which we covered in the last chapter. And then there's a slowing down in the growth rate of that population, and then we see a shift.
+
+(19:48 - 20:00)
+So you see that sigmoidal curve, we see this logistic growth. And in the absence of other competitors in that environment, this is the carrying capacity for that paramecium Aurelia. We can apply the same way of thinking for Caudatum.
+
+(20:01 - 20:26)
+There is its carrying capacity, and we might say without any other competitors, this would be the fundamental niches, the population they can establish within that laboratory setting. And then here is the carrying capacity for Bursaria. Now, if we put two of these together, they might experience some competition because they may have some similar niches.
+
+(20:26 - 20:48)
+And so Gauss put together Aurelia and Caudatum, and both of them had low numbers, and both of them showed an initial growth. And then it seems that Caudatum began to, its population began to diminish and eventually disappear, and it got excluded. And the winner here seems to be Aurelia.
+
+(20:48 - 21:07)
+So here, this is a case where we see an exclusion perhaps because the two have perhaps a very, almost the exact same fundamental niches. And so one had to be excluded because the competition was too intense. And so now we might predict that, well, we didn't do this with Bursaria.
+
+(21:07 - 21:34)
+What if we mix Bursaria with one or the other one of these? And so the prediction would be that perhaps they're going to have some intense competition as well. And so we put these two together, and we did not get an exclusion of one or the other. Instead, both managed to hit some level of carrying capacity in each other's presence within that microcosm, within that aquarium or wherever they're growing these.
+
+(21:35 - 22:08)
+And instead, what happens is that the two ended up partitioning or separating their resources. So we see that their realized niche here is going to be at lower numbers, but both are able to maintain and sustain a population there. And the reason for this is there was some overlap with the niche, but the reason the two were able to coexist is because the two managed, in their vessel, maybe it's a glass of water, some kind of container, that the two were able to separate where they were living in space.
+
+(22:08 - 22:32)
+So one species stayed up higher, the other one stayed down lower, and they were able to coexist by dividing up their resources, these hanging up at the top, one species on the bottom. That wasn't the case with the other one, where they were not able to manage to separate. Perhaps both hung around at the top of the water column, and the competition was too intense.
+
+(22:32 - 22:51)
+So one lost here. So this brings up another kind of study of lizards in this tropical grassland area, tropical savanna type. And you have some lizards that basically are going to divide up the space in which they live.
+
+(22:51 - 23:05)
+They refer to these as sympatric. And symp means same. And patric is derived from the word patrio, which means father, patriot, like when we talk about your home country.
+
+(23:06 - 23:15)
+So literally translated means from the same place or same location. So these are all living in the same place. Allopatric would mean they don't even live in the same area.
+
+(23:15 - 23:22)
+So we're looking at sympatric. Allos means different, symp means same. So allopatric would be living in different areas.
+
+(23:23 - 23:42)
+But here these lizards behaviorally are able to avoid direct competition by living in different places. One lizard living on a different tree, this beautiful anole living up toward the top, another one living on the tree bark, and one living on or near the ground. And that reduces competition.
+
+(23:42 - 24:06)
+And these are behavioral characteristics for these lizards to where if you remove one of these lizards, these lizards are still going to have, maybe perhaps have a tendency to stay up higher. However, in the absence of this potential competitor, their fundamental niche may be further down. And they're able to exploit insects along the bark further, but probably maybe not go all the way down to the ground.
+
+(24:09 - 24:45)
+And so in this case here, species that do share this location, they're sympatric are going to do what's called a resource partitioning. And a resource can be the food, water, shelter, where you shelter yourself. The space where you live, all of the living spaces, all of these are resources, right? So when we see this species that are very similar overall, when they're occurring in the same geographic area, we're going to see this resource partitioning, which is going to reduce that competition.
+
+(24:45 - 25:06)
+And what ends up happening here is that over many generations, this intense competition for these resources actually shapes the way the species behaves and maybe even the way it might look structurally. Here we have a family of birds that are commonly called warblers. They're all very similar in structure, in habit.
+
+(25:07 - 25:17)
+They bounce around trees, tree limbs running around looking for small insects. And so if that's the case, then there's going to be intense competition. And these birds migrate through here.
+
+(25:17 - 25:39)
+Most of these I've seen here in this area, like the yellow-rumped warbler, black mernion, and the bane-breasted, they come here in the winter here or migrate through here and in winter go further south. But they all nest up in the boreal forest further up north where you have all these conifers. And when they get up there, they end up actually partitioning where they hang out and look for insects.
+
+(25:39 - 25:50)
+So this species would hang out here. We have another one over here, the Cape May warbler that is toward the top. We have the black mernion, which is more right on the outside of the outer edges of the branches.
+
+(25:51 - 25:58)
+The yellow-rumped here toward the bottom. These are winter residents here, and you see them in there. They're always in the lower parts of the trees.
+
+(25:59 - 26:36)
+And so even when they're not in their breeding grounds, they are still behaving that way because natural selection has shaped these behaviors over many generations in such a way that they have a characteristic foraging area or spot that they do that's just been programmed into them through many generations of trying to avoid intense competition. Another thing that can occur, when it comes to characters, these are things we define that we can observe and measure. When it comes to this sort of thing, we can actually see this with morphological, which are structural characters.
+
+(26:37 - 27:10)
+You can see this with behaviors when these warblers, where they might occur, for example here, when something like the yellow-rumped warbler is here hanging out here in South Texas, they're still spending time towards the bottom of those trees, even when the other warblers aren't around. It's been programmed in there, so that's their character, behavioral character. But you can also have morphological characters that are going to show a sort of a displacement when we have some competition going on.
+
+(27:10 - 27:40)
+And what's meant by that is that when natural selection starts to select for these characteristics to differ, it might be behaviors. Perhaps many, many generations ago, these birds were all spending time in the same areas on the tree, and then over time, they start spending more time in separate areas of the tree, just like with the lizards as well, the lizard example. So here, you have two species of finches that are occurring on volcanic islands.
+
+(27:40 - 28:07)
+And this is actually really seen in the Galapagos Islands, the famous Galapagos Islands there off of the coast of Ecuador, where Charles Darwin visited. And when it comes to any characteristic in a species, and you try to measure and quantify it, whatever it is, it could be you quantify and measure behavior, how much time they spend on the bottom of a tree, the warblers. Here, we can quantify bill depth.
+
+(28:07 - 28:22)
+Bill depth is how thick the bill is. And so that would be your variable X. And over here are bigger bill depths, and over here are smaller. And within a population, they're all never the same.
+
+(28:22 - 28:28)
+There's always variation. That's something we've been talking about since Biology 1 class. And so when you do, you start measuring them.
+
+(28:28 - 28:41)
+You go and you capture them with special equipment, mist nets they use, and then you bend and you mark them, and then you release them. Before you do, you measure their bill depth and other measurements. But if we were to plot bill depth, and we scale the axis there, and you start putting the dots.
+
+(28:42 - 28:46)
+That's one bill depth. One is a bit larger. One's smaller.
+
+(28:46 - 28:51)
+Another one that's exactly like this one. So you start stacking. So in other words, this, by the way, is frequency.
+
+(28:51 - 29:00)
+How many have that value? Another one there, and then an extreme one. This is within the same population, the same species. And you start plotting the dots.
+
+(29:01 - 29:08)
+You're going to start to get a pattern. And this pattern is seen commonly in nature for just about anything. It's even seen in the classroom.
+
+(29:08 - 29:32)
+When I plot grades, let's say X was grades, you're going to get this. You end up getting the data distributed along the possible values where the more frequent values are here in the middle, and the extremes are out to the side, and you get this distribution called a normal distribution. And these represent the possible values, and the majority of them are here in the middle, the average values.
+
+(29:32 - 29:48)
+But you have some larger bills out here and smaller ones, so there's variation in that population. It's like there's tall and short people, right? So that's the case there. And so when you have these, these are actually two different species of finch.
+
+(29:48 - 29:59)
+They live on two separate islands. They're in the Galapagos Island, and there's a variety of seed types and sizes, big seeds, smaller seeds. Big seeds are harder to crack open than the smaller ones.
+
+(30:00 - 30:23)
+So you have this species living on one island and this one living on another one, and there's no competition, so they're taking on a variety of seeds. But there is an island where these two same species have been living for many, many generations, perhaps thousands of years on the same island, and the two are seed eaters. Finches like to eat seeds.
+
+(30:23 - 30:34)
+And so what you see here is that this species over time has grown to have a larger bill. Now, the individuals don't. Remember, there's variation in that population, and there's been a range.
+
+(30:35 - 31:11)
+But on this island, it seems that this species, those with larger bills, are more successful at getting food because they're avoiding competition with the other species that's getting the smaller seed food for themselves. And so what happens here is the competition is reduced, and those with larger bills are going to be more successful at producing offspring. So over time, the larger bill ones for this species are more successful at surviving and reproducing, and over time, the range of the bill depths tends to increase in size, and for the other one, decrease in size.
+
+(31:12 - 31:35)
+So if we take that way of thinking here, and I'm going to do this backwards so it matches the picture here, and let's call this one Species 1 and this one Species 2. And we look over here at these graphs. So this represents that bell curve or that distribution for the bill depth. The characteristic is bill depth, the character for Species 1 on this island here.
+
+(31:36 - 31:48)
+And Species 2, this represents the bill depth for this one on this island. There are slight differences, and you can see the ranges overlap big time. So I come down here.
+
+(31:49 - 32:12)
+There's overlap right here. And so what we see here is that there's a small area out here where there's no overlap, and a small area out here where there's no overlap when they're on two different islands, the range and the distribution of those bill depths. Now, when they're on the same island, we see that there's a big difference.
+
+(32:12 - 32:24)
+Species 1, the average values are more towards the left. In other words, smaller. There's still a range of bill depths, but most of the bill sizes are smaller now.
+
+(32:24 - 32:39)
+And then for Species 2, when they're occurring together, the bill size, on average, is much bigger. There's still a range of them, but overall, the two characters have been displaced. In other words, they've separated and resolved out because of that intense competition.
+
+(32:40 - 32:48)
+And that's what we see here and here. Believe it or not, this is the same species. It's just the variation in this population on this island is bigger.
+
+(32:48 - 33:04)
+It's just like if we go visit a professional basketball team, that population of basketball players is overall going to be bigger. So that's called character displacement. In fact, this is actually really seen in the Galapagos Islands with actual species.
+
+(33:05 - 33:18)
+You can see that when the two species don't live together on different islands, they're called allopatric. So this one is Geospiza fuliginosa and Geospiza fortis. One is on a small little island.
+
+(33:18 - 33:27)
+The Galapagos is a chain of volcanic islands like Hawaii. And there's some little tiny islands, islets called Los Hermanos Islets. And that's where this species occurs.
+
+(33:27 - 33:36)
+And here is its range of build-depth. The bottom scale gives you the beak depth. And then for fortis, here is its.
+
+(33:36 - 33:47)
+And you can see that the ranges do overlap. And where they don't overlap is smaller build-depth. And over here for this one, larger build-depth.
+
+(33:47 - 34:18)
+So when you put the two together, natural selection is going to favor that fortis starts eating larger seeds to avoid competition with the other species that's going to be eating smaller seeds. And over time, the average build-depth for these two has displaced from each other or displaced from where they were on separate islands. So we can also see evidence of competition in experimental situation and what effects this competition can have over many generations.
+
+(34:18 - 34:39)
+So let's say this actual study was done in the late 1980s with seed-eating rodents and kangaroo rats. And kangaroo rats are much larger than some of the other seed-eating rodents that were sympatric in that area that they were studying. And they set up these 50 by 50 millimeter, not millimeter, meter enclosures.
+
+(34:40 - 34:55)
+So meters is big, so 50 by 50. And they set them up and they put little openings that allowed these rodents access to get into these areas. And they made the openings too small for the kangaroo rats to get in.
+
+(34:55 - 35:12)
+So only the smaller seed-eating rodents can get in there. And then they had other areas, controlled areas, where they didn't restrict the kangaroo rats. So the kangaroo rats were allowed to be in the same exact little sampling areas with those rodents.
+
+(35:12 - 35:31)
+And you can see what happens to the numbers of those other rodents when the kangaroo rats were allowed to be present. These dots here on this graph are the other rodents, not the kangaroo rat. And the color coding here says that if it's blue, blue is going to be in those 50 by 50 meter plots where the kangaroo rats were allowed to be.
+
+(35:31 - 35:44)
+The control, probably. The experimental is where you restrict the kangaroo rats in there. And you can see that the rodents where the kangaroo rats were not allowed to be, the rodent numbers were much higher.
+
+(35:44 - 36:06)
+And so this shows direct evidence that competition can limit numbers. And when numbers are limited, then there's potential for these types of changes that can occur, like character displacements. In this section on community ecology, we're going to look at the predator-prey relationships here.
+
+(36:07 - 36:25)
+So your first learning outcome is to define predation, and then describe the effects of predation that predation can have on a population. So what is predation? Predation is when one organism consumes another organism. The one doing the consumption is the predator, and the one that gets eaten is the prey.
+
+(36:25 - 36:42)
+Now, predation can strongly influence the population, and that's shown here in the diagram of two ciliates, which are protists. One is didinium, and the other one is paramecium. And didinium is a predator of paramecium.
+
+(36:42 - 36:56)
+And I have some video there showing some of those didiniums moving around. And I think it even shows paramecium in there. And I think at some point during the video, they show... There you go.
+
+(36:56 - 37:19)
+There's the didinium eating, actually taking in the paramecium. So they, I guess, are voracious predators at a microscopic level. And so here in this one experiment the number of individuals, they had the paramecium probably living in some carrying capacity here to start with.
+
+(37:20 - 37:43)
+And then they introduced at day zero, which is when they first introduced the didinium at the low levels. And so now they're starting to eat paramecium just like you see in the video there, and the population size goes up. While that's going on, they're eating the paramecium, so you see the paramecium drop, and eventually the paramecium completely get lost.
+
+(37:43 - 37:59)
+And then because there's nothing else to eat, you start to see a decrease in the number of didinium in that microcosm that's being studied there. So prey populations. Here I chose an image of a peregrine falcon.
+
+(38:00 - 38:30)
+They are really good at capturing pigeons on the wing. Pigeons are pretty agile in the air, but the peregrine falcon is just an amazing, amazing predator. So when it comes to prey items, without their predators, the prey, like say rabbits or whatever, maybe a herbivore, they have potential to increase in size tremendously, and so predators play an important role in helping to keep prey populations in check.
+
+(38:30 - 38:42)
+And it works both ways. If the prey numbers go too small, then that helps keep down the predator populations. So this has been true with the white-tailed deer population down in the east.
+
+(38:44 - 39:20)
+People are... It's pretty common to end up hitting a deer on a highway, and one of the reasons the deer numbers have gotten so high is because the natural predator, the wolf, has been exterminated from much of America, unfortunately. When it comes to introductions in other places, rats, dogs, cats, on islands, those types of animals don't have any natural predators. Now, yes, a dog is a carnivore, but there is nothing out there that's actively competing with them or eating these kinds of animals, and so their population numbers can increase significantly.
+
+(39:20 - 39:30)
+And if they're introduced, they don't belong there. They end up doing damage to the local ecosystems. They become what we refer to as invasive exotic species.
+
+(39:31 - 39:53)
+And, in fact, one invading cat introduced in New Zealand on an island off of New Zealand actually wiped out a wren, which is a small, little, small bird. So that was very unfortunate. The cat didn't belong there, and that's what happens when we introduce species that don't belong anywhere.
+
+(39:53 - 40:22)
+Now, as it turns out, predator and prey are in a constant struggle to survive, and so the survivors reproduce. And so if you're really good at capturing prey, you're going to have enough energy available to produce more offspring, so good predators leave more offspring. If you have trouble getting food, then your chances of leaving offspring are lower, so they'll be less like you in the population.
+
+(40:23 - 40:35)
+And the same thing for prey. If you're good at escaping the predators, then you're more likely to survive and reproduce. So there's a sort of a co-evolution that's occurring there, sort of an arms race between predator and prey.
+
+(40:36 - 41:18)
+In fact, sometimes the agility that we see in the pigeons, there's been some study on this, not necessarily on their shape, but when I look at a pigeon, sometimes I mistake it for a falcon, like this peregrine falcon, and perhaps some sort of co-evolution has occurred in the way the falcon can maneuver in the air, and the way the pigeon can as well. But there's some other interesting research on other ways that pigeons have evolved to handle the kind of predation on this falcon here that's actually pretty specialized for capturing these rock or these pigeons. So plants, we can think of them as being prey as well.
+
+(41:18 - 41:40)
+If they're being eaten by a herbivore, it's kind of like the herbivore is a predator, so it's a form of predation. Many times the plant may not survive, may not be eaten completely to where the whole plant dies. So the difference there, a predator actually kills the prey here.
+
+(41:40 - 42:27)
+But damage can still be caused to the plant, and so plants have evolved mechanisms as well due to that herbivory, and in some cases these things are physical defenses like thorns, which is not actually even mentioned here, but in other cases these are chemical defenses. So they produce compounds just by chance mutation that actually reduce herbivores from eating them. They include oils, chemicals that might attract other predators, which would scare off the herbivores from being there, or they produce milky substances that are poisonous, like a latex-y type of material, and some of the herbivores actually co-evolved to be able to handle those compounds.
+
+(42:27 - 42:58)
+So like this caterpillar right here is probably consuming a plant, and in some cases some of the plants are milkweeds. I'm not sure what caterpillar this is, but they produce that latex, and these caterpillars can actually eat it and be able to store that compound within their bodies instead of it affecting them and being toxic to them. Store that compound in their body, and then if a predator comes and tries to eat them, then the predator is going to be harmed by that.
+
+(42:59 - 43:16)
+And so this caterpillar is a larva. We have complete metamorphosis like we covered in the chapter, and there's a butterfly that comes from that caterpillar. And then we have, in this case here, those chemical defenses.
+
+(43:16 - 43:37)
+The monarch butterfly is one of those that eats from the milkweed, and that's what I was talking about here. The milkweed is the host plant for the caterpillar larva. The caterpillar eats the plants and then goes to the pupal stage and then turns to an adult, and the adult is still carrying some of those toxic compounds called glycosides.
+
+(43:39 - 44:10)
+And when a predator eats it, it's going to be very distasteful. Now, that butterfly is probably dead for the experience here, but this blue jay has picked it up, tried to eat it, and then immediately throws it up because of the compounds in there, a gag response, and they spit it back out. Now, if this blue jay is smart enough, it's going to remember the way this butterfly looked, and other members in the population are protected because of the experience this blue jay had by trying to eat that butterfly there.
+
+(44:11 - 44:45)
+So that's an interesting connection there. And then we have bright coloration on some potential prey items in which the coloration actually tells a potential predator that there might be something dangerous about me, like these poison dart frogs. They belong to a family called the dendrobatidae, and they produce secretions on their skin that are very toxic, these toxic alkaloids, and they have this accompanying bright colored skin.
+
+(44:45 - 44:58)
+And so that's called warning coloration. It's also called aposematic. Apo means to go away, so that's the meaning for that term, aposematic coloration.
+
+(44:58 - 45:21)
+So you can see that aposematic coloration as sort of a defensive coloration in this coral snake here, which we do have here in South Texas. Other defensive coloration include camouflage. So instead of the aposematic coloration like we see in the coral, we have cryptic, which is a fancy way of saying camouflage.
+
+(45:21 - 45:31)
+So here we see this cryptic coloration in this caterpillar that looks like the branch that it's standing on. So here's the branch. You can see it eating the leaves there.
+
+(45:32 - 45:48)
+And if you just look quickly and didn't watch it very carefully, you wouldn't even notice that it was there. And many other kinds of animals, even vertebrates, do have some camouflage in their fur and so on. And then we have mimicry.
+
+(45:48 - 46:17)
+Just like the coral snake had that bright banded color, this is a milk snake, totally different genus of snake, and a different family that doesn't produce poison. So they're not, I should say venom, they're non-venomous, but they look dangerous if the predator can't really tell and they know that's bright. And they learn over many generations of evolution, stay away from bright color.
+
+(46:17 - 46:34)
+So here's a case where one snake species mimics just by chance coloration. This coloration evolves within the snake because it's afforded a sort of protection from its poisonous counterpart there with the coral snake. This is a milk snake.
+
+(46:34 - 46:51)
+Now they're referencing mimicry here in the context of insects that produce distasteful chemicals, compounds like when the blue jay threw up. But this also could be considered a form of mimicry. It's not that the snake is producing distasteful compounds like a butterfly.
+
+(46:52 - 47:05)
+So they're doing the mimicry in the context of butterflies and they produce those toxic compounds. It's toxic, usually doesn't taste good. And so there's going to be two types of mimicry.
+
+(47:05 - 47:18)
+So this is the kind of mimicry seen in two different vertebrate reptiles or snakes. But when it comes to mimicry with those insects like the butterflies, there's two kinds. There's Batesian mimicry and Müllerian mimicry.
+
+(47:18 - 47:26)
+In the Batesian mimicry, I think I have the same information here. So we have the same information here. And here's the picture of the butterflies.
+
+(47:27 - 47:44)
+In the Batesian mimicry, the mimics look like the distasteful species. So this is the case here in the Batesian mimicry where one of the species, they look somewhat similar. They have a dark forewing and their hindwing has a bluish color to it, a similar shape.
+
+(47:45 - 48:13)
+One of these is a distasteful, toxic butterfly and the other one is not. And so the other one gets its protection from looking like one that doesn't taste good and one that has toxic compounds in it. And then there's Müllerian mimicry where both species are actually toxic and they just evolve on their own and they end up looking similar to each other.
+
+(48:14 - 48:29)
+And these happen to be of the same genus, so they're probably closely related. But the two species here, four species here look, two of them look alike and then the other two look alike. And that would be called Mullerian where they resemble each other and they're poisonous.
+
+(48:30 - 48:37)
+That's the difference. Batean, one is not poisonous, the other one is. Mullerian, both are poisonous and they look similar to each other.
+
+(48:38 - 49:12)
+So in that one sense, through their look, they're warning potential predators, we don't taste good. So in this section, we're going to look at species interactions or relationships among species. And your learning outcomes here are to explain the different forms of symbiosis, which means to live together, and to describe how coevolution occurs between mutualistic partners, and then explain how the occurrence of one ecological process may affect the outcome of another occurring at the same time.
+
+(49:13 - 49:35)
+So we're going to look first at symbiosis, and here's where two or more kinds of organisms interact in a more or less permanent relationships. And because of this interaction, there's potential for coevolution, just as there was with predator and prey we saw in the last section. Each species goes through an evolution that influences the other, so they evolve together.
+
+(49:36 - 50:09)
+And there's some really extreme cases of this, where if you look at a bee, not a bee, but an insect pollinates a flower, sometimes the flower evolves so specifically with an insect, there's only one kind of insect that can pollinate the flower, which kind of puts them at a dead end, because if the insect population crashes, then the flower is going to have a problem getting its flowers pollinated. But there's three kinds of symbiosis, symbiosis would be plural. Here there's commensalism, mutualism, and parasitism that we're going to consider here.
+
+(50:10 - 50:27)
+There's other relationships, but we're just going to consider these three common generalizations. For mutualism, it's mutual, both species benefit from the relationship. They coevolve, and an example of this coevolution would be flowering plants and insects, as I mentioned earlier.
+
+(50:28 - 50:45)
+There's another interesting case with ants and acacias. These are trees that are in the genus Acacia, would be the genus name. And there's many species within that Acacia.
+
+(50:45 - 51:21)
+We have one here we commonly call the Weisachia, it's I think Acacia smallii is the scientific name. But here this Acacia that has evolved with certain ants, I'm not saying that this is true of the Weisachia we have around here, but the plant evolves with a place for these ants to live in these hollow thorns. And then the ants sort of provide this protection against herbivory, so if a herbivore comes by and tries to browse and eat the leaves off of the tree, the ants immediately respond by stinging painfully.
+
+(51:21 - 51:42)
+And that protects the tree from further herbivory or predation by the herbivore. So here's a picture of the Acacia ant and the genus Pseudomyromex. So these are the ones that do this, and this is in Latin America.
+
+(51:42 - 52:06)
+So that would be in tropical America here. And then there are other ants that may live with these types of trees or Acacias, and the relationship is not necessarily mutualistic. If we go across the ocean to Kenya, there are species of ants that do live on Acacias, and one doesn't seem to provide a benefit, but rather harms the Acacia plant.
+
+(52:07 - 52:27)
+And so the species actually clips the Acacia branches, cuts around there, and then the branches fall off. And that prevents other ants from living on the tree, so it prevents a competition between the two ants. But clipping the branches basically sterilizes the tree because it's cutting off the branches for flowers.
+
+(52:28 - 52:53)
+The buds of flowers would normally grow, and so this is a harmful relationship and might be considered a parasitic rather than a mutualistic relationship. Speaking of parasitism, in parasitism the parasite benefits, and this comes at the expense of the other. You're probably familiar with external parasites or ectoparasites, especially now that we're getting into the warmer months.
+
+(52:54 - 53:15)
+Sometimes we have lots of rain and the hot weather, fleas and ticks become more common. So here I've just found a life cycle of a flea, a common dog flea, and eggs to larva, and then back on the dog again. And those would be called ectoparasites, ticks as well, living on the outside of the body.
+
+(53:15 - 53:26)
+And then there's endoparasites, and we've seen some of those in our laboratory studies and studies of protists and worms. They live within the body. There's a rather interesting one that you're going to see play in the video here.
+
+(53:27 - 53:55)
+It's a type of endoparasite relationship called a parasitoid. And for parasitoids, the host is going to have the parasite within its body, and the parasite larva literally eats the host alive from inside. It'll avoid vital organs and just be in there stealing nutrients and other stuff.
+
+(53:55 - 54:19)
+But when it bursts out of the body of the host, the host pays for it with its life. So it's perhaps somewhere between a parasite and a predator type of relationship because the host ends up paying for it with its life. So let's watch this parasitic wasp emerge from this fly.
+
+(54:19 - 54:28)
+That's a fly. A fly is fixing to die at this point once the adult emerges. So this was a larval wasp, and it comes out as an adult.
+
+(54:29 - 54:51)
+You can tell because it's going to have its wings and fly off. Well, they didn't show it fly, but once the insect gets its wings, it's an adult. So I think this type of relationship, it's called parasitoid, was maybe the inspiration for the movie series, the ones titled Aliens, which started back in 1979, I think, with a movie just titled Alien, singular.
+
+(54:52 - 55:09)
+It was the movie that started all those different alien movies. So wasps and flies actually are having this type of parasitoid relationships. There's wasps that specialize in parasitizing spiders, for example.
+
+(55:09 - 55:32)
+They're called spider hawk wasps, so that's interesting. And there are actually parasitic plants, and there's different shades of parasitism among plants. So some plants are parasitic on other plants, and this one here, that yellow-colored plant you can see on the ground cover there, is parasitizing other plants and grows its roots into the tissues of the host plant.
+
+(55:33 - 55:46)
+This daughter can't even make its own food by photosynthesis. Other kinds of parasites will steal minerals from the other plant by growing in it, like mistletoe. But the mistletoe actually still has its chloroplast and can still do photosynthesis.
+
+(55:47 - 56:06)
+So there are different levels of parasitism. Not all plants, but there is such a thing as parasitic plants, which is pretty bizarre when you first hear of it. And then there are some of the internal parasites that we have seen already through laboratory and lecture covering animals.
+
+(56:06 - 56:21)
+We went over to flatworms. Those are animals that are parasites. In most cases, there's free-living flatworms, the turbolarians, but remember the cestodes and the trematodes were internal parasites and very specialized for being in that way.
+
+(56:21 - 56:33)
+And we're going to call these endoparasites because they live in the host. And many of them are going to have extreme specialization because of the location where they live. The structure may be simple overall.
+
+(56:34 - 56:49)
+Remember that tapeworms don't even have a digestive system, like the life cycle we see over here of the beef and pork tapeworm. They're two different species, but they have a similar life cycle pattern. They become quite simple in just egg-making machines.
+
+(56:49 - 57:10)
+They live in an environment where there's nutrients dissolved, so they don't need their own digestive system or gastrovascular cavity. And this life cycle is somewhat complex for the tapeworm. You see here the definitive host is where the adult is, so that's a term you need to remember for your laboratory exam and for lecture.
+
+(57:11 - 57:24)
+The intermediate hosts are the ones where there's some larval stature. So here you can see that there is a beef tapeworm called Taenia as the genus, which is a representative you need to know for tapeworms. And there's Saginata and Solanum.
+
+(57:24 - 57:58)
+Saginata is the beef, and Solanum is the pork worm, and humans eat both. So if these intermediate hosts, the pig and the cow, have picked up the tapeworm by eating the eggs that were released, then the larval stage goes and ends up insisting in the flesh of these animals. And then if you eat it undercooked meat that has been infected with the cysts of these tapeworms, of larval tapeworms, you can eat them, ingest it, and then it gets into and attaches to the wall of your small intestine there.
+
+(57:58 - 58:14)
+And then those proglottids break off and put eggs back in the environment. And then there's this fancy one here, this Dicrocoelium dendriticum, which is a flatworm that's a trematode, so it's in the class Trematoda. The tapeworms are in the Cestoda.
+
+(58:16 - 58:32)
+So this is a trematode for the class Trematoda. And the trematodes are known for having complex life cycles. Again, in this case, the actual normal natural host are ungulates, or those are the ruminant animals like cows and deers.
+
+(58:33 - 58:50)
+They're the ones that walk on their toes, a pair of hooves. And deer and cows are the ones that have the multiple stomach type, and they eat vegetation. The interesting thing about this is that the larva, the cercarii, get into the intermediate host of an ant.
+
+(58:50 - 59:01)
+The ant picks up the cercarii from the environment that were released by the snail. So here's another snail host. This is a fluke, like the liver flukes we studied.
+
+(59:01 - 59:23)
+It's just in a different genus. But the larva, the cercarii, causes the behavior of the ant to change, and the ant climbs up a leaf blade and then just locks on with its mandibles, with its mouthparts, locks on there. And then a cow or a deer or something goes by and eats the animal and then gets infected with it, the normal host.
+
+(59:24 - 59:39)
+Now the human gets it. The larva finds its way to the bile duct, which is connecting the liver to the gallbladder. And the gallbladder produces bile, which helps digest fats associated with digestion.
+
+(59:40 - 59:57)
+But the adult fluke will reside there and then produce eggs that would be released into the environment to repeat the life cycle. So a key point here, again, complex life cycle for these particular flatworm parasites. And then there's commensalism.
+
+(59:57 - 1:00:15)
+In commensalism, here one species benefits, but no harm or any good is apparent that we are able to tell here. And a good example here is a type of plant called a Spanish moss. It's not a true moss because we studied mosses.
+
+(1:00:15 - 1:00:23)
+Remember they belong to the phylum Bryophyta. The Spanish moss is actually a flowering plant. So they're in the phylum Anthophyta.
+
+(1:00:25 - 1:00:43)
+And they have vascular tissue and so on. And they're called epiphytes because they live on top of or on the surface of some other structure, in this case of the plant. And they have those roots that are capable of picking up things they need from the air, including nitrogen.
+
+(1:00:44 - 1:01:09)
+And we have those around here. If you go down near the river and there's some old growth trees, which these kinds of habitats, unfortunately, are rare for our area because of the habitat loss we've experienced over the last 100, 120 years since agriculture came to the area here. Now, sometimes commensalism may not be what we thought it was.
+
+(1:01:09 - 1:01:29)
+This has always been a famous example in textbooks. The oxpeckers, they like to perch on top of these herbivorous type of mammals and pick off parasites like ticks and so on. However, these oxpeckers have also been observed picking at scabs and drinking blood from the mammal as well.
+
+(1:01:29 - 1:01:53)
+So that could be seen as harmful to the animal. So is it mutualistic? Is it commensal? Is it parasitic? If you ask me, this image with the red eyes makes these birds kind of look a little bit scary. I don't know if that's a problem with the coloring of the photo or if they really have red eyes.
+
+(1:01:53 - 1:02:17)
+I need to look that up. Now, the effects of interaction of these species overall, the ecological process do have these effects. So what can predation do to a community? Well, predation can reduce competition, and we should consider that for a little bit.
+
+(1:02:17 - 1:02:47)
+How could that occur? So first of all, the kinds of animals that a predator is going to eat depends on what the selection is. It's like a buffet, right? What do you have to eat out there? So what the predator is going to tend to eat, if they're not very specialized, is whatever is available there that's within the range of things they normally eat. So whatever the predator does is a matter of what the abundance is, the relative abundance of the prey items.
+
+(1:02:48 - 1:03:26)
+If there's more rats than there is rabbits, then we might shift our diet during that time. So thinking about what's available to eat, if there's a lot of one certain type of prey species, and it's the most abundant in that area where the community is, they would be probably superior at competing for resources when it comes to other potential prey items. So what is the predator going to end up doing if there's an overabundance of one kind of prey species or item? The predator is going to eat some of those, many of those, and that's going to reduce that competitor.
+
+(1:03:27 - 1:03:58)
+And what effect does that have? That allows, if you're able to take out a superior prey item that's very good at getting resources, the predator is going to bring down those numbers and allow other kinds of prey to live in that area as well. So the predation has an effect overall of allowing other species that might otherwise be out-competed by the superior competitor. It's going to allow these others to exist.
+
+(1:03:59 - 1:04:16)
+And there's an example here with starfish. Starfish like to eat shelled animals like clams and so on, and barnacles are sort of a shelled animal. Barnacles are arthropods, though, but there's a similar structure.
+
+(1:04:16 - 1:04:45)
+Starfish here can eat barnacles just the way they can eat clams, and barnacles without a predator are just going to totally cover an area, like you see in the picture on the right. But if you put a starfish in there, which are predators, boy, they have a lot of barnacles to eat, so they're going to eat those over other potential prey items. And what they do is they help reduce the number of barnacles, and that allows other kinds of animals to move into the area and exist.
+
+(1:04:45 - 1:05:17)
+Otherwise, without the starfish, then we just become one large barnacle mat, and there's not much species diversity there. So now the parasitism can have an effect on the competitors that are competing for the resource. So there was some studies done to highlight this situation that when parasites come into the picture here, they can change the dynamics that go on within those competitions that are occurring.
+
+(1:05:19 - 1:05:54)
+The case of an example here is that when you have a competition for resources between two species, when there is a parasite present, one species might be good at out-competing the other one, but then if a parasite comes in that affects these competitors, then you might see the other species now being able to do better. An example of this comes from beetles called flower beetles. They're in the genus called tribolium.
+
+(1:05:54 - 1:06:13)
+They didn't write tribolium, it's just T, but it stands for tribolium. There's tribolium castaneum and tribolium confusum. And when there's a parasite, and the parasite is in its larval stage of a tapeworm, and I found a life cycle of a tapeworm, I guess this is its scientific name here.
+
+(1:06:13 - 1:06:36)
+It's not written correctly because that should be a lowercase d. But this is an image of the scolex of the tapeworm, and this tapeworm is a rodent tapeworm. And so within the rodent's gut, the eggs are produced, just like with any tapeworm, they're released into the environment, and then they get picked up by these beetles. And then the beetles are going to have a larval stage within their hemocoel.
+
+(1:06:37 - 1:06:54)
+The hemocoel is the body cavity where the hemolymph occurs. And then the beetles end up getting eaten by a rodent because rodents will be opportunistic. It's a good protein meal. 
+
+Pick up an insect and eat it. And so they become infected again. So the intermediate host are these types of beetles.
+
+(1:06:54 - 1:07:38)
+And so it turns out that without the parasite, tribolium castaneum is dominant within that community, where as if the parasite is present within those beetles, then the other beetle becomes dominant, tribolium confusum. I'm not sure the mechanism of that. If there's a tendency for one species to pick up the egg more than the other one, or just that they both become infested with the larva of the tapeworms, then this species is better able to cope with that and then be better at competing for resources.
+
+(1:07:40 - 1:08:04)
+And then we see a case here, if we look at the graph on the right and the picture of kangaroo rat again, and in cases where they are studying ant colonies. And they introduced, they removed the kangaroo rat. And the studies were done in 1974, so you can exclude the kangaroo rat from an area there.
+
+(1:08:04 - 1:08:18)
+And they were counting the number of ant colonies, because ants live in colonies. And they removed rodents from an area. And in other areas they didn't remove the rodents.
+
+(1:08:18 - 1:08:37)
+And when they didn't remove the rodents, we see that overall the numbers of colonies stayed, if we just do some sort of a best fit model line, the number of colonies stayed relatively low. Now if they remove the rodents from an area, we saw that the ant colonies started out here about the same. And they started to increase.
+
+(1:08:39 - 1:08:51)
+And so the ant colonies increased. And then they suddenly came back down again. But overall the effect of removing those kangaroo rats was that it allowed a lot more ant colonies.
+
+(1:08:51 - 1:09:04)
+Now the rodents are not necessarily eating the ants. So what's going on here? It's an indirect effect. So the indirect effect here is the case here.
+
+(1:09:04 - 1:09:21)
+This rodent is going to be eating larger seeds. So the rodent has a negative effect on the population of plants that produce larger seeds. Those larger seeds, if present, are better at competing for space than smaller seed plants.
+
+(1:09:21 - 1:09:49)
+So the presence of the larger seed plant has a negative effect on the smaller seed plant. And so that's going to be an issue. So what happens here is that the kangaroo rat, by eating the larger seeds and being present here, is going to make more or allow space for the smaller seeds to grow.
+
+(1:09:50 - 1:10:02)
+And so with smaller seeds, the ants now have a preferred choice of food. And more of the smaller seeds available for them. So that benefits the ant that the rodent is eating the larger seeds.
+
+(1:10:02 - 1:10:17)
+And so what that does is this dotted line represents an indirect effect or an indirect positive benefit to the ant. Not directly, but indirectly by eating the large seeds. So this is an example of a more complex interaction.
+
+(1:10:19 - 1:10:43)
+And then there's the idea of keystone species. And a keystone species, they actually have a significant effect on the composition of the biological communities in an area. And so if you were to remove this keystone species, the composition in terms of the types of species you see there would change drastically.
+
+(1:10:43 - 1:11:01)
+And usually the change would be to one that's less diverse. So a lower species diversity without the keystone species. So these keystone species are responsible for promoting a great deal of species diversity, which is viewed as being a healthier situation for the environment.
+
+(1:11:01 - 1:11:12)
+A good example is what we just covered, those sea stars eating the barnacles. Without the sea stars, the barnacles overgrow everything and the species diversity goes down. They use the word species richness.
+
+(1:11:14 - 1:11:21)
+They're related, the two. Richness is how many species you have there. You have one species or two species.
+
+(1:11:22 - 1:11:36)
+Diversity includes the relative amounts of each one. Another example of a keystone species not listed here is the alligator. The alligators help keep shorelines clear and that provides space for other kinds of species to use, otherwise be grown over with vegetation.
+
+(1:11:37 - 1:11:50)
+And then there's beavers. Beavers are known for building habitats that would not exist otherwise. They put up a dam and block small streams and that prevents water from flowing down and that builds up some backwater area that's still.
+
+(1:11:50 - 1:12:12)
+And so that creates a marshy area behind the dam where you would get a whole other living space for a diverse community of other types of plants and animals. So here's an example of a beaver dam here and some of that water that's being held back there. And that makes this beaver a keystone species example.
+
+(1:12:14 - 1:12:52)
+So the last topic of this chapter is ecological succession, disturbance, and species richness, which I like to use the word diversity instead. So looking at the learning outcomes for this section, we're going to define what succession is and distinguish between primary and secondary succession and then describe how early colonizers may affect subsequent occurrences of other species. Species come into an area that's been disturbed, like weed, and then they change the area and then other species come in.
+
+(1:12:52 - 1:13:07)
+So this is a succession that we're talking about. And then the third one here is explain how the disturbance can either positively or negatively affect your species diversity or your species richness. So I'm looking at what succession is.
+
+(1:13:07 - 1:13:30)
+So let's say we start with the plant community and the animals follow this succession. So the communities are going to have a tendency to change from simple to more complex, and that's what succession is about. Now, there is a primary succession, and this occurs when you start with nothing.
+
+(1:13:30 - 1:13:51)
+So you start with bare rock, either bedrock or volcanic eruption. In other words, there was no soil there to start with. All of the terrestrial ecosystems or communities always start out more simple and then move to more complex.
+
+(1:13:51 - 1:14:11)
+So if we start with bare rock where it was lifeless, we're going to call that primary succession. So this could be on rocks or in open water, and organisms are going to gradually move in, and as they move in, they change the nature of the area there. They actually will do things like starting to create soil.
+
+(1:14:11 - 1:14:46)
+And so we see this is the case here. This is an area where, on the bottom picture, where it looks like there was a glacier. So the glaciers, as they retreat, when they were once large, tens to hundreds of feet deep of ice covering, say, North America, as they built up weight, they start to move along the continent, and they literally scrape out any soil that was there before, and then when they melt away, all that you have left is this bedrock here, and there's not much soil there.
+
+(1:14:46 - 1:14:59)
+So what's left there, there's no soil for plants to grow. So we've got to have some early colonizers here that can go in there and build soil. This process is going to take lots of time, and those early colonizers are things like lichens, which we studied.
+
+(1:14:59 - 1:15:23)
+Those lichens can grow anywhere. They grow on rocks, and there it is, symbiotic relationship between fungi and an algae or a cyanobacterium. And as they grow, they build biomass, they die, they decay, and they're adding now carbon and nitrogen to the rock that they broke down with their acids, and so this starts to build soil little by little.
+
+(1:15:24 - 1:15:40)
+And then new species start coming in, earlier species and then later species with bigger trees. But you can see what happens here in terms of measuring something that's important for plant growth is the nitrogen concentration. Plants need nitrogen.
+
+(1:15:40 - 1:16:03)
+When we talk about plant food, they make their own sugars, but they need nitrogen and phosphorus in order to build important compounds like DNA and proteins. So you can see here that over time, starting with the lichens over here, early, early at time zero, we start with bedrock. Little by little, the amount of nitrogen in the soil starts to increase.
+
+(1:16:03 - 1:16:25)
+And then as plants start to grow above ground, their leaves settle on the floor and on the ground and so on, so you start to see nitrogen building up on there as well. So overall, the physical composition is changing. And so we start with that primary succession with bedrock.
+
+(1:16:26 - 1:16:35)
+Then lichens, your early colonizers. Then you're going to have small plants, annual plants that complete their lifecycle in a year. Then grasses come in.
+
+(1:16:35 - 1:16:50)
+Then you start to have shrubs and trees like pine trees. They might not be tolerant of shade, so they grow up pretty tall. And then ultimately, you get hundreds of years down the road, you get these tall trees, broadleaf trees that are more tolerant of shade.
+
+(1:16:50 - 1:17:10)
+So they can grow underneath the shade of these other trees, but then as they get big enough, they change the physical nature and replace these other plants that were there before. So that's what's meant by succession. The series of changes where one group of a community of organisms comes and paves the way for another group to come in.
+
+(1:17:11 - 1:17:32)
+And then there's secondary succession. And here, the difference here for secondary succession is that for secondary, so sometimes we say that's second degree. In this case here, there was already soil, so that might be like if we were farming in the field and you're constantly plowing up the field.
+
+(1:17:32 - 1:17:40)
+And then all of a sudden, you stop farming the area. It's going to start to go through a succession. There was already soil there, and that's the key.
+
+(1:17:41 - 1:18:03)
+To secondary succession, there was already life there to begin with, some sort of plant community and soil. So this process will take less years because the built soil takes a long time, and then the community comes in. So secondary succession would take less time, but it's still going to take, on order, depending on what kind of plant communities you're talking about, on the order of about 100 years or so.
+
+(1:18:03 - 1:18:23)
+But you will see the stages are going to be quite similar. If we leave out the bare rock part, you're going to have your annual plants coming in in the first and second year, then grasses, then shrubs and pine-type trees, and then your broadleaf trees coming in. So you see that same series of successions without the bare rock.
+
+(1:18:25 - 1:18:47)
+Now, why does succession happen? This is a key point right here. So succession happens because species that are living at that present time, whether it's the first and second year or the fifth year or five to 100 years here, when those species are there, they're going to change that habitat and the resources that are available. For example, how much nitrogen is available there.
+
+(1:18:48 - 1:19:06)
+And that's going to favor new species to come into the area and cause that replacement. So why does succession happen? There are some dynamic concepts that are associated. What I mean by dynamic is that these are not static situations, but things will be changing.
+
+(1:19:06 - 1:19:19)
+And so the first one is establishment here. So when succession is going to occur, whether it's a primary or a secondary succession, you're going to have establishment. And here you have your early successional species.
+
+(1:19:19 - 1:19:44)
+We sometimes refer to these as pioneer species, like the pioneers that went out west in the early times when this nation was young. And so the characteristic of these pioneer species is they have R selection. Remember, there was R selected and K selected species in terms of their life history characteristics.
+
+(1:19:44 - 1:19:59)
+These are ones that complete their life cycle quickly, and they produce a lot of offspring. And that's characteristic of weeds and grasses and so on. Now, after they come in, then we go into a facilitation process here.
+
+(1:20:00 - 1:20:20)
+And those early successional species that have been established, the R selected ones, are going to lay the foundation for other species to come in. And so the R selected species then give way to K selected species, the larger species, the ones that take longer to complete their life cycles. Now we're talking about shrubs and trees.
+
+(1:20:21 - 1:20:48)
+And then inhibition here is another concept that occurs during this time. And here it is that the changes in the habitat caused by one species is going to, as new species come in, they're going to create changes that are going to inhibit or slow the growth and reproduction of the original species that were there. For example, if taller trees start coming in, they're going to start to shade out some of the smaller species.
+
+(1:20:49 - 1:21:24)
+And that's going to inhibit those pioneer species from growing. So when plants, when the plant structure changes, the plant community structure changes, that's going to cause a change in the animal communities too, because animals typically have certain habitats they're associated with because of evolutionary processes that have had these animals evolve to live in certain kinds of habitats. And so when the plant community goes through changes, the animal community will too.
+
+(1:21:24 - 1:21:39)
+So there'll be faunal changes, so the fauna goes through a change. And your animal community changes. So this one is highlighted with an example from the book of an island called Krakatoa Island.
+
+(1:21:40 - 1:21:54)
+And it is a volcanic eruption occurred there. And when a volcanic eruption occurs, it's going to leave a lot of ash or molten rock. And that's going to, there's not going to be any plant life.
+
+(1:21:54 - 1:22:08)
+So you're going to go through a succession. And if it's rock that's left behind, volcanic rock, you're going to go through a primary succession. And so as the plant life begins to change, you're going to start to see the animal life change in the animal communities.
+
+(1:22:09 - 1:22:21)
+And this occurs in synchrony. Plants begin to go through succession, and then the types of animals you see there. Now the changes that occur with animals can also in turn have some sort of a feedback influence or effect.
+
+(1:22:21 - 1:22:32)
+So there's an interplay between both the animal and the plant community. And how can that be? Well, the animals are eating the plants. They're pollinators for plants.
+
+(1:22:33 - 1:22:43)
+Animals spread seed for plants. So all of these things are occurring. And there's this interconnection between the two, the animal and the plant communities that influence each other.
+
+(1:22:44 - 1:22:55)
+There's a picture of that island after the eruption or during the eruption. And then what the island looked like some years after the eruption. You can see the vegetational changes there.
+
+(1:22:56 - 1:23:17)
+And it is quite likely that the animal life that is taking advantage of that plant structure, plant community there, is much different than when there was bare ground. So the changes that do occur within communities are constantly occurring. There's never a community that's static, a plant community.
+
+(1:23:17 - 1:23:30)
+And why do these plant communities go through changes? Well, because we can have seasonal changes that occur. We can have cycle changes that occur every 10 years. You might go through a 10-year drought, things like that.
+
+(1:23:30 - 1:23:49)
+So changes in climate, weather patterns, species, new species coming in, invasions that can cause, create problems or changes. And then disturbances that can occur. Going through an area or something as simple as a tall tree falling and knocking out an opening by crushing other trees in its path.
+
+(1:23:50 - 1:24:10)
+All of these things would be considered disturbances. And so it would be a better model to think about these dynamics or these changes that occur in communities in terms of a non-equilibrium model. If you're in equilibrium, then you're going to be in a certain balance.
+
+(1:24:10 - 1:24:28)
+But the communities, as they're observed, tend to always be in a constant state of not balance because of disturbances that are occurring here. So that's the idea behind a non-equilibrium model. It's going to emphasize the fact that change is always occurring in these plant communities rather than some stable, static situation.
+
+(1:24:28 - 1:25:20)
+So there is the idea of an intermediate disturbance hypothesis, which has gained more favor within the ecologist community, rather than what used to be that you made it to a climax community, which would suggest you're at a stable, ultimate plant community, which is not really supported by what the evidence shows. So here, thinking about an intermediate disturbance hypothesis, if we think about communities that experience moderate, so somewhere between not having any and having a whole lot of disturbance. So if you have a moderate or intermediate amount of disturbance, that community is going to have higher levels of species diversity.
+
+(1:25:21 - 1:25:46)
+Then a plant community that is constantly being severely disturbed, then you're going to have lower species diversity. Or one that's never disturbed at all, then you're going to have just some of those ultimately huge trees and not very much else around in the ground cover there. So the idea of the intermediate disturbance hypothesis would suggest that you would get better species diversity in the area.
+
+(1:25:48 - 1:26:17)
+And when you do get these moderate disturbances, you're going to have basically patches of habitat within an area that are at different stages of succession. And so you're going to have bunches of diversity within the overall area there. And this intermediate disturbance actually prevents plant community from ever getting to those final stages, which you see in some diagrams like the one I included, which is extra than what's in the book.
+
+(1:26:18 - 1:26:37)
+They would refer to those types as a climax or ultimate community, the climax plant community. And so, again, that's not so much a favored concept anymore. So the role of disturbance, you'd see a plant, trees fall in there in the forest.
+
+(1:26:37 - 1:27:01)
+And the role of disturbance seems that disturbance is more common rather than the exception. So actually finding plant communities there in this ultimate climax stage may not be something that we see, because even in mature forest, trees fall, fires happen, things like that. A flood comes in from time to time.
+
+(1:27:01 - 1:27:15)
+So understanding how disturbances affect these plant communities and these overall biological communities is an important thing of consideration to ecologists who study these phenomena.
