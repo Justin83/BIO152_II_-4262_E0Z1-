@@ -1,7 +1,7 @@
 {
   "repo": "Justin83/BIO152_II_-4262_E0Z1-",
   "pagesBase": "https://justin83.github.io/BIO152_II_-4262_E0Z1-",
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-27",
   "pages": [
     {
       "name": "Course Home",
@@ -402,6 +402,26 @@
       "data": "static",
       "status": "ready",
       "description": "HHMI BioInteractive film on species-area relationships, colonization, extinction, habitat fragmentation, and wildlife corridors."
+    }
+    ,{
+      "path": "pages/watch/ch55-serengeti-living-laboratory.html",
+      "name": "Watch: Serengeti — Nature’s Living Laboratory (Ch. 55)",
+      "version": "1.0",
+      "module": 7,
+      "category": "watch",
+      "data": "static",
+      "status": "ready",
+      "description": "Required HHMI film on keystone species, indirect community effects, population regulation, migration, fire, and community-wide change."
+    },
+    {
+      "path": "pages/watch/ch55-community-ecology-lecture.html",
+      "name": "Watch: Community Ecology Chapter 55 Review",
+      "version": "1.0",
+      "module": 7,
+      "category": "watch",
+      "data": "static",
+      "status": "ready",
+      "description": "Optional comprehensive Chapter 55 lecture with targeted viewing ranges, clickable timestamps, transcript, and scientific clarifications."
     }
   ]
 }
