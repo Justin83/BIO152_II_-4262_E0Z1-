@@ -1,0 +1,179 @@
+Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
+Cleaned timestamped transcript for BIO 152, Chapter 56
+Source: HHMI BioInteractive
+
+(0:11 - 0:37)
+From jungle to desert, from forest to plain, from mountaintops to the seashore, the earth is home to many habitats. And every habitat contains a community of plants and animals. Each community is populated by different species, and each species is present in different numbers.
+
+(0:39 - 1:45)
+So what determines how many species live in a given place, or how large each population can grow? The answers to such basic questions about how nature works eluded biologists for a long time, until on this rocky Pacific shore in 1963, young zoology professor Robert Paine pried a purple starfish off the rocks and threw it out into the bay. And so began one of the most important experiments in the history of ecology. So what brought Robert Paine to this rugged coast? And why was he hurling starfish? The answer takes us back a few years to a classroom at the University of Michigan.
+
+(1:45 - 1:54)
+It was a lovely day. The old zoology building at Ann Arbor had a courtyard. And in that courtyard, there was a tree which was beginning to bud out.
+
+(1:55 - 2:09)
+Professor Fred Smith asked his students a seemingly simple question. And he said, class, I want you to think about this. Why is that tree green? And someone said, chlorophyll.
+
+(2:10 - 2:27)
+Fred said, what keeps the leaves there? Although technically chlorophyll is what makes trees green, Fred Smith was asking a bigger question. He was thinking about food chains. You obviously had producers.
+
+(2:28 - 2:37)
+They are the energy suppliers to whatever lives off of them. And you have consumers on top of that. And we know them as herbivores.
+
+(2:38 - 2:54)
+The popular idea at the time was that the number of producers limits the number of herbivores. In turn, the number of herbivores limits the number of predators that feed on them. Every level was regulated by the amount of food from the bottom of the food chain going up.
+
+(2:55 - 3:13)
+But this view didn't explain why herbivore populations don't simply grow to the point where they eat all of the leaves on the tree. Professor Smith had discussed this conundrum with two colleagues, Nelson Hairston and Lawrence Slobodkin. They proposed a new idea.
+
+(3:13 - 3:27)
+The number of herbivores must be controlled not only from the bottom up, but also from the top down. The herbivores had the capacity of destroying the plant community. Trees could be defoliated.
+
+(3:27 - 3:41)
+And why weren't they defoliated? And the answer was because there weren't enough insects around to do that. And that was the role of predators. The world is green because predators keep herbivores in check.
+
+(3:41 - 3:58)
+This was a radical concept that became known as the Green World Hypothesis. Up until that time, no one thought predators had any role in regulating ecosystems. This class was the first public vetting of the Green World Hypothesis.
+
+(3:58 - 4:23)
+And one of Smith's students, Robert Paine, would be the one to put this idea to the test. A few years later, as a new professor at the University of Washington, Paine went looking for a system where he could study the role of predators. I discovered the Pacific Ocean.
+
+(4:24 - 4:39)
+And this magnificent array of organisms, which lives along its margins, there it was, spread out in front of me. It was nirvana. He began by identifying all the organisms.
+
+(4:40 - 4:49)
+And then he started mapping out who eats whom. There were carnivorous gastropods feeding on barnacles. There were sea urchins feeding on algae.
+
+(4:51 - 5:14)
+There was a lot of pattern. His observation showed that a species of large, purple, and orange starfish, called Pisaster ochraceus, was at the top of the food chain. Starfish may seem like unlikely predators, but speed time up a bit and you'll see deadly hunters.
+
+(5:18 - 5:26)
+If a starfish is feeding, you turn over and you see what the starfish is eating. They're eating mussels. They're eating a lot of other things as well, but they're eating mussels.
+
+(5:28 - 5:49)
+So Paine asked, what happens when you remove the predator starfish from a single outcrop? You have to surprise them because a starfish clamps down. It takes a strong wrist and a pry bar. I would then scale them as far as I could.
+
+(5:49 - 6:08)
+And in those days, I could throw a starfish 60 or 70 feet out into deeper water. There were always starfish marching in. So during the summer months, I would drive the 350 mile round trip, hit the area at low tide, do my removal, take other data, and then return to Seattle.
+
+(6:10 - 6:32)
+The ecosystem started to change rapidly. Within a year and a half, I knew that I hit ecological gold. Although the top predator had been removed, surprisingly, the number of species on the rock actually decreased from 15 to 8. After three years, it went down to seven.
+
+(6:33 - 6:56)
+But then by another seven years, it simplified itself to it was basically a monoculture. I changed the nature of the system. As the experiment continued, the line of mussels advanced down the rock face, monopolizing almost all of the available space and pushing all other species out.
+
+(6:57 - 7:16)
+Paine had discovered that one predator could regulate the composition of an entire community. He coined a term to describe the power a single species can exert on an ecosystem. I know very little about architecture.
+
+(7:17 - 7:32)
+If you build an arch, you have to get the two sides of it to put pressure against one another. And therefore, at the apex of the arch, you have a keystone. You pull the keystone out, and the structure collapses.
+
+(7:38 - 7:57)
+Many predators, like Pisaster starfish, turn out to be keystone species. These keystone species have a huge impact, which extends well beyond to the species they primarily prey on. Most species do not have large impacts.
+
+(7:58 - 8:17)
+In other experiments, Paine had removed various species, but that had little or no effect on the ecosystem as a whole. All animals are equal, but some animals are more equal than others. And that expresses the fact that all species don't have the same impact on the system they're in.
+
+(8:18 - 8:39)
+It takes experiments to tease that out, and that's often not easily done. Paine's pioneering experiments and the concept of keystone species sent ripples through the field of ecology and turned thinking about the regulation of communities upside down. You remove the predator, the system simplifies itself.
+
+(8:40 - 8:57)
+This is an ecological concept which is general and global. As Paine continued his studies a little further from shore, he noticed another striking pattern. There were a lot of tide pools, and some of the tide pools were dominated by urchins.
+
+(8:57 - 9:06)
+Some weren't. In the tide pools with lots of urchins, there was much less kelp. Paine suspected the urchins were keeping the kelp from growing.
+
+(9:07 - 9:21)
+And I said to myself, that's my next round of experiments. Paine removed all the urchins by hand from some pools and left nearby pools untouched. Again, the results were dramatic.
+
+(9:22 - 9:36)
+In the pools where he removed urchins, the kelp started growing almost immediately. Urchins control the kelp. Therefore, this is a total violation of the Green World Hypothesis.
+
+(9:38 - 9:57)
+The urchins in Paine's pools were eating all of the kelp. So why was nothing regulating the urchin populations? The answer would come from a fortuitous meeting on a remote island in Alaska's Aleutian Island chain. There, Paine would cross paths with another scientist.
+
+(9:59 - 10:13)
+In 1971, James Estes was an ambitious young graduate student. At the time that Bob and I met, I was just beginning to try to think my way through what it was I was going to do. We met in a bar after a movie.
+
+(10:14 - 10:45)
+I was interested in sea urchins. And Jim, I think, was doing a study on sea otter physiology. I was explaining to him what it was that I was thinking of trying to do, which was somehow understand how an ecosystem like the one at Amchitka Island could support such a high abundance of predators and do that through an understanding of production and the efficiency of energy and material flow upward through the food web.
+
+(10:47 - 11:16)
+And Bob's explicit or implicit reaction to that was, that's just not very interesting. And have you ever thought about what these animals might be doing to the system? Paine realized if Estes focused on what sea otters were doing from the top down, rather than the kelp from the bottom up, he might discover the role otters play in the organization of nature. And so I thought, why not? Let's go out and have a look.
+
+(11:17 - 11:32)
+Paine was suggesting an approach similar to his starfish throwing experiment. Remove otters from the ecosystem and test the impact that had on other species. And I don't think at that time that Bob had any perception of how that might be done.
+
+(11:32 - 11:50)
+But I did, because I knew quite a bit about the history of the otters. They were abundant across the North Pacific, and then the Pacific Maritime fur trade began in 1741. And over the subsequent 150 years, otters were hunted to the brink of extinction.
+
+(11:52 - 12:14)
+In 1911 or 1912, further take was prohibited, and a few of those colonies survived and served as the seed for the recovery of the species. But the sea otter recovery was spotty. They had completely recovered from the fur trade at a number of island systems across the Aleutian Archipelago, of which Amchitka is a part.
+
+(12:15 - 12:27)
+There were other island systems where they had not yet recovered. The experiment was simple. Compare ecosystems with otters to those without.
+
+(12:28 - 12:38)
+He began with his home island of Amchitka. I knew a lot about what Amchitka looked like. I knew that sea urchins were common but very small.
+
+(12:39 - 12:58)
+The next step was to arrange for a dive at nearby Shemya Island, a location with no otters. The most dramatic moment of learning in my life happened in less than a second. And that was sticking my head in the water at Shemya Island.
+
+(13:00 - 13:23)
+It was just green with urchins and no kelp. And it all sort of fell into place in just an instant. The loss of otters from that system had completely reorganized that system, from which kelps had probably been very abundant before the loss of otters to one in which the sea urchins now had become abundant in the absence of the otters and had eaten all the kelps.
+
+(13:26 - 13:39)
+It was a striking demonstration of the green world hypothesis. Sea otters, the predators, were controlling the urchins that fed on the kelp. Remove the sea otters and the kelp forests disappear.
+
+(13:40 - 14:04)
+Paine called these cascading effects of one species downward upon others trophic cascades. A trophic cascade is when you have an apex predator controlling the distribution of resources and they lead to these cascades of indirect effects, lots and lots of indirect effects. You have fewer sea otters, you have more sea urchins, you have fewer kelp.
+
+(14:07 - 14:21)
+I expect every coastal species is probably impacted in one way or another by the presence or absence of kelp. Kelp forest fishes depend a lot on kelp. There are birds that feed in the kelp forest, there are invertebrates that feed in the kelp forest.
+
+(14:21 - 14:35)
+Virtually everything that lives in the coastal zone depends upon that system in some way. So sea otters are another keystone species. They regulate the structure of this coastal marine community.
+
+(14:37 - 14:48)
+The results are unambiguous. Sea otters drive this system from the top down. The message is clear and it's been enormously important in how ecologists tend to view the world.
+
+(14:50 - 15:05)
+Estes returned regularly to Alaska to study otters. Some 20 years later, he noticed something strange was happening. We were capturing otters, having a devil of a time catching enough, and that was peculiar because I'd never had trouble catching otters.
+
+(15:06 - 15:20)
+Otter populations seemed to be declining. He tried to think of every possible explanation. And we essentially lined up all of the hypotheses that we could think of that could have been causing this population decline.
+
+(15:20 - 15:26)
+He ruled out starvation. He ruled out disease. And then a third hypothesis emerged.
+
+(15:27 - 15:44)
+Tim Tinker, who was a technician, called me one day in the winter and said, you know, I'm starting to wonder if it might be killer whales. And I said, you're crazy, you know, I mean, this just couldn't happen. They don't eat otters. 
+
+And he said, yes, they do. I've seen them eat a couple. But how could he test it? Once again, nature provided an ideal site.
+
+(15:45 - 15:55)
+We went into a place called Clam Lagoon. It provided us a site that orcas could not get to. We had no problem catching about 30 animals in two or three days.
+
+(15:56 - 16:20)
+And the fact that that little population did not decline when everything else did that orcas had access to helped me become convinced that it was a viable hypothesis. Why were the orcas now eating otters? Orcas generally eat whales, not otters. There were a lot of whales around after World War II.
+
+(16:21 - 16:39)
+After World War II, the Japanese and the Russians started reducing those whales. And by the late 1960s, they had been depleted by 90 percent. And the stripping of all these big whales out of the system shocked these killer whales and forced them to broaden their diet and start feeding on these other species.
+
+(16:40 - 17:17)
+What had happened is that we had taken this three-level trophic cascade and the orcas had added a fourth trophic level and it made that system behave just like theory predicted. With the orcas eating otters, urchin populations increased and kelp disappeared. To me, the amazing part of that was the notion that something like whaling that started in the middle of the 20th century way out in the oceanic realm of the North Pacific could affect something like urchins and kelp in the coastal ecosystem.
+
+(17:18 - 17:26)
+It was mind-boggling to even conceive of something. It was almost like science fiction. To Robert Paine, this was a satisfying confirmation.
+
+(17:28 - 18:06)
+And it provided an example of how the concept of a trophic cascade functions in nature and it's Jim's work in the Aleutians which, in fact, sold the case. As ecologists explored other habitats with new eyes, they discovered keystone species and trophic cascades in many places. And just as with otters, the removal of predators, such as wolves, sharks, and lions, has had profound effects on the number and variety of other species and on ecosystems as a whole.
+
+(18:08 - 18:32)
+These fundamental insights have changed the way we look at the world and they've given ecologists and conservationists a new set of tools. It has turned us from a fundamental view of nature that was bottom-up. More than any other single ecologist, he was the one that transitioned our thinking to the importance of top-down forcing.
+
+(18:33 - 18:41)
+Thank you. That was the truth. But from Paine's vantage point, humans still have much to learn.
+
+(18:41 - 18:52)
+To ignore the fact that there are top-down effects is to invite mistakes. One ignores at one's own risk what role apex predators play.
